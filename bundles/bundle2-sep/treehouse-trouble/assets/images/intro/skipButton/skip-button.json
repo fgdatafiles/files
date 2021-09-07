@@ -1,0 +1,44 @@
+{"frames": {
+
+"skip-default.png":
+{
+	"frame": {"x":2,"y":2,"w":171,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":82},
+	"sourceSize": {"w":171,"h":82}
+},
+"skip-disabled.png":
+{
+	"frame": {"x":177,"y":2,"w":171,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":82},
+	"sourceSize": {"w":171,"h":82}
+},
+"skip-hover.png":
+{
+	"frame": {"x":352,"y":2,"w":171,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":82},
+	"sourceSize": {"w":171,"h":82}
+},
+"skip-pressed.png":
+{
+	"frame": {"x":527,"y":2,"w":171,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":82},
+	"sourceSize": {"w":171,"h":82}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "skip-button.png",
+	"format": "RGBA8888",
+	"size": {"w":700,"h":86},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:db57e63a2f528fc8827d562ca45666c6:eda3da417e2eb0c08494045fbf3caeed:0e05aa89954ea1eae81b7d17e25ef255$"
+}
+}

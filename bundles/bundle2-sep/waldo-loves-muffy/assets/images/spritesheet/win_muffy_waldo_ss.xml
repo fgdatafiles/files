@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:85ab38e76913d2aa654b4f6011d2c0f3:8e079f9968b51155e1c4bbec5bb5aa67:0eef58befe4ad098e7b5ea728c687745$ -->
+<TextureAtlas imagePath="Win_Muffy_Waldo_SS.png">
+    <SubTexture name="Win_Muffy_Waldo_01" x="1" y="1" width="374" height="364" frameX="0" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_02" x="1" y="1" width="374" height="364" frameX="0" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_03" x="294" y="366" width="336" height="364" frameX="0" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_04" x="294" y="366" width="336" height="364" frameX="0" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_05" x="376" y="1" width="310" height="364" frameX="-1" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_06" x="376" y="1" width="310" height="364" frameX="-1" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_07" x="631" y="366" width="290" height="364" frameX="0" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_08" x="687" y="1" width="290" height="364" frameX="0" frameY="-7" frameWidth="376" frameHeight="374"/>
+    <SubTexture name="Win_Muffy_Waldo_09" x="1" y="366" width="292" height="374" frameX="0" frameY="0" frameWidth="376" frameHeight="374"/>
+</TextureAtlas>

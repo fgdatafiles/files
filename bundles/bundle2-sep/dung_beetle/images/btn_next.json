@@ -1,0 +1,39 @@
+{"frames": {
+
+"next level button0001.png":
+{
+	"frame": {"x":0,"y":0,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"next level button0002.png":
+{
+	"frame": {"x":0,"y":38,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"next level button0003.png":
+{
+	"frame": {"x":0,"y":76,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_next.png",
+	"format": "RGBA8888",
+	"size": {"w":178,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:11572bad356e21e8e3cb583af928e09e:0575fe52147874ff89959447806103b2:cb6842cb2a6bf1ad57217984de751b95$"
+}
+}

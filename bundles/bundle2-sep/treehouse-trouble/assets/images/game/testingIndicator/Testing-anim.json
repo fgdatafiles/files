@@ -1,0 +1,20 @@
+{
+    "fps": 2,
+    "labels": {
+        "default": 0,
+        "default_loop": 3
+    },
+    "frames": [
+        {
+            "name": "Testing#",
+            "min": 1,
+            "max": 3,
+            "digits": 1
+        }
+    ],
+    "origin": {
+        "x": 0,
+        "y": 0
+    },
+    "scale": 1
+}

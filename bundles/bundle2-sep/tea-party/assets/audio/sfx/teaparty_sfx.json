@@ -1,0 +1,66 @@
+{
+  "manifest": [
+    {
+      "src": "assets/audio/sfx/teaparty_sfx.mp3",
+      "data": {
+        "audioSprite": [
+          {
+            "id": "berry_deal",
+            "startTime": 0,
+            "duration": 310.90702947845807
+          },
+          {
+            "id": "cookie_deal",
+            "startTime": 2000,
+            "duration": 344.3764172335602
+          },
+          {
+            "id": "Cup_place",
+            "startTime": 4000,
+            "duration": 159.93197278911532
+          },
+          {
+            "id": "game_title",
+            "startTime": 6000,
+            "duration": 900.0000000000003
+          },
+          {
+            "id": "Player_apple",
+            "startTime": 8000,
+            "duration": 451.3605442176871
+          },
+          {
+            "id": "sfx_tea_party_apple_bite_01",
+            "startTime": 10000,
+            "duration": 340.3854875283443
+          },
+          {
+            "id": "sfx_tea_party_apple_bite_03",
+            "startTime": 12000,
+            "duration": 314.76190476190527
+          },
+          {
+            "id": "Snack_Swap",
+            "startTime": 14000,
+            "duration": 356.96145124716594
+          },
+          {
+            "id": "tablecloth_setup",
+            "startTime": 16000,
+            "duration": 209.50113378684776
+          },
+          {
+            "id": "Teaset_Swap",
+            "startTime": 18000,
+            "duration": 244.8752834467136
+          },
+          {
+            "id": "tea_refill",
+            "startTime": 20000,
+            "duration": 1971.9954648526077
+          }
+        ]
+      }
+    }
+  ]
+}

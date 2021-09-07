@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "SpinnerGameIntroSprite.png"
+],
+
+"frames": [
+    [1, 1, 960, 500, 0, 0, 0],
+    [963, 1, 204, 119, 0, 0, 0],
+    [963, 122, 204, 119, 0, 0, 0]
+],
+
+"animations": {
+    "spinner_introBG00": [0],
+    "playBtn": [1],
+    "playBtnDown": [2]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:2e41e8fbbd66108d6fbd3ee16421da48:49447e6c03e5b7d827f758268881b86b:5a4043d86a9d37ed3bdfad760b8df15e$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

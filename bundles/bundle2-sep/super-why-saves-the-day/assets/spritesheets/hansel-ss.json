@@ -1,0 +1,48 @@
+{
+
+"images": [
+    "assets/spritesheets/hansel-ss.png"
+],
+
+"frames": [
+    [1, 1, 1431, 269, 0, 0, 0],
+    [1434, 1, 87, 157, 0, 0, 0],
+    [1, 272, 1428, 238, 0, 0, 0],
+    [1, 512, 471, 278, 0, 0, 0],
+    [1, 792, 262, 204, 0, -22, 0],
+    [265, 792, 381, 185, 0, 0, 0],
+    [474, 512, 347, 266, 0, 0, 0],
+    [648, 780, 284, 212, 0, 0, 0],
+    [823, 512, 378, 258, 0, 0, 0],
+    [934, 772, 236, 206, 0, 0, 0],
+    [1203, 512, 307, 154, 0, 0, -20],
+    [1172, 772, 216, 125, 0, 0, 0],
+    [1390, 668, 186, 122, 0, 0, 0],
+    [1203, 668, 185, 98, 0, 0, 0],
+    [1390, 792, 184, 112, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "mg_trees3": [1],
+    "bg_ground": [2],
+    "mg_hill1": [3],
+    "characterEnd": [4],
+    "mg_trees4": [5],
+    "mg_hill2": [6],
+    "mg_hill3": [7],
+    "mg_trees1": [8],
+    "mg_trees2": [9],
+    "characterStart": [10],
+    "bg_cloud2": [11],
+    "bg_cloud4": [12],
+    "bg_cloud3": [13],
+    "bg_cloud1": [14]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:214d82c38d88bbcdf32f3e8b9609bba0:c195c2548534051235ce34ef611d6382:bc3c42785aed830ac902ef4aa9e5abf5$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

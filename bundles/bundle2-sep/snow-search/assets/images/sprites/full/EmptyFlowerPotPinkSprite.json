@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn260000":
+{
+	"frame": {"x":0,"y":0,"w":52,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":45},
+	"sourceSize": {"w":52,"h":45}
+},
+"sn260001":
+{
+	"frame": {"x":53,"y":0,"w":52,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":52,"h":45},
+	"sourceSize": {"w":52,"h":45}
+},
+"sn260002":
+{
+	"frame": {"x":53,"y":34,"w":52,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":52,"h":45},
+	"sourceSize": {"w":52,"h":45}
+},
+"sn260003":
+{
+	"frame": {"x":0,"y":46,"w":27,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":13,"w":52,"h":45},
+	"sourceSize": {"w":52,"h":45}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "EmptyFlowerPotPinkSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

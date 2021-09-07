@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:eb382420ec0397bea018ad9ee7dc0e38:b94a2c8a900881cc3821be1a6a151416:813fb015f6abf595ed4a13030829ff0b$ -->
+<TextureAtlas imagePath="menu_screen_items.png">
+    <SubTexture name="menu_item_01" x="210" y="1524" width="210" height="254"/>
+    <SubTexture name="menu_item_10" x="210" y="1270" width="210" height="254"/>
+    <SubTexture name="menu_item_11" x="630" y="1016" width="210" height="254"/>
+    <SubTexture name="menu_item_12" x="420" y="1016" width="210" height="254"/>
+    <SubTexture name="menu_item_13" x="210" y="1016" width="210" height="254"/>
+    <SubTexture name="menu_item_14" x="0" y="1778" width="210" height="254"/>
+    <SubTexture name="menu_item_15" x="0" y="1524" width="210" height="254"/>
+    <SubTexture name="menu_item_16" x="0" y="1270" width="210" height="254"/>
+    <SubTexture name="menu_item_17" x="0" y="1016" width="210" height="254"/>
+    <SubTexture name="menu_item_18" x="630" y="762" width="210" height="254"/>
+    <SubTexture name="menu_item_19" x="420" y="762" width="210" height="254"/>
+    <SubTexture name="menu_item_02" x="210" y="762" width="210" height="254"/>
+    <SubTexture name="menu_item_20" x="0" y="762" width="210" height="254"/>
+    <SubTexture name="menu_item_21" x="630" y="508" width="210" height="254"/>
+    <SubTexture name="menu_item_22" x="420" y="508" width="210" height="254"/>
+    <SubTexture name="menu_item_23" x="210" y="508" width="210" height="254"/>
+    <SubTexture name="menu_item_24" x="0" y="508" width="210" height="254"/>
+    <SubTexture name="menu_item_25" x="630" y="254" width="210" height="254"/>
+    <SubTexture name="menu_item_03" x="420" y="254" width="210" height="254"/>
+    <SubTexture name="menu_item_04" x="210" y="254" width="210" height="254"/>
+    <SubTexture name="menu_item_05" x="0" y="254" width="210" height="254"/>
+    <SubTexture name="menu_item_06" x="630" y="0" width="210" height="254"/>
+    <SubTexture name="menu_item_07" x="420" y="0" width="210" height="254"/>
+    <SubTexture name="menu_item_08" x="210" y="0" width="210" height="254"/>
+    <SubTexture name="menu_item_09" x="0" y="0" width="210" height="254"/>
+</TextureAtlas>

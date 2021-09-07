@@ -1,0 +1,50 @@
+{
+
+"images": [
+    "assets/spritesheets/red-ss.png"
+],
+
+"frames": [
+    [1, 1, 1427, 269, 0, 0, 0],
+    [1430, 1, 544, 237, 0, 0, 0],
+    [1, 272, 1428, 265, 0, 0, 0],
+    [1, 539, 178, 154, 0, 0, 0],
+    [181, 539, 267, 148, 0, 0, 0],
+    [450, 539, 146, 123, 0, 0, 0],
+    [598, 539, 192, 116, 0, 0, 0],
+    [792, 539, 195, 111, 0, 0, 0],
+    [989, 539, 172, 101, 0, 0, 0],
+    [989, 642, 85, 51, 0, 0, 0],
+    [1163, 539, 134, 84, 0, 0, 0],
+    [1431, 240, 242, 239, 0, -111, -11],
+    [1431, 481, 278, 171, 0, 0, 0],
+    [1675, 240, 154, 227, 0, -81, -9],
+    [1831, 240, 205, 167, 0, 0, 0],
+    [1711, 469, 316, 213, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_house": [1],
+    "bg_ground": [2],
+    "bg_sun": [3],
+    "mg_flowers": [4],
+    "mg_hill": [5],
+    "bg_cloud2": [6],
+    "fg_bush1": [7],
+    "bg_cloud1": [8],
+    "mg_rock": [9],
+    "fg_bush2": [10],
+    "characterStart": [11],
+    "bg_trees1": [12],
+    "characterEnd": [13],
+    "bg_trees2": [14],
+    "mg_trees": [15]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:e487831dd19a392172e852bb3b74ce11:7250d61fd68c9cb1645a634de020a6a0:a27693aa9b5281b8f108259bef1721c1$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

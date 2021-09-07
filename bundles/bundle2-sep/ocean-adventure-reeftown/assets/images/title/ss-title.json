@@ -1,0 +1,44 @@
+{
+
+"images": [
+    "assets/images/title/ss-title.png"
+],
+
+"frames": [
+    [1, 1, 769, 285, 0, -315, -204],
+    [772, 1, 241, 249, 0, -268, -418],
+    [772, 252, 229, 188, 0, 0, 0],
+    [1, 288, 742, 212, 0, -342, -283],
+    [745, 442, 253, 190, 0, -911, -118],
+    [1, 502, 662, 82, 0, 0, 0],
+    [1, 634, 107, 277, 0, -340, -101],
+    [1, 913, 102, 105, 0, 0, 0],
+    [105, 913, 102, 104, 0, 0, 0],
+    [110, 586, 624, 111, 0, -388, -375],
+    [110, 699, 176, 177, 0, 0, 0],
+    [209, 878, 100, 104, 0, 0, 0],
+    [311, 699, 348, 255, 0, -853, -466]
+],
+
+"animations": {
+    "SoundPopup": { "frames": [0] },
+    "Char-Splash": { "frames": [1] },
+    "Logo": { "frames": [2] },
+    "QuitPopup": { "frames": [3] },
+    "Char-Dunk": { "frames": [4] },
+    "TextOcean": { "frames": [5] },
+    "Char-Ripple": { "frames": [6] },
+    "SoundInfoBtn": { "frames": [7] },
+    "ConfirmBtn": { "frames": [8] },
+    "TextExplorer": { "frames": [9] },
+    "PlayBtn": { "frames": [10] },
+    "XBtn": { "frames": [11] },
+    "Char-Bubbles": { "frames": [12] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:115238c6a7152f2df31e2491d493bb7b:c514d931304ff6aae90a2b0fc22a8c03:562f10ad770d3f9f5192af59f2e30344$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

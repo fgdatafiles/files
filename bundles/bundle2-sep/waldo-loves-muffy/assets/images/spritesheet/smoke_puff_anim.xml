@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:88bb85e05b673982a95a5a1e90f7cf42:eb2df2ace9f378cda1b75b4100a20c80:b3992e53e2e4655c89487a3da877a8c2$ -->
+<TextureAtlas imagePath="smoke_puff_anim.png">
+    <SubTexture name="smoke_puff_00" x="1" y="238" width="76" height="78"/>
+    <SubTexture name="smoke_puff_01" x="155" y="159" width="76" height="78"/>
+    <SubTexture name="smoke_puff_02" x="78" y="159" width="76" height="78"/>
+    <SubTexture name="smoke_puff_03" x="1" y="159" width="76" height="78"/>
+    <SubTexture name="smoke_puff_04" x="155" y="80" width="76" height="78"/>
+    <SubTexture name="smoke_puff_05" x="78" y="80" width="76" height="78"/>
+    <SubTexture name="smoke_puff_06" x="1" y="80" width="76" height="78"/>
+    <SubTexture name="smoke_puff_07" x="155" y="1" width="76" height="78"/>
+    <SubTexture name="smoke_puff_08" x="78" y="1" width="76" height="78"/>
+    <SubTexture name="smoke_puff_09" x="1" y="1" width="76" height="78"/>
+</TextureAtlas>

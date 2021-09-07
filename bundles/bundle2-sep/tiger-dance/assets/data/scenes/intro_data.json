@@ -1,0 +1,121 @@
+{
+  "manifest": [
+    {
+      "id": "background",
+      "src": "assets/images/FarBackground.jpg",
+      "type": "image"
+    },
+    {
+      "id": "foreground",
+      "src": "assets/images/FarForeground.png",
+      "type": "image"
+    },
+    {
+      "id": "song-intro",
+      "src": "assets/audio/DTN_ClosingTheme_Instrumental_Mono.mp3",
+      "type": "sound"
+    }
+  ],
+  "characters": [
+    "O",
+    "Chrissie",
+    "Wednesday",
+    "Katerina",
+    "Jodi",
+    "Elaina",
+    "Daniel"
+  ],
+  "song": "song-intro",
+  "autopick": 35000,
+  "hintWait": [ 10000, 15000 ],
+  "anims": {
+    "idle": "idle",
+    "intro": "intro",
+    "picked": "picked",
+    "notPicked": "notPicked",
+    "hint": "hint"
+  },
+  "positioning": {
+    "characters": {
+      "Elaina": {
+        "scale": 0.56,
+        "x": {
+          "min": 0.10,
+          "max": 0.16
+        },
+        "y": {
+          "min": 0.75,
+          "max": 0.75
+        }
+      },
+      "Jodi": {
+        "scale": 0.56,
+        "x": {
+          "min": 0.90,
+          "max": 0.84
+
+        },
+        "y": {
+          "min": 0.75,
+          "max": 0.75
+
+        }
+      },
+      "Chrissie": {
+        "scale": 0.45,
+        "x": {
+          "min": 0.77,
+          "max": 0.73
+        },
+        "y": {
+          "min": 0.5,
+          "max": 0.5
+        }
+      },
+      "O": {
+        "scale": 0.45,
+        "x": {
+          "min": 0.23,
+          "max": 0.27
+        },
+        "y": {
+          "min": 0.5,
+          "max": 0.5
+        }
+      },
+      "Daniel": {
+        "scale": 0.59,
+        "x": {
+          "min": 0.5,
+          "max": 0.5
+        },
+        "y": {
+          "min": 0.8,
+          "max": 0.8
+        }
+      },
+      "Wednesday": {
+        "scale": 0.50,
+        "x": {
+          "min": 0.63,
+          "max": 0.63
+        },
+        "y": {
+          "min": 0.67,
+          "max": 0.67
+        }
+      },
+      "Katerina": {
+        "scale": 0.50,
+        "x": {
+          "min": 0.37,
+          "max": 0.37
+        },
+        "y": {
+          "min": 0.67,
+          "max": 0.67
+        }
+      }
+    }
+  }
+}

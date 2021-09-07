@@ -1,0 +1,26 @@
+{
+
+"images": [
+    "assets/spritesheets/loader-ss.png"
+],
+
+"frames": [
+    [1, 1, 150, 186, 0, -1, 0],
+    [1, 189, 171, 25, 0, -1, -1],
+    [1, 216, 75, 11, 0, -1, -1],
+    [153, 1, 12, 21, 0, -1, 0]
+],
+
+"animations": {
+    "loading_bar_image": [0],
+    "loading_frame": [1],
+    "txt_loading": [2],
+    "loading_bar_end": [3]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:1a42816ac860feb5a0d7f79ca4012110:369a22d995d8af5d69b8133109a6fabd:bbbb0fbace17d2e0d3488629dcaac3c2$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

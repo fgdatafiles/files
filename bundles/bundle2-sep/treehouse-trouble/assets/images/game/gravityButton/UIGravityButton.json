@@ -1,0 +1,477 @@
+{
+"skeleton": { "hash": "wQR1rjiq82XZZWmQ0ei32P86LxY", "spine": "3.8.11-beta", "x": -86.5, "y": -1, "width": 173, "height": 127 },
+"bones": [
+	{ "name": "RootBone" },
+	{ "name": "GravityBone", "parent": "RootBone", "length": 117.66, "rotation": 95, "x": -2.5, "y": 5 },
+	{ "name": "RevertBone", "parent": "RootBone", "x": -9, "y": 47 }
+],
+"slots": [
+	{ "name": "BackgroundAtt", "bone": "RootBone", "attachment": "BackgroundAtt" },
+	{ "name": "RevertAtt", "bone": "RevertBone" },
+	{ "name": "RevertLightAtt", "bone": "RevertBone" },
+	{ "name": "GravityAtt", "bone": "GravityBone", "attachment": "GravityAtt" },
+	{ "name": "GravityLightAtt", "bone": "GravityBone" }
+],
+"skins": {
+	"default": {
+		"BackgroundAtt": {
+			"BackgroundAtt": { "y": 41, "width": 173, "height": 84 },
+			"BackgroundDisabledAtt": { "y": 41, "width": 173, "height": 84 }
+		},
+		"GravityAtt": {
+			"GravityAtt": { "x": 59.93, "y": 2.29, "rotation": -95, "width": 91, "height": 123 },
+			"GravityDisabledAtt": { "x": 59.93, "y": 2.29, "rotation": -95, "width": 91, "height": 123 }
+		},
+		"GravityLightAtt": {
+			"GravityLightAtt": { "x": 59.93, "y": 2.29, "rotation": -95, "width": 91, "height": 123 }
+		},
+		"RevertAtt": {
+			"RevertAtt": { "x": 4.5, "y": 18, "width": 102, "height": 126 },
+			"RevertDisabledAtt": { "x": 4.5, "y": 18, "width": 102, "height": 126 }
+		},
+		"RevertLightAtt": {
+			"RevertLightAtt": { "x": 4.5, "y": 18, "width": 102, "height": 126 }
+		}
+	}
+},
+"animations": {
+	"GravityDisabledAnim": {
+		"slots": {
+			"BackgroundAtt": {
+				"attachment": [
+					{ "time": 0, "name": "BackgroundDisabledAtt" }
+				]
+			},
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": "GravityDisabledAtt" }
+				]
+			}
+		}
+	},
+	"GravityHoverAnim": {
+		"bones": {
+			"GravityBone": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.0667, "x": 0, "y": 3.39 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.05, "y": 1.05 }
+				]
+			}
+		}
+	},
+	"GravityIdleAnim": {
+		"bones": {
+			"GravityBone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"GravityPressAnim": {
+		"bones": {
+			"GravityBone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": -1.14 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.98, "y": 0.98 }
+				]
+			}
+		}
+	},
+	"GravitytoReturnAnim": {
+		"slots": {
+			"GravityAtt": {
+				"color": [
+					{ "time": 0.0667, "color": "ffffffff" },
+					{ "time": 0.1333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1333, "name": null }
+				]
+			},
+			"GravityLightAtt": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.2333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "GravityLightAtt" }
+				]
+			},
+			"RevertAtt": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.1333, "name": "RevertAtt" }
+				]
+			},
+			"RevertLightAtt": {
+				"color": [
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.4333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1333, "name": "RevertLightAtt" }
+				]
+			}
+		},
+		"bones": {
+			"GravityBone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -1.14 },
+					{ "time": 0.0667, "x": -1.2, "y": 12.53 },
+					{ "time": 0.1333, "x": 0, "y": -1.14, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0, "y": -1.14 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.03, "y": 1.03 },
+					{ "time": 0.0667, "x": 1.05, "y": 1.05 },
+					{ "time": 0.1333, "x": 0.8, "y": 1.2, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0.8, "y": 1.2 }
+				]
+			},
+			"RevertBone": {
+				"rotate": [
+					{ "time": 0, "angle": -145, "curve": "stepped" },
+					{
+						"time": 0.1333,
+						"angle": -145,
+						"curve": [ 0.241, 0.63, 0.75, 1 ]
+					},
+					{ "time": 0.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -8.7, "y": 9.53, "curve": "stepped" },
+					{ "time": 0.1333, "x": -8.7, "y": 9.53 },
+					{ "time": 0.4333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.7, "y": 0.7, "curve": "stepped" },
+					{
+						"time": 0.1333,
+						"x": 0.7,
+						"y": 0.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"RootBone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.0667, "x": 1, "y": 1 },
+					{ "time": 0.1333, "x": 1.05, "y": 0.85 },
+					{ "time": 0.3667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"ReturnDisabledAnim": {
+		"slots": {
+			"BackgroundAtt": {
+				"attachment": [
+					{ "time": 0, "name": "BackgroundDisabledAtt" }
+				]
+			},
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"RevertAtt": {
+				"attachment": [
+					{ "time": 0, "name": "RevertDisabledAtt" }
+				]
+			}
+		}
+	},
+	"ReturnDismissAnim": {
+		"slots": {
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2, "name": "GravityAtt" }
+				]
+			},
+			"RevertAtt": {
+				"color": [
+					{ "time": 0.1, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "RevertAtt" }
+				]
+			}
+		},
+		"bones": {
+			"RootBone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1333, "x": 1, "y": 1 },
+					{ "time": 0.2667, "x": 1.05, "y": 0.85 },
+					{ "time": 0.3667, "x": 1, "y": 1 }
+				]
+			},
+			"GravityBone": {
+				"translate": [
+					{ "time": 0.2, "x": -2.88, "y": 32.87 },
+					{ "time": 0.3, "x": 0, "y": 0 },
+					{ "time": 0.3667, "x": -0.38, "y": 4.31 },
+					{ "time": 0.4333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.2, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.4333, "x": 1, "y": 1 }
+				]
+			},
+			"RevertBone": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3, "angle": -107.93 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3, "x": 10.26, "y": -1.58 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1667, "x": 0.8, "y": 0.8 }
+				]
+			}
+		}
+	},
+	"ReturnHoverAnim": {
+		"slots": {
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"RevertAtt": {
+				"attachment": [
+					{ "time": 0, "name": "RevertAtt" }
+				]
+			}
+		},
+		"bones": {
+			"RevertBone": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "angle": 10 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0, "y": -1 }
+				]
+			}
+		}
+	},
+	"ReturnIdleAnim": {
+		"slots": {
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2, "name": null }
+				]
+			},
+			"RevertAtt": {
+				"attachment": [
+					{ "time": 0, "name": "RevertAtt" },
+					{ "time": 2, "name": "RevertAtt" }
+				]
+			}
+		},
+		"bones": {
+			"RevertBone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"ReturnPressAnim": {
+		"slots": {
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"RevertAtt": {
+				"attachment": [
+					{ "time": 0, "name": "RevertAtt" }
+				]
+			}
+		},
+		"bones": {
+			"RevertBone": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 5,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.98, "y": 0.98 }
+				]
+			}
+		}
+	},
+	"ReturnShakeAnim": {
+		"slots": {
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"RevertAtt": {
+				"attachment": [
+					{ "time": 0, "name": "RevertAtt" }
+				]
+			}
+		},
+		"bones": {
+			"RevertBone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1333, "x": 13.39, "y": 0 },
+					{ "time": 0.2, "x": -14.91, "y": 0 },
+					{ "time": 0.3, "x": 8.93, "y": 0 },
+					{ "time": 0.4, "x": -5.72, "y": 0 },
+					{ "time": 0.5333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.6667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"ReturntoGravityAnim": {
+		"slots": {
+			"GravityAtt": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": "GravityAtt" }
+				]
+			},
+			"RevertAtt": {
+				"color": [
+					{ "time": 0.2333, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "RevertAtt" }
+				]
+			},
+			"RevertLightAtt": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3, "color": "ffffffff" },
+					{ "time": 0.4, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": "RevertLightAtt" }
+				]
+			}
+		},
+		"bones": {
+			"RootBone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1333, "x": 1, "y": 1 },
+					{ "time": 0.2667, "x": 1.05, "y": 0.85 },
+					{ "time": 0.3667, "x": 1, "y": 1 }
+				]
+			},
+			"GravityBone": {
+				"translate": [
+					{ "time": 0.3, "x": -2.88, "y": 32.87 },
+					{ "time": 0.4, "x": 0, "y": 0 },
+					{ "time": 0.4667, "x": -0.38, "y": 4.31 },
+					{ "time": 0.5333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.3, "x": 0.9, "y": 1.1 },
+					{ "time": 0.4667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5333, "x": 1, "y": 1 }
+				]
+			},
+			"RevertBone": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.247, 0, 0.631, 0.53 ]
+					},
+					{
+						"time": 0.2,
+						"angle": 90,
+						"curve": [ 0.379, 0.53, 0.746, 1 ]
+					},
+					{ "time": 0.3, "angle": 180 },
+					{ "time": 0.4, "angle": -90 },
+					{ "time": 0.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 6.69, "y": 6.65 },
+					{ "time": 0.3, "x": -4.99, "y": 6.65 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4, "x": 0.7, "y": 0.7 }
+				]
+			}
+		}
+	}
+}
+}

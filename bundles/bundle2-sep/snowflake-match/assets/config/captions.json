@@ -1,0 +1,244 @@
+{
+	"ANSWERRIGHT1": [
+		{
+			"content": "Great!",
+			"start": 0,
+			"end": 980
+		},
+		{
+			"content": "This snowflake is symmetrical",
+			"start": 980,
+			"end": 2870
+		},
+		{
+			"content": "because both halves look the same.",
+			"start": 2871,
+			"end": 4961
+		}
+	],
+	"ANSWERRIGHT2": [
+		{
+			"content": "Awesome! Haha!",
+			"start": 0,
+			"end": 1740
+		},
+		{
+			"content": "The snowflake is symmetrical",
+			"start": 1747,
+			"end": 3447
+		},
+		{
+			"content": "because it looks the same",
+			"start": 3447,
+			"end": 4407
+		},
+		{
+			"content": "on both sides.",
+			"start": 4408,
+			"end": 5758
+		}
+	],
+	"ANSWERRIGHT3": [
+		{
+			"content": "Wow, you are",
+			"start": 0,
+			"end": 1290
+		},
+		{
+			"content": "good at this!",
+			"start": 1290,
+			"end": 2520
+		}
+	],
+	"ANSWERRIGHT4": [
+		{
+			"content": "Perfect!",
+			"start": 0,
+			"end": 970
+		},
+		{
+			"content": "You matched all the",
+			"start": 980,
+			"end": 1980
+		},
+		{
+			"content": "snowflake halves.",
+			"start": 1981,
+			"end": 3191
+		}
+	],
+	"ANSWERWRONG1": [
+		{
+			"content": "Uh-oh!",
+			"start": 0,
+			"end": 1150
+		},
+		{
+			"content": "Those do not match!",
+			"start": 1156,
+			"end": 2416
+		}
+	],
+	"ANSWERWRONG2": [
+		{
+			"content": "Try again!",
+			"start": 0,
+			"end": 1110
+		}
+	],
+	"COMPLETED01": [
+		{
+			"content": "This snowflake is complete.",
+			"start": 0,
+			"end": 1780
+		},
+		{
+			"content": "Let's find another one",
+			"start": 1778,
+			"end": 2828
+		},
+		{
+			"content": "to put together.",
+			"start": 2828,
+			"end": 3958
+		}
+	],
+	"COMPLETED02": [
+		{
+			"content": "You already completed this snowflake.",
+			"start": 0,
+			"end": 2460
+		},
+		{
+			"content": "Good job!",
+			"start": 2455,
+			"end": 3615
+		}
+	],
+	"COMPLETED03": [
+		{
+			"content": "This snowflake is complete.",
+			"start": 0,
+			"end": 1860
+		},
+		{
+			"content": "Let's play with another one.",
+			"start": 1846,
+			"end": 3546
+		}
+	],
+	"FINAL": [
+		{
+			"content": "Excellent!",
+			"start": 0,
+			"end": 960
+		},
+		{
+			"content": "You put all the snowflakes",
+			"start": 958,
+			"end": 2638
+		},
+		{
+			"content": "back together.",
+			"start": 2636,
+			"end": 3866
+		},
+		{
+			"content": "You are amazing!",
+			"start": 3875,
+			"end": 5795
+		}
+	],
+	"HELP": [
+		{
+			"content": "Click on a snowflake half",
+			"start": 0,
+			"end": 1640
+		},
+		{
+			"content": "and place it next to",
+			"start": 1638,
+			"end": 2568
+		},
+		{
+			"content": "the one that matches it.",
+			"start": 2578,
+			"end": 4038
+		},
+		{
+			"content": "Like a mirror image.",
+			"start": 4048,
+			"end": 5668
+		}
+	],
+	"LIKETHIS": [
+		{
+			"content": "Like this!",
+			"start": 0,
+			"end": 1270
+		}
+	],
+	"NEEDHELP": [
+		{
+			"content": "Need help?",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"ROUNDEND": [
+		{
+			"content": "Good job!",
+			"start": 0,
+			"end": 1540
+		},
+		{
+			"content": "But look,",
+			"start": 1538,
+			"end": 2398
+		},
+		{
+			"content": "all the snowflakes melted.",
+			"start": 2418,
+			"end": 4328
+		},
+		{
+			"content": "Let's make some more snowflakes, haha!",
+			"start": 4337,
+			"end": 7177
+		}
+	],
+	"STARTINSTRUCTION": [
+		{
+			"content": "Let's learn about symmetry.",
+			"start": 0,
+			"end": 2290
+		},
+		{
+			"content": "Click on a snowflake half",
+			"start": 2290,
+			"end": 3730
+		},
+		{
+			"content": "and place it next to the one",
+			"start": 3740,
+			"end": 4870
+		},
+		{
+			"content": "that matches it.",
+			"start": 4890,
+			"end": 5880
+		}
+	],
+	"START_DRAG": [
+		{
+			"content": "Match this piece",
+			"start": 0,
+			"end": 1210
+		},
+		{
+			"content": "to its other half.",
+			"start": 1208,
+			"end": 2688
+		}
+	]
+}

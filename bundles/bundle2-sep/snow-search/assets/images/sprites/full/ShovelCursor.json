@@ -1,0 +1,23 @@
+{
+	"scale":1,
+	"fps":15,
+	"labels":
+	{
+		"idle":0,
+		"removeSnow":1
+	},
+	"frames":
+	[
+		{
+			"name":"cursor#",
+			"min":0,
+			"max":37,
+			"digits":4
+		}
+	],
+	"origin":
+	{
+		"x":60.3,
+		"y":301.15
+	}
+}

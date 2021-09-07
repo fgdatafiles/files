@@ -1,0 +1,14 @@
+[
+	{"type": "sound", "id": "sfx_click", "path": "./audio/sfx/sfx_click.{ogg,mp3}", "context":"sfx", "singleInstance": true},
+    {"type": "sound", "id": "wg_map_build", "path": "./audio/vo/wg_map_build.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_map_bakery", "path": "./audio/vo/wg_map_bakery.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_map_factory", "path": "./audio/vo/wg_map_factory.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_map_school", "path": "./audio/vo/wg_map_school.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_map_party", "path": "./audio/vo/wg_map_party.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_map_encourage", "path": "./audio/vo/wg_map_encourage.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_map_complete", "path": "./audio/vo/wg_map_complete.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_map_replay", "path": "./audio/vo/wg_map_replay.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_game_challenge_complete", "path": "./audio/sfx/wg_game_challenge_complete.{ogg,mp3}", "context":"sfx"},
+    {"type": "sound", "id": "sfx_bubble_pop", "path": "./audio/sfx/sfx_bubble_pop.{ogg,mp3}", "context":"sfx"}
+
+]

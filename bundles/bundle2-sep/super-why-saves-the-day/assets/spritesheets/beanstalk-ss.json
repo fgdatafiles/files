@@ -1,0 +1,46 @@
+{
+
+"images": [
+    "assets/spritesheets/beanstalk-ss.png"
+],
+
+"frames": [
+    [1, 1, 1427, 271, 0, 0, 0],
+    [1, 274, 1427, 265, 0, 0, 0],
+    [1430, 1, 546, 381, 0, 0, 0],
+    [1, 541, 367, 471, 0, 0, 0],
+    [370, 541, 606, 178, 0, 0, 0],
+    [370, 721, 590, 193, 0, 0, 0],
+    [978, 541, 452, 247, 0, 0, 0],
+    [1432, 384, 324, 365, 0, -43, -106],
+    [1758, 384, 257, 410, 0, 0, 0],
+    [962, 790, 369, 135, 0, 0, 0],
+    [370, 916, 322, 76, 0, 0, 0],
+    [1432, 751, 286, 132, 0, 0, 0],
+    [694, 916, 203, 77, 0, 0, 0],
+    [1720, 796, 197, 121, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_ground": [1],
+    "bg_sun": [2],
+    "characterStart": [3],
+    "bg_hill1": [4],
+    "fg_hill2": [5],
+    "fg_hill1": [6],
+    "characterEnd": [7],
+    "mg_castle-beanstalk": [8],
+    "fg_bush": [9],
+    "mg_castle-ground": [10],
+    "bg_hill2": [11],
+    "mg_cloud": [12],
+    "mg_cloud2": [13]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:804b5703335f052e4014683862dfbca9:8de5ad848ee5b33bf8f03de3dadd2ce0:56f581e32416561429bc28e7502736d1$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

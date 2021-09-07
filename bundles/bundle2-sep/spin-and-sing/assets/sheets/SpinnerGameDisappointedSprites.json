@@ -1,0 +1,26 @@
+{
+
+"images": [
+    "SpinnerGameDisappointedSprites.png"
+],
+
+"frames": [
+    [1, 1, 18, 500, 0, 0, 0],
+    [21, 1, 457, 457, 0, 0, 0],
+    [480, 1, 457, 457, 0, 0, 0],
+    [939, 1, 42, 457, 0, 0, 0]
+],
+
+"animations": {
+    "disappointed_Frame": [0],
+    "disappointed_00A": [1],
+    "disappointed_00B": [2],
+    "disappointed_tileSide": [3]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:611b9ad77f1bc9a3afe78bb783832125:bb5361ca84aea1bef33e2acd7097b168:fc241573f38f69d1eddacb33bc5aad27$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,53 @@
+{
+	"star": {
+		"x": -400,
+		"y": 230,
+		"offsetX": -3,
+		"offsetY": -3,
+		"buffer": 15
+	},
+
+	"rock": {
+		"x": 405,
+		"y": 220,
+		"offsetX": 2,
+		"offsetY": -3,
+		"buffer": 20
+	},
+
+	"urchin": {
+		"x": -215,
+		"y": 150,
+		"offsetX": 0,
+		"offsetY": -45,
+		"buffer": 22
+	},
+
+	"shell": {
+		"x": 220,
+		"y": 150,
+		"offsetX": 0,
+		"offsetY": -5,
+		"buffer": 15
+	},
+
+	"position1": {
+		"x": -400,
+		"y": 230
+	},
+
+	"position2": {
+		"x": 405,
+		"y": 220
+	},
+
+	"position3": {
+		"x": -215,
+		"y": 150
+	},
+
+	"position4": {
+		"x": 220,
+		"y": 150
+	}
+}

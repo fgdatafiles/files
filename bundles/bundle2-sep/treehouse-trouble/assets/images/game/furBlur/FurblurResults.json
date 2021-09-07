@@ -1,0 +1,426 @@
+{
+"skeleton": { "hash": "vmZSksDDXgdgbmKA+UssOb3fuWw", "spine": "3.8.11-beta", "x": -261, "y": -416.31, "width": 396, "height": 416 },
+"bones": [
+	{ "name": "RootBone", "y": -403.31 },
+	{ "name": "BodyBone", "parent": "RootBone", "length": 91.5, "rotation": 89.63, "x": 0.06, "y": -0.72 },
+	{ "name": "HeadBone", "parent": "BodyBone", "length": 117.81, "rotation": 0.08, "x": 91.5 },
+	{ "name": "EarLBone", "parent": "HeadBone", "length": 37.84, "rotation": 40.1, "x": 69.97, "y": 81.7 },
+	{ "name": "EarRBone", "parent": "HeadBone", "length": 37.84, "rotation": -40, "x": 70.79, "y": -79.67 },
+	{ "name": "FaceBone", "parent": "HeadBone", "x": 71.99 },
+	{ "name": "FaceDistressedBone", "parent": "RootBone", "x": -163.02, "y": 306.28 },
+	{ "name": "HandLBone", "parent": "RootBone", "length": 36.67, "rotation": -142.7, "x": -50.8, "y": 43.61 },
+	{ "name": "HandRBone", "parent": "RootBone", "length": 39.84, "rotation": -38.87, "x": 56.15, "y": 44.07 },
+	{ "name": "SpeechLargeBone", "parent": "RootBone", "x": -163.02, "y": 306.28 },
+	{ "name": "SpeechMedBone", "parent": "RootBone", "x": -88.4, "y": 242.32 },
+	{ "name": "SpeechSmallBone", "parent": "RootBone", "x": -76.51, "y": 214.85 }
+],
+"slots": [
+	{ "name": "EarRSlot", "bone": "EarRBone", "attachment": "EarRAtt" },
+	{ "name": "EarLSlot", "bone": "EarLBone", "attachment": "EarLAtt" },
+	{ "name": "BodySlot", "bone": "BodyBone", "attachment": "BodyAtt" },
+	{ "name": "HandLSlot", "bone": "HandLBone", "attachment": "HandLAtt" },
+	{ "name": "HandRSlot", "bone": "HandRBone", "attachment": "HandRAtt" },
+	{ "name": "EyeLSlot", "bone": "FaceBone", "attachment": "EyeLClosedAtt" },
+	{ "name": "EyeRSlot", "bone": "FaceBone", "attachment": "EyeRClosedAtt" },
+	{ "name": "SpeechSmallSlot", "bone": "SpeechSmallBone", "attachment": "SpeechSmallAtt" },
+	{ "name": "SpeechMedSlot", "bone": "SpeechMedBone", "attachment": "SpeechMedAtt" },
+	{ "name": "SpeechLargeSlot", "bone": "SpeechLargeBone", "attachment": "SpeechLargeAtt" },
+	{ "name": "FaceDistressedSlot", "bone": "FaceDistressedBone", "attachment": "FaceDistressedAtt" },
+	{ "name": "MouthSlot", "bone": "FaceBone", "attachment": "MouthClosedAtt" }
+],
+"skins": {
+	"default": {
+		"BodySlot": {
+			"BodyAtt": {
+				"type": "mesh",
+				"uvs": [ 0.99999, 0.24345, 1, 0.52524, 0.97775, 0.64105, 0.90063, 0.83266, 0.92436, 0.99999, 0.07861, 0.99999, 0.0964, 0.82635, 0.02521, 0.64947, 0, 0.52524, 1.0E-5, 0.23677, 0.42778, 1.0E-5, 0.5655, 0 ],
+				"triangles": [ 5, 6, 3, 4, 5, 3, 3, 6, 7, 2, 3, 7, 2, 7, 1, 9, 10, 11, 0, 9, 11, 8, 9, 0, 8, 0, 1, 1, 7, 8 ],
+				"vertices": [ 2, 2, 111.77, -133.77, 0.8, 1, 203.46, -133.61, 0.2, 2, 2, 31.74, -134.18, 0.55, 1, 123.43, -134.14, 0.45, 2, 2, -1.18, -128.41, 0.5, 1, 90.51, -128.41, 0.5, 1, 1, 35.95, -108.18, 1, 1, 1, -11.52, -114.82, 1, 1, 1, -13, 110.99, 1, 1, 1, 36.35, 106.56, 1, 2, 2, -4.86, 125.9, 0.5, 1, 86.45, 125.9, 0.5, 2, 2, 30.39, 132.81, 0.55, 1, 121.69, 132.86, 0.45, 2, 2, 112.31, 133.23, 0.8, 1, 203.61, 133.39, 0.2, 1, 2, 180.13, 19.35, 1, 1, 2, 180.32, -17.42, 1 ],
+				"hull": 12
+			}
+		},
+		"EarLSlot": {
+			"EarLAtt": { "x": 25.05, "y": -0.93, "rotation": -129.81, "width": 46, "height": 46 }
+		},
+		"EarRSlot": {
+			"EarRAtt": { "x": 25.36, "y": 0.77, "rotation": -49.71, "width": 45, "height": 46 }
+		},
+		"EyeLSlot": {
+			"EyeLAtt": { "x": -0.52, "y": 51.52, "rotation": -89.71, "width": 61, "height": 61 },
+			"EyeLClosedAtt": { "x": -0.52, "y": 51.52, "rotation": -89.71, "width": 61, "height": 61 },
+			"EyeLClosingAtt": { "x": -0.52, "y": 51.52, "rotation": -89.71, "width": 61, "height": 61 }
+		},
+		"EyeRSlot": {
+			"EyeRAtt": { "x": -0.01, "y": -49.48, "rotation": -89.71, "width": 61, "height": 61 },
+			"EyeRClosedAtt": { "x": -0.01, "y": -49.48, "rotation": -89.71, "width": 61, "height": 61 },
+			"EyeRClosingAtt": { "x": -0.01, "y": -49.48, "rotation": -89.71, "width": 61, "height": 61 }
+		},
+		"FaceDistressedSlot": {
+			"FaceDistressedAtt": { "x": -2.98, "y": 3.72, "width": 128, "height": 134 }
+		},
+		"HandLSlot": {
+			"HandLAtt": { "x": 20.32, "y": -0.89, "rotation": 142.7, "width": 43, "height": 40 }
+		},
+		"HandRSlot": {
+			"HandRAtt": { "x": 20.3, "y": 0.86, "rotation": 38.87, "width": 43, "height": 40 }
+		},
+		"MouthSlot": {
+			"MouthClosedAtt": { "x": -18.76, "y": -0.07, "rotation": -89.71, "width": 54, "height": 60 },
+			"MouthOpenAtt": { "x": -17.77, "y": 1.43, "rotation": -89.71, "width": 53, "height": 58 }
+		},
+		"SpeechLargeSlot": {
+			"SpeechLargeAtt": { "x": -1.48, "y": 1.22, "width": 193, "height": 191 }
+		},
+		"SpeechMedSlot": {
+			"SpeechMedAtt": { "x": -0.1, "y": 1.68, "width": 55, "height": 54 }
+		},
+		"SpeechSmallSlot": {
+			"SpeechSmallAtt": { "x": 0.51, "y": 0.65, "width": 30, "height": 27 }
+		}
+	}
+},
+"animations": {
+	"IdleAnim": {
+		"slots": {
+			"EyeLSlot": {
+				"attachment": [
+					{ "time": 0, "name": "EyeLAtt" }
+				]
+			},
+			"EyeRSlot": {
+				"attachment": [
+					{ "time": 0, "name": "EyeRAtt" }
+				]
+			},
+			"FaceDistressedSlot": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"MouthSlot": {
+				"attachment": [
+					{ "time": 0, "name": "MouthOpenAtt" }
+				]
+			},
+			"SpeechLargeSlot": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SpeechMedSlot": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"SpeechSmallSlot": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"EarLBone": {
+				"rotate": [
+					{ "time": 0, "angle": 43.14 }
+				]
+			},
+			"HandLBone": {
+				"rotate": [
+					{ "time": 0, "angle": 77.08 }
+				]
+			},
+			"HandRBone": {
+				"rotate": [
+					{ "time": 0, "angle": -79.16 }
+				]
+			},
+			"RootBone": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 197.01 }
+				]
+			},
+			"HeadBone": {
+				"rotate": [
+					{ "time": 0, "angle": 7.76 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.618, "y": 1 }
+				]
+			},
+			"EarRBone": {
+				"rotate": [
+					{ "time": 0, "angle": -45.13 }
+				]
+			}
+		}
+	},
+	"ResultsAnim": {
+		"slots": {
+			"EyeLSlot": {
+				"attachment": [
+					{ "time": 0, "name": "EyeLAtt" },
+					{ "time": 0.3667, "name": "EyeLClosingAtt" },
+					{ "time": 0.4333, "name": "EyeLClosedAtt" },
+					{ "time": 2.3333, "name": "EyeLClosingAtt" },
+					{ "time": 2.4, "name": "EyeLAtt" }
+				]
+			},
+			"EyeRSlot": {
+				"attachment": [
+					{ "time": 0, "name": "EyeRAtt" },
+					{ "time": 0.3667, "name": "EyeRClosingAtt" },
+					{ "time": 0.4333, "name": "EyeRClosedAtt" },
+					{ "time": 2.3333, "name": "EyeRClosingAtt" },
+					{ "time": 2.4, "name": "EyeRAtt" }
+				]
+			},
+			"FaceDistressedSlot": {
+				"color": [
+					{ "time": 2.3667, "color": "ffffffff" },
+					{ "time": 2.4333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4667, "name": "FaceDistressedAtt" },
+					{ "time": 0.6667, "name": "FaceDistressedAtt" },
+					{ "time": 2.4333, "name": null }
+				]
+			},
+			"MouthSlot": {
+				"attachment": [
+					{ "time": 0, "name": "MouthOpenAtt" },
+					{ "time": 0.4333, "name": "MouthClosedAtt" },
+					{ "time": 2.4, "name": "MouthOpenAtt" }
+				]
+			},
+			"SpeechLargeSlot": {
+				"color": [
+					{ "time": 2.3333, "color": "ffffffff" },
+					{ "time": 2.4333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4667, "name": "SpeechLargeAtt" },
+					{ "time": 0.5333, "name": "SpeechLargeAtt" },
+					{ "time": 2.4333, "name": null }
+				]
+			},
+			"SpeechMedSlot": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "SpeechMedAtt" },
+					{ "time": 2.4667, "name": null }
+				]
+			},
+			"SpeechSmallSlot": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3, "name": "SpeechSmallAtt" },
+					{ "time": 2.5667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"SpeechSmallBone": {
+				"scale": [
+					{ "time": 0.3, "x": 0.8, "y": 0.8 },
+					{ "time": 0.3333, "x": 1.1, "y": 1.1 },
+					{ "time": 0.4, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.4, "x": 1, "y": 1 },
+					{ "time": 2.4667, "x": 0.8, "y": 0.8 }
+				]
+			},
+			"SpeechMedBone": {
+				"scale": [
+					{ "time": 0.4, "x": 0.8, "y": 0.8 },
+					{ "time": 0.4667, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3667, "x": 1, "y": 1 },
+					{ "time": 2.4, "x": 0.8, "y": 0.8 }
+				]
+			},
+			"FaceDistressedBone": {
+				"scale": [
+					{ "time": 0.4667, "x": 0.6, "y": 0.6 },
+					{ "time": 0.5667, "x": 1.1, "y": 1.1 },
+					{ "time": 0.6667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3, "x": 1, "y": 1 },
+					{ "time": 2.3333, "x": 1.1, "y": 1.1 },
+					{ "time": 2.4, "x": 0.6, "y": 0.6 }
+				]
+			},
+			"SpeechLargeBone": {
+				"scale": [
+					{ "time": 0.4667, "x": 0.8, "y": 0.8 },
+					{ "time": 0.5333, "x": 1.05, "y": 1.05 },
+					{ "time": 0.6667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3, "x": 1, "y": 1 },
+					{ "time": 2.4, "x": 0.85, "y": 0.85 }
+				]
+			},
+			"RootBone": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 197.01,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0, "y": 403.31, "curve": "stepped" },
+					{ "time": 2.5333, "x": 0, "y": 403.31 },
+					{ "time": 2.9333, "x": 0, "y": 133.26 }
+				]
+			},
+			"HeadBone": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 7.76,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "angle": -2.68 },
+					{ "time": 0.6, "angle": -11.08, "curve": "stepped" },
+					{
+						"time": 0.9,
+						"angle": -11.08,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.5333, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.618, "y": 1 },
+					{ "time": 0.1667, "x": 1.1, "y": 1 },
+					{ "time": 0.3, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3667, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 0.6,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.9,
+						"x": 0.952,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3333, "x": 0.988, "y": 1 },
+					{ "time": 2.4, "x": 0.9, "y": 1.1 },
+					{ "time": 2.6333, "x": 1.2, "y": 1, "curve": "stepped" },
+					{ "time": 2.8, "x": 1.2, "y": 1 },
+					{ "time": 2.8667, "x": 1, "y": 1 }
+				]
+			},
+			"HandLBone": {
+				"rotate": [
+					{ "time": 0, "angle": 77.08 },
+					{ "time": 0.1333, "angle": 83.9 },
+					{
+						"time": 0.2333,
+						"angle": -14.03,
+						"curve": [ 0.252, 0, 0.622, 0.49 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 175.74,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.9, "angle": 171.5, "curve": "stepped" },
+					{ "time": 2.3, "angle": 171.5 },
+					{ "time": 2.4, "angle": 130.53 },
+					{ "time": 2.6, "angle": -66.33 }
+				],
+				"translate": [
+					{
+						"time": 0.3,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"x": 14.4,
+						"y": 43.92,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.9, "x": 11.42, "y": 37.22, "curve": "stepped" },
+					{ "time": 2.3, "x": 11.42, "y": 37.22 },
+					{ "time": 2.4, "x": -1.31, "y": 6.39 },
+					{ "time": 2.6, "x": -9.79, "y": 26.9 }
+				]
+			},
+			"HandRBone": {
+				"rotate": [
+					{ "time": 0, "angle": -79.16 },
+					{ "time": 0.1333, "angle": -82.29 },
+					{
+						"time": 0.2333,
+						"angle": 24.51,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.7333, "angle": -41.68, "curve": "stepped" },
+					{ "time": 2.3333, "angle": -41.68 },
+					{ "time": 2.4, "angle": -133.09 },
+					{ "time": 2.6, "angle": 70.93 }
+				],
+				"translate": [
+					{ "time": 2.4, "x": 0, "y": 0 },
+					{ "time": 2.6, "x": 5.64, "y": 30.38 }
+				]
+			},
+			"EarLBone": {
+				"rotate": [
+					{ "time": 0, "angle": 43.14 },
+					{ "time": 0.1667, "angle": -29.79 },
+					{
+						"time": 0.6,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.9,
+						"angle": -13.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.5333, "angle": 11.31 },
+					{ "time": 2.6667, "angle": -23.81 }
+				]
+			},
+			"EarRBone": {
+				"rotate": [
+					{ "time": 0, "angle": -45.13 },
+					{ "time": 0.1667, "angle": 25.59 },
+					{
+						"time": 0.6,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.9,
+						"angle": -13.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.5333, "angle": 11.31 },
+					{ "time": 2.6667, "angle": 33.94 }
+				]
+			},
+			"BodyBone": {
+				"scale": [
+					{ "time": 0.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 0.5667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.3667, "x": 0.958, "y": 1 },
+					{ "time": 2.4333, "x": 0.8, "y": 1.1 },
+					{ "time": 2.6, "x": 1.05, "y": 0.9, "curve": "stepped" },
+					{ "time": 2.7333, "x": 1.05, "y": 0.9 },
+					{ "time": 2.8667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

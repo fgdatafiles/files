@@ -1,0 +1,107 @@
+﻿{"frames": {
+
+"obj_Wheelbarrow0000":
+{
+	"frame": {"x":0,"y":0,"w":89,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":61},
+	"sourceSize": {"w":89,"h":61}
+},
+"obj_bench0000":
+{
+	"frame": {"x":89,"y":0,"w":105,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":85},
+	"sourceSize": {"w":105,"h":85}
+},
+"obj_bush0000":
+{
+	"frame": {"x":194,"y":0,"w":104,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":110},
+	"sourceSize": {"w":104,"h":110}
+},
+"obj_chair0000":
+{
+	"frame": {"x":298,"y":0,"w":158,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":167},
+	"sourceSize": {"w":158,"h":167}
+},
+"obj_flowerPot0000":
+{
+	"frame": {"x":0,"y":167,"w":95,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":104},
+	"sourceSize": {"w":95,"h":104}
+},
+"obj_fountain0000":
+{
+	"frame": {"x":95,"y":167,"w":42,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":66},
+	"sourceSize": {"w":42,"h":66}
+},
+"obj_lamps0000":
+{
+	"frame": {"x":137,"y":167,"w":52,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":58},
+	"sourceSize": {"w":52,"h":58}
+},
+"obj_shed0000":
+{
+	"frame": {"x":189,"y":167,"w":141,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":97},
+	"sourceSize": {"w":141,"h":97}
+},
+"obj_step0000":
+{
+	"frame": {"x":330,"y":167,"w":51,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":6,"w":67,"h":21},
+	"sourceSize": {"w":67,"h":21}
+},
+"obj_table0000":
+{
+	"frame": {"x":0,"y":271,"w":160,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":146},
+	"sourceSize": {"w":160,"h":146}
+},
+"obj_terrasse0000":
+{
+	"frame": {"x":160,"y":271,"w":278,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":58},
+	"sourceSize": {"w":278,"h":58}
+},
+"obj_tree0000":
+{
+	"frame": {"x":0,"y":417,"w":243,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":243,"h":246},
+	"sourceSize": {"w":243,"h":246}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "Untitled-1.png",
+	"format": "RGB8",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

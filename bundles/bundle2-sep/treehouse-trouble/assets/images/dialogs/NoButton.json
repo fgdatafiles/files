@@ -1,0 +1,44 @@
+{"frames": {
+
+"button-no-default.png":
+{
+	"frame": {"x":2,"y":2,"w":251,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":121},
+	"sourceSize": {"w":251,"h":121}
+},
+"button-no-disabled.png":
+{
+	"frame": {"x":257,"y":2,"w":251,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":121},
+	"sourceSize": {"w":251,"h":121}
+},
+"button-no-hover.png":
+{
+	"frame": {"x":512,"y":2,"w":251,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":121},
+	"sourceSize": {"w":251,"h":121}
+},
+"button-no-pressed.png":
+{
+	"frame": {"x":767,"y":2,"w":251,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":121},
+	"sourceSize": {"w":251,"h":121}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "NoButton.png",
+	"format": "RGBA8888",
+	"size": {"w":1020,"h":125},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ea28f9d780f85ab829693c0c80ae736b:1d82f96ecab39bb89d7086b457bb32f8:f8d587b4fc11b1933d29f859a123a2ca$"
+}
+}

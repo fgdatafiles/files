@@ -1,0 +1,18 @@
+@charset "utf-8";
+body {
+	font-family: Arial, sans-serif;
+}
+@font-face {
+	font-family: 'bpreplayregular';
+	src: url('../fonts/bpreplayextended-webfont.eot');
+	src: url('../fonts/bpreplayextended-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/bpreplayextended-webfont.woff2') format('woff2'), url('../fonts/bpreplayextended-webfont.woff') format('woff'), url('../fonts/bpreplayextended-webfont.ttf') format('truetype'), url('../fonts/bpreplayextended-webfont.svg#bpreplayregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'bpreplaybold';
+	src: url('../fonts/bpreplayextendedbold-webfont.eot');
+	src: url('../fonts/bpreplayextendedbold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/bpreplayextendedbold-webfont.woff2') format('woff2'), url('../fonts/bpreplayextendedbold-webfont.woff') format('woff'), url('../fonts/bpreplayextendedbold-webfont.ttf') format('truetype'), url('../fonts/bpreplayextendedbold-webfont.svg#bpreplaybold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

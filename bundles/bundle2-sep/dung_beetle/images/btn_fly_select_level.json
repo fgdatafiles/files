@@ -1,0 +1,30 @@
+{"frames": {
+
+"fly03_anim0001.png":
+{
+	"frame": {"x":154,"y":0,"w":154,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":9,"w":154,"h":94},
+	"sourceSize": {"w":164,"h":107},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fly03_anim0002.png":
+{
+	"frame": {"x":0,"y":0,"w":154,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":154,"h":101},
+	"sourceSize": {"w":164,"h":107},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_fly_select_level.png",
+	"format": "RGBA8888",
+	"size": {"w":308,"h":101},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b50b05912a49ddbfe3ae264416cf6ec9:ae01da40ac31db9da8d0ed375e4bdc7b:7b76adbe410619e44e07596425d91c35$"
+}
+}

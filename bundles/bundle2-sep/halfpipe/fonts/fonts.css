@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'subway_tickerregular';
+	src: url('subwt___-webfont.eot');
+	src: url('subwt___-webfont.eot?#iefix') format('embedded-opentype'),
+		url('subwt___-webfont.woff2') format('woff2'),
+		url('subwt___-webfont.woff') format('woff'),
+		url('subwt___-webfont.ttf') format('truetype'),
+		url('subwt___-webfont.svg#subway_tickerregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

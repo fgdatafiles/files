@@ -1,0 +1,245 @@
+{
+    "dad_spin_01": [
+        {
+            "content": "<p>Keep trying, you’ll get better</p>",
+            "end": 3683,
+            "start": 0
+        }
+    ],
+    "dad_spin_02": [
+        {
+            "content": "<p>It’s almost time to stop, so choose one more thing to do</p>",
+            "end": 4728,
+            "start": 0
+        }
+    ],
+    "dad_spin_03": [
+        {
+            "content": "<p>You can be a big helper, in your family</p>",
+            "end": 7465,
+            "start": 0
+        }
+    ],
+    "dad_spin_04": [
+        {
+            "content": "<p>Thank you</p>",
+            "end": 1018,
+            "start": 0
+        }
+    ],
+    "daniel_site_SpinNSing": [
+        {
+            "content": "<p>Spin and Sing!</p>",
+            "end": 1671,
+            "start": 0
+        }
+    ],
+    "daniel_spin_01": [
+        {
+            "content": "<p>Let’s play a game and sing together</p>",
+            "end": 3004,
+            "start": 0
+        }
+    ],
+    "daniel_spin_02": [
+        {
+            "content": "<p>I sing songs to help me learn lots of things. You can sing with me!</p>",
+            "end": 5355,
+            "start": 0
+        }
+    ],
+    "daniel_spin_03": [
+        {
+            "content": "<p>I love singing with you</p>",
+            "end": 2063,
+            "start": 0
+        }
+    ],
+    "daniel_spin_04": [
+        {
+            "content": "<p>Go ahead, spin the arrow!</p>",
+            "end": 1854,
+            "start": 0
+        }
+    ],
+    "daniel_spin_05": [
+        {
+            "content": "<p>Keep trying, you’ll get better</p>",
+            "end": 4765,
+            "start": 0
+        }
+    ],
+    "daniel_spin_06": [
+        {
+            "content": "<p>I can do it, I just have to keep trying</p>",
+            "end": 2766,
+            "start": 0
+        }
+    ],
+    "daniel_spin_07": [
+        {
+            "content": "<p>When something seems bad, turn it around, and find something good</p>",
+            "end": 6679,
+            "start": 0
+        }
+    ],
+    "daniel_spin_07a": [
+        {
+            "content": "<p>When something seems bad, turn it around</p>",
+            "end": 3668,
+            "start": 0
+        }
+    ],
+    "daniel_spin_07b": [
+        {
+            "content": "<p>When something seems bad, turn it around, and find something good</p>",
+            "end": 6635,
+            "start": 0
+        }
+    ],
+    "daniel_spin_08": [
+        {
+            "content": "<p>We gotta try new food ‘cause it might taste good</p>",
+            "end": 5917,
+            "start": 0
+        }
+    ],
+    "daniel_spin_10": [
+        {
+            "content": "<p>When you feel so mad that you want to ROAR, take a deep breath…</p>",
+            "end": 6869,
+            "start": 0
+        },
+        {
+            "content": "<p>and count to four</p>",
+            "end": 10157,
+            "start": 0
+        }
+    ],
+    "daniel_spin_11a": [
+        {
+            "content": "<p>One</p>",
+            "end": 1541,
+            "start": 0
+        }
+    ],
+    "daniel_spin_11b": [
+        {
+            "content": "<p>Two</p>",
+            "end": 1410,
+            "start": 0
+        }
+    ],
+    "daniel_spin_11c": [
+        {
+            "content": "<p>Three</p>",
+            "end": 1332,
+            "start": 0
+        }
+    ],
+    "daniel_spin_11d": [
+        {
+            "content": "<p>Four</p>",
+            "end": 1306,
+            "start": 0
+        }
+    ],
+    "daniel_spin_12": [
+        {
+            "content": "<p>Thank you, for everything you do</p>",
+            "end": 5723,
+            "start": 2154
+        }
+    ],
+    "daniel_spin_13": [
+        {
+            "content": "<p>That was fun, but now it’s done</p>",
+            "end": 4563,
+            "start": 0
+        }
+    ],
+    "daniel_spin_14": [
+        {
+            "content": "<p>Will you help me clean this plate?</p>",
+            "end": 2891,
+            "start": 762
+        }
+    ],
+    "daniel_spin_15": [
+        {
+            "content": "<p>I made this for you, Grandpere.</p>",
+            "end": 3349,
+            "start": 768
+        }
+    ],
+    "daniel_spin_16": [
+        {
+            "content": "<p>I made the for you, Mom</p>",
+            "end": 2828,
+            "start": 805
+        }
+    ],
+    "daniel_spin_17": [
+        {
+            "content": "<p>This is for you, Dad</p>",
+            "end": 2495,
+            "start": 789
+        }
+    ],
+    "daniel_spin_18": [
+        {
+            "content": "<p>You can be a big helper, in your family</p>",
+            "end": 7296,
+            "start": 0
+        }
+    ],
+    "daniel_spin_19": [
+        {
+            "content": "<p>Hmmm, it’s raining outside, I’m so disappointed</p>",
+            "end": 5631,
+            "start": 564
+        }
+    ],
+    "daniel_spin_20": [
+        {
+            "content": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Hmmm</span></p>",
+            "end": 992,
+            "start": 0
+        }
+    ],
+    "daniel_spin_21": [
+        {
+            "content": "<p>Stop and listen to stay safe</p>",
+            "end": 4163,
+            "start": 0
+        }
+    ],
+    "grandpere_spin_01": [
+        {
+            "content": "<p>Thank you my special Daniel</p>",
+            "end": 2072,
+            "start": 0
+        }
+    ],
+    "mom_spin_01": [
+        {
+            "content": "<p>You gotta try new food ‘cause it might taste good</p>",
+            "end": 5828,
+            "start": 0
+        }
+    ],
+    "mom_spin_02": [
+        {
+            "content": "<p>Stop and listen to stay safe</p>",
+            "end": 5190,
+            "start": 0
+        }
+    ],
+    "mom_spin_03": [
+        {
+            "content": "<p>Everyone gets mad sometimes</p>",
+            "end": 2390,
+            "start": 629
+        }
+    ]
+}

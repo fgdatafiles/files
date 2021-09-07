@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn150000":
+{
+	"frame": {"x":0,"y":0,"w":75,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":34},
+	"sourceSize": {"w":75,"h":34}
+},
+"sn150001":
+{
+	"frame": {"x":0,"y":35,"w":75,"h":33},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":75,"h":34},
+	"sourceSize": {"w":75,"h":34}
+},
+"sn150002":
+{
+	"frame": {"x":0,"y":69,"w":62,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":75,"h":34},
+	"sourceSize": {"w":75,"h":34}
+},
+"sn150003":
+{
+	"frame": {"x":0,"y":92,"w":29,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":12,"w":75,"h":34},
+	"sourceSize": {"w":75,"h":34}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "MittenPinkSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

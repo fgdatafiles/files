@@ -1,0 +1,8 @@
+{
+	"title": "Help our Kelp",
+	
+	"dimensions" : {
+		"width" : { "min" : 1024, "max" : 1024 },
+		"height" : { "min" : 575, "max" : 768 }
+	}
+}

@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn170000":
+{
+	"frame": {"x":0,"y":0,"w":112,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":48},
+	"sourceSize": {"w":112,"h":48}
+},
+"sn170001":
+{
+	"frame": {"x":0,"y":49,"w":112,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":112,"h":48},
+	"sourceSize": {"w":112,"h":48}
+},
+"sn170002":
+{
+	"frame": {"x":0,"y":87,"w":87,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":112,"h":48},
+	"sourceSize": {"w":112,"h":48}
+},
+"sn170003":
+{
+	"frame": {"x":0,"y":112,"w":39,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":19,"w":112,"h":48},
+	"sourceSize": {"w":112,"h":48}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "PencilPurpleSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

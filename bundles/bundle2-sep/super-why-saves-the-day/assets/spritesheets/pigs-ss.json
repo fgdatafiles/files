@@ -1,0 +1,52 @@
+{
+
+"images": [
+    "assets/spritesheets/pigs-ss.png"
+],
+
+"frames": [
+    [1, 1, 298, 377, 0, 0, 0],
+    [1, 380, 298, 377, 0, 0, 0],
+    [1, 759, 702, 169, 0, 0, 0],
+    [301, 1, 1427, 267, 0, 0, 0],
+    [1730, 1, 279, 134, 0, 0, 0],
+    [1730, 137, 260, 295, 0, 0, 0],
+    [301, 270, 1427, 267, 0, 0, 0],
+    [301, 539, 164, 207, 0, 0, 0],
+    [1730, 434, 239, 286, 0, 0, 0],
+    [467, 539, 108, 123, 0, 0, 0],
+    [467, 664, 387, 43, 0, 0, 0],
+    [577, 539, 374, 113, 0, 0, 0],
+    [856, 654, 612, 258, 0, 0, 0],
+    [953, 539, 693, 111, 0, 0, 0],
+    [1470, 652, 213, 232, 0, 0, 0],
+    [1685, 722, 186, 100, 0, 0, 0],
+    [1685, 824, 186, 100, 0, 0, 0]
+],
+
+"animations": {
+    "characterEnd": [0],
+    "characterStart": [1],
+    "bg_hills1": [2],
+    "bg_ground": [3],
+    "mg_tree4": [4],
+    "bg_cloud1": [5],
+    "bg_sky": [6],
+    "mg_tree3": [7],
+    "bg_cloud2": [8],
+    "mg_tree2": [9],
+    "bg_hills4": [10],
+    "bg_hills3": [11],
+    "mg_tree1": [12],
+    "bg_hills2": [13],
+    "fg_tree": [14],
+    "fg_bush1": [15],
+    "fg_bush2": [16]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:bc2e3fb6f9001879f3681600fc4a455d:ade49c2cf05dffe1869b831913c5d6ac:9485e8405b03afed4758868270a314fa$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

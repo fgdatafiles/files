@@ -1,0 +1,50 @@
+{
+
+"images": [
+    "assets/spritesheets/snow-ss.png"
+],
+
+"frames": [
+    [1, 1, 1428, 269, 0, 0, 0],
+    [1, 272, 1428, 265, 0, 0, 0],
+    [1, 539, 317, 392, 0, 0, 0],
+    [1431, 1, 327, 324, 0, 0, 0],
+    [320, 539, 243, 386, 0, 0, 0],
+    [565, 539, 249, 307, 0, 0, 0],
+    [565, 848, 348, 83, 0, 0, 0],
+    [816, 539, 150, 307, 0, -99, 0],
+    [968, 539, 276, 272, 0, 0, 0],
+    [1431, 327, 365, 174, 0, 0, 0],
+    [1431, 503, 357, 71, 0, 0, 0],
+    [1246, 539, 181, 201, 0, 0, 0],
+    [1429, 576, 333, 115, 0, 0, 0],
+    [1246, 742, 390, 142, 0, 0, 0],
+    [968, 813, 188, 65, 0, 0, 0],
+    [1638, 693, 96, 64, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_ground": [1],
+    "mg_tree2": [2],
+    "mg_tree3": [3],
+    "mg_tree1": [4],
+    "characterEnd": [5],
+    "fg_tree2": [6],
+    "characterStart": [7],
+    "mg_tree4": [8],
+    "fg_tree1": [9],
+    "bg_hill2": [10],
+    "bg_castle": [11],
+    "bg_hill1": [12],
+    "mg_hill": [13],
+    "bg_cloud1": [14],
+    "bg_cloud2": [15]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:c3ec291612b7ee5b75c86c94e235407c:96f9a099610889a415b3affd35afc355:1fbab5d0226ff89170174c11b69efeb6$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

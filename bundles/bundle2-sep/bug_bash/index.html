@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Bug Bash</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<link rel="stylesheet" type="text/css" href="styles/bugs.css">
+	<script src="scripts/jquery-1.11.3.min.js"></script>
+	<script src="scripts/phaser.min.js"></script>
+	<script src="scripts/bugs.js"></script>
+	<style type="text/css">
+		html,
+		body {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			background-color: #000;
+		}
+		#bugs {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div id="bugs"></div>
+
+	<div style="font-family: bpreplayregular; position: absolute; left: -1000px;">LOAD FONT!</div>
+	<div style="font-family: bpreplaybold; position: absolute; left: -1000px;">LOAD FONT!</div>
+
+	<script type="text/javascript">
+		window.onload = function () {
+			loadGame();
+		};
+	</script>
+
+	</body>
+
+</html>

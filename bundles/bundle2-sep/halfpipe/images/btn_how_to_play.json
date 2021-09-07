@@ -1,0 +1,30 @@
+{"frames": {
+
+"howto0001.png":
+{
+	"frame": {"x":0,"y":0,"w":171,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":53},
+	"sourceSize": {"w":171,"h":53},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"howto0002.png":
+{
+	"frame": {"x":171,"y":0,"w":171,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":171,"h":53},
+	"sourceSize": {"w":174,"h":53},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_how_to_play.png",
+	"format": "RGBA8888",
+	"size": {"w":342,"h":53},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b11fb960d0852cdbeb5627edf2b4ecab:2128b4f5ecfadf3746a8de177094049a:676e496c587bdeea290a8f94d2b635aa$"
+}
+}

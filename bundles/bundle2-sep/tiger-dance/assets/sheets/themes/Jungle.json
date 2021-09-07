@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "./assets/sheets/themes/Jungle.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 628, 763, 0, -4, 0],
+    [1, 766, 597, 303, 0, -7, 0],
+    [631, 1, 887, 388, 0, -9, 0],
+    [631, 391, 771, 686, 0, 0, 0],
+    [1404, 391, 407, 422, 0, -1, 0]
+],
+
+"animations": {
+    "Jungle_Tree_01": { "frames": [0] },
+    "Jungle_Bush_02": { "frames": [1] },
+    "Jungle_Bush_01": { "frames": [2] },
+    "Jungle_Tree_02": { "frames": [3] },
+    "Jungle_Vine_01": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:a51b85ffb6d2f4af4fb21cff1f1353d0:b3a746dcb6c10d6a7c86be612978a952:343070f4ee0d36efa4c7a9c955f8dda5$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

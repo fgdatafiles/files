@@ -1,0 +1,209 @@
+
+Fanfare.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmLAtt
+  rotate: true
+  xy: 957, 742
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+ArmRAtt
+  rotate: true
+  xy: 815, 718
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+ChestAtt
+  rotate: false
+  xy: 2, 124
+  size: 113, 175
+  orig: 113, 175
+  offset: 0, 0
+  index: -1
+EyeAtt
+  rotate: true
+  xy: 240, 219
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+EyeBallAtt
+  rotate: false
+  xy: 62, 2
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+EyeBrowL
+  rotate: false
+  xy: 381, 461
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+EyeClosedAtt
+  rotate: true
+  xy: 283, 216
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+EyeClosingAtt
+  rotate: true
+  xy: 326, 216
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+EyebrowR
+  rotate: true
+  xy: 117, 124
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+EyesAtt
+  rotate: false
+  xy: 870, 811
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+EyesClosedAtt
+  rotate: true
+  xy: 117, 168
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+EyesClosingAtt
+  rotate: false
+  xy: 435, 468
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+FaceAtt
+  rotate: false
+  xy: 649, 804
+  size: 219, 218
+  orig: 219, 218
+  offset: 0, 0
+  index: -1
+FrontAtt
+  rotate: false
+  xy: 2, 441
+  size: 377, 38
+  orig: 377, 38
+  offset: 0, 0
+  index: -1
+FurblurAtt
+  rotate: false
+  xy: 2, 301
+  size: 151, 138
+  orig: 151, 138
+  offset: 0, 0
+  index: -1
+HairBackAtt
+  rotate: false
+  xy: 435, 566
+  size: 196, 125
+  orig: 196, 125
+  offset: 0, 0
+  index: -1
+HandLAtt
+  rotate: false
+  xy: 62, 25
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+HandRAtt
+  rotate: false
+  xy: 159, 226
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+HoodieAtt
+  rotate: false
+  xy: 649, 708
+  size: 164, 94
+  orig: 164, 94
+  offset: 0, 0
+  index: -1
+MedalAtt
+  rotate: false
+  xy: 881, 739
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+MedalRibbonAtt
+  rotate: true
+  xy: 2, 3
+  size: 119, 58
+  orig: 119, 58
+  offset: 0, 0
+  index: -1
+MouthAtt
+  rotate: false
+  xy: 159, 187
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+MouthSmileAtt
+  rotate: true
+  xy: 583, 510
+  size: 54, 16
+  orig: 54, 16
+  offset: 0, 0
+  index: -1
+NeckAtt
+  rotate: false
+  xy: 435, 510
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+PigtailLAtt
+  rotate: true
+  xy: 155, 316
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+PigtailRCol
+  rotate: false
+  xy: 870, 853
+  size: 145, 169
+  orig: 145, 169
+  offset: 0, 0
+  index: -1
+ResultsAtt
+  rotate: false
+  xy: 2, 693
+  size: 645, 329
+  orig: 645, 329
+  offset: 0, 0
+  index: -1
+StarsAtt
+  rotate: false
+  xy: 2, 481
+  size: 431, 210
+  orig: 431, 210
+  offset: 0, 0
+  index: -1
+YellowStarAtt
+  rotate: true
+  xy: 296, 313
+  size: 126, 74
+  orig: 126, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,44 @@
+{"frames": {
+
+"button-map-default.png":
+{
+	"frame": {"x":0,"y":0,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+"button-map-disabled.png":
+{
+	"frame": {"x":102,"y":0,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+"button-map-hover.png":
+{
+	"frame": {"x":204,"y":0,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+"button-map-pressed.png":
+{
+	"frame": {"x":306,"y":0,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BackButton.png",
+	"format": "RGBA8888",
+	"size": {"w":408,"h":102},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8ec9f181d90127e3e65a823ba29f31d5:a5bb0b02c21d4c654a0c12de72a68374:7e9fe025b8e74444a6f9e5bb2fbc286e$"
+}
+}

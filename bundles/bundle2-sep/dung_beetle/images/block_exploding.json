@@ -1,0 +1,93 @@
+{"frames": {
+
+"rocksquare_blowup_anim0001.png":
+{
+	"frame": {"x":167,"y":150,"w":88,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":68,"w":88,"h":87},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0002.png":
+{
+	"frame": {"x":488,"y":0,"w":101,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":56,"w":101,"h":99},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0003.png":
+{
+	"frame": {"x":460,"y":129,"w":117,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":53,"w":117,"h":102},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0004.png":
+{
+	"frame": {"x":328,"y":129,"w":132,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":50,"w":132,"h":118},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0005.png":
+{
+	"frame": {"x":328,"y":0,"w":160,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":43,"w":160,"h":129},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0006.png":
+{
+	"frame": {"x":0,"y":0,"w":179,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":31,"w":179,"h":147},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0007.png":
+{
+	"frame": {"x":179,"y":0,"w":149,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":39,"w":149,"h":150},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0008.png":
+{
+	"frame": {"x":0,"y":147,"w":167,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":128,"w":167,"h":68},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"rocksquare_blowup_anim0009.png":
+{
+	"frame": {"x":255,"y":150,"w":56,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":135,"w":56,"h":57},
+	"sourceSize": {"w":224,"h":224},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "block_exploding.png",
+	"format": "RGBA8888",
+	"size": {"w":589,"h":247},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4992141682c4ccd71357be3f1b6df919:1f16a979879a4784bf3f605ab5baa902:d87259879e99b22c3c257219195ec473$"
+}
+}

@@ -1,0 +1,13 @@
+
+Transition.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Transition
+  rotate: false
+  xy: 2, 2
+  size: 449, 460
+  orig: 449, 460
+  offset: 0, 0
+  index: -1

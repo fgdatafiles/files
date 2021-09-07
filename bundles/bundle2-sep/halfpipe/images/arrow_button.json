@@ -1,0 +1,30 @@
+{"frames": {
+
+"arrow_button0001.png":
+{
+	"frame": {"x":0,"y":0,"w":49,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":49,"h":43},
+	"sourceSize": {"w":65,"h":59},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"arrow_button0002.png":
+{
+	"frame": {"x":49,"y":0,"w":49,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":49,"h":43},
+	"sourceSize": {"w":65,"h":59},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "arrow_button.png",
+	"format": "RGBA8888",
+	"size": {"w":98,"h":43},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3e2984fdabf9cfe90a6e3911ce4c0427:cffe5291e4db9ad43534573b394782c1:86625b01983e35eb4779407da9a2aa24$"
+}
+}

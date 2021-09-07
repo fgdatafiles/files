@@ -1,0 +1,620 @@
+﻿{
+  "manifest": [
+    {
+      "id": "scene_sheet",
+      "src": "assets/sheets/party_scene.json",
+      "type": "spritesheet"
+    },
+    {
+      "id": "fill_sheet",
+      "src": "assets/sheets/cup_fills.json",
+      "type": "spritesheet"
+    },
+    {
+      "id": "bg",
+      "src": "assets/images/Teaparty_Background.jpg",
+      "type": "image"
+    }
+  ],
+  "clickNstickThreshold": 250,
+  "characters": [
+    {
+      "name": "Daniel",
+      "seat": 2,
+      "dragonBonesData": {
+        "name": "Daniel",
+        "audioPath": "assets/audio/vo/",
+        "armatureName": "TeaPartyDan_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "skeleton",
+          "src": "assets/dragonBones/TeaParty_Daniel/skeleton.json",
+          "type": "json"
+        },
+        "texture": {
+          "id": "texture",
+          "src": "assets/dragonBones/TeaParty_Daniel/texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "texture_def",
+          "src": "assets/dragonBones/TeaParty_Daniel/texture.json",
+          "type": "json"
+        }
+      },
+      "VOManifest": "assets/audio/vo/party_daniel.json",
+      "mouthArmature": "Dan_TalkingMouth",
+      "VO": {
+        "interests": [
+          "Daniel_conversation_v01",
+          "Daniel_conversation_v02",
+          "Daniel_conversation_v03",
+          "Daniel_conversation_v04",
+          "Daniel_conversation_v05",
+          "Daniel_conversation_v06",
+          "Daniel_conversation_v07",
+          "Daniel_conversation_v08",
+          "Daniel_conversation_v09",
+          "Daniel_conversation_v10"
+        ],
+        "favorite": "Daniel_Favorite",
+        "thanks": [
+          "Daniel_thankYou_v01",
+          "Daniel_thankYou_v02",
+          "Daniel_thankYou_v03",
+          "Daniel_thankYou_v04",
+          "Daniel_thankYou_v05",
+          "Daniel_thankYou_v06",
+          "Daniel_thankYou_v07",
+          "Daniel_thankYou_v08"
+        ],
+        "sip": "Daniel_sip",
+        "moreTea": [
+          "Daniel_moreTea_v01",
+          "Daniel_moreTea_v02",
+          "Daniel_moreTea_v03",
+          "Daniel_moreTea_v04"
+        ],
+        "moreTeaNeighbor": [
+          "Daniel_moreTeaNeighbor_v01",
+          "Daniel_moreTeaneighbor_v02"
+        ],
+        "moreSnacks": [
+          "Daniel_moreSnack_v01",
+          "Daniel_moreSnack_v02",
+          "Daniel_moreSnack_v03"
+        ],
+        "full": [
+          "Daniel_notDoneTea_v01",
+          "Daniel_notDoneTea_v02",
+          "Daniel_notDoneTea_v03",
+          "Daniel_notDoneTea_v04"
+        ],
+        "fullSnack": "Daniel_notDoneTea_v03",
+        "eat": [
+          "Daniel_crunch",
+          "Daniel_cookie",
+          "Daniel_Berry",
+          "Daniel_apple"
+        ]
+      },
+      "animations": {
+        "dialog": [ "dialog1", "dialog2", "dialog3", "dialog4" ],
+        "fullSnack": "full_cup",
+        "thanks": "thank_you"
+      },
+      "cloths": [
+        "TableOL_2_PatternA",
+        "TableOL_2_PatternB",
+        "TableOL_2_PatternC",
+        "TableOL_2_PatternD",
+        "TableOL_2_PatternE",
+        "TableOL_2_PatternF"
+      ]
+    },
+    {
+      "name": "Katerina",
+      "seat": 6,
+      "dragonBonesData": {
+        "name": "Katerina",
+        "audioPath": "assets/audio/vo/",
+        "armatureName": "TeaPartyKat_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "skeleton",
+          "src": "assets/dragonBones/TeaParty_Kat/skeleton.json",
+          "type": "json"
+        },
+        "texture": {
+          "id": "texture",
+          "src": "assets/dragonBones/TeaParty_Kat/texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "texture_def",
+          "src": "assets/dragonBones/TeaParty_Kat/texture.json",
+          "type": "json"
+        }
+      },
+      "VOManifest": "assets/audio/vo/party_kat.json",
+      "mouthArmature": "Kat_TalkingMouth",
+      "VO": {
+        "interests": [
+          "Katerina_talk_v01",
+          "Katerina_talk_v02",
+          "Katerina_talk_v03",
+          "Katerina_talk_v04",
+          "Katerina_talk_v05"
+        ],
+        "favorite": "Katerina_favorite",
+        "thanks": [
+          "Katerina_thankyou_v01",
+          "Katerina_thankyou_v02",
+          "Katerina_thankyou_v03",
+          "Katerina_thankyou_v04"
+        ],
+        "sip": "Katerina_sip",
+        "moreTea": [
+          "Katerina_moretea_v01",
+          "Katerina_moretea_v02",
+          "Katerina_moretea_v03"
+        ],
+        "moreTeaNeighbor": [
+          "Katerina_youareout_v01"
+        ],
+        "moreSnacks": [
+          "Katerina_moresnacks_v01",
+          "Katerina_moresnacks_v02",
+          "Katerina_moresnacks_v03"
+        ],
+        "full": [
+          "Katerina_notdoneyet_v01",
+          "Katerina_notdoneyet_v01",
+          "Katerina_notdoneyet_v03"
+        ],
+        "fullSnack": "Katerina_notdoneyet_v03",
+        "eat": [
+          "Katerina_crunch",
+          "Katerina_cookie",
+          "Katerina_berry",
+          "Katerina_apple"
+        ],
+        "greeting": [
+          "Katerina_Greeting_v01"
+        ]
+      },
+      "animations": {
+        "dialog": [ "dialog1", "dialog2", "dialog3" ],
+        "fullSnack": "full_cup",
+        "thanks": "thank_you"
+      },
+      "cloths": [
+        "TableOL_6_PatternA",
+        "TableOL_6_PatternB",
+        "TableOL_6_PatternC",
+        "TableOL_6_PatternD",
+        "TableOL_6_PatternE",
+        "TableOL_6_PatternF"
+      ]
+    },
+    {
+      "name": "O",
+      "seat": 5,
+      "dragonBonesData": {
+        "name": "O",
+        "audioPath": "assets/audio/vo/",
+        "armatureName": "TeaParty_O_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "skeleton",
+          "src": "assets/dragonBones/TeaParty_O/skeleton.json",
+          "type": "json"
+        },
+        "texture": {
+          "id": "texture",
+          "src": "assets/dragonBones/TeaParty_O/texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "texture_def",
+          "src": "assets/dragonBones/TeaParty_O/texture.json",
+          "type": "json"
+        }
+      },
+      "VOManifest": "assets/audio/vo/party_o.json",
+      "mouthArmature": "O_TalkingMouth",
+      "VO": {
+        "interests": [
+          "O_talk_v01",
+          "O_talk_v02",
+          "O_talk_v03",
+          "O_talk_v04"
+        ],
+        "favorite": "O_Favorite",
+        "thanks": [
+          "O_thankyou_v01",
+          "O_thankyou_v02",
+          "O_thankyou_v03",
+          "O_thankyou_v04",
+          "O_thankyou_v05"
+        ],
+        "sip": "O_sip",
+        "moreTea": [
+          "O_moretea_v01",
+          "O_moretea_v02",
+          "O_moretea_v03"
+        ],
+        "moreTeaNeighbor": [
+          "O_youareout_v01",
+          "O_youareout_v02"
+        ],
+        "moreSnacks": [
+          "O_moresnacks_v01",
+          "O_moresnacks_v02",
+          "O_moresnacks_v03"
+        ],
+        "full": [
+          "O_notdoneyet_v01",
+          "O_notdoneyet_v02"
+        ],
+        "fullSnack": "O_notdoneyet_v01",
+        "eat": [
+          "O_crunch",
+          "O_cookie",
+          "O_berry",
+          "O_apple"
+        ],
+        "greeting": [
+          "O_Greeting_v01"
+        ]
+      },
+      "animations": {
+        "dialog": [ "dialog1", "dialog2", "dialog3" ],
+        "fullSnack": "full_cup",
+        "thanks": "thank_you"
+      },
+      "cloths": [
+        "TableOL_5_PatternA",
+        "TableOL_5_PatternB",
+        "TableOL_5_PatternC",
+        "TableOL_5_PatternD",
+        "TableOL_5_PatternE",
+        "TableOL_5_PatternF"
+      ]
+    },
+    {
+      "name": "Wednesday",
+      "seat": 4,
+      "dragonBonesData": {
+        "name": "Wednesday",
+        "audioPath": "assets/audio/vo/",
+        "armatureName": "TeaPartyWed_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "skeleton",
+          "src": "assets/dragonBones/TeaParty_Wed/skeleton.json",
+          "type": "json"
+        },
+        "texture": {
+          "id": "texture",
+          "src": "assets/dragonBones/TeaParty_Wed/texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "texture_def",
+          "src": "assets/dragonBones/TeaParty_Wed/texture.json",
+          "type": "json"
+        }
+      },
+      "VOManifest": "assets/audio/vo/party_wed.json",
+      "mouthArmature": "Wed_TalkingMouth",
+      "VO": {
+        "interests": [
+          "Wednesday_talk_v01",
+          "Wednesday_talk_v02",
+          "Wednesday_talk_v03",
+          "Wednesday_talk_v04"
+        ],
+        "favorite": "Wednesday_favorite",
+        "thanks": [
+          "Wednesday_thankyou_v01",
+          "Wednesday_thankyou_v02",
+          "Wednesday_thankyou_v03",
+          "Wednesday_thankyou_v04",
+          "Wednesday_thankyou_v05"
+        ],
+        "sip": "Wednesday_sip",
+        "moreTea": [
+          "Wednesday_moretea_v01",
+          "Wednesday_moretea_v02",
+          "Wednesday_moretea_v03"
+        ],
+        "moreTeaNeighbor": [
+          "Wednesday_youareout_v01"
+        ],
+        "moreSnacks": [
+          "Wednesday_moresnacks_v01",
+          "Wednesday_moresnacks_v02",
+          "Wednesday_moresnacks_v03"
+        ],
+        "full": [
+          "Wednesday_notdoneyet_v01",
+          "Wednesday_notdoneyet_v02",
+          "Wednesday_notdoneyet_v03"
+        ],
+        "fullSnack": "Wednesday_notdoneyet_v03",
+        "eat": [
+          "Wednesday_crunch",
+          "Wednesday_cookie",
+          "Wednesday_berry",
+          "Wednesday_apple"
+        ],
+        "greeting": [
+          "Wednesday_Greeting_v01"
+        ]
+      },
+      "animations": {
+        "dialog": [ "dialog1", "dialog2", "dialog3" ],
+        "fullSnack": "full_cup",
+        "thanks": "thank_you"
+      },
+      "cloths": [
+        "TableOL_4_PatternA",
+        "TableOL_4_PatternB",
+        "TableOL_4_PatternC",
+        "TableOL_4_PatternD",
+        "TableOL_4_PatternE",
+        "TableOL_4_PatternF"
+      ]
+    },
+    {
+      "name": "Elaina",
+      "seat": 3,
+      "dragonBonesData": {
+        "name": "Elaina",
+        "audioPath": "assets/audio/vo/",
+        "armatureName": "TeaPartyElaina_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "skeleton",
+          "src": "assets/dragonBones/TeaParty_Elaina/skeleton.json",
+          "type": "json"
+        },
+        "texture": {
+          "id": "texture",
+          "src": "assets/dragonBones/TeaParty_Elaina/texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "texture_def",
+          "src": "assets/dragonBones/TeaParty_Elaina/texture.json",
+          "type": "json"
+        }
+      },
+      "VOManifest": "assets/audio/vo/party_elaina.json",
+      "mouthArmature": "Elaina_TalkingMouth",
+      "VO": {
+        "interests": [
+          "Elaina_talk_v01",
+          "Elaina_talk_v02",
+          "Elaina_talk_v03",
+          "Elaina_talk_v04",
+          "Elaina_talk_v05"
+        ],
+        "favorite": "Elaina_favorite",
+        "thanks": [
+          "Elaina_thankyou_v01",
+          "Elaina_thankyou_v02",
+          "Elaina_thankyou_v03",
+          "Elaina_thankyou_v04"
+        ],
+        "sip": "Elaina_sip",
+        "moreTea": [
+          "Elaina_moretea_v01",
+          "Elaina_moretea_v02",
+          "Elaina_moretea_v03"
+        ],
+        "moreTeaNeighbor": [
+          "Elaina_youareout",
+          "Elaina_youareout2"
+        ],
+        "moreSnacks": [
+          "Elaina_moresnacks_v01",
+          "Elaina_moresnacks_v02",
+          "Elaina_moresnacks_v03"
+        ],
+        "full": [
+          "Elaina_notdoneyet_v01",
+          "Elaina_notdoneyet_v02"
+        ],
+        "fullSnack": "Elaina_notdoneyet_v01",
+        "eat": [
+          "Elaina_crunch",
+          "Elaina_cookie",
+          "Elaina_berry",
+          "Elaina_apple"
+        ],
+        "greeting": [
+          "Elaina_Greeting_v01"
+        ]
+      },
+      "animations": {
+        "dialog": [ "dialog1", "dialog2", "dialog3" ],
+        "fullSnack": "full_cup",
+        "thanks": "thank_you"
+      },
+      "cloths": [
+        "TableOL_3_PatternA",
+        "TableOL_3_PatternB",
+        "TableOL_3_PatternC",
+        "TableOL_3_PatternD",
+        "TableOL_3_PatternE",
+        "TableOL_3_PatternF"
+      ]
+    }
+  ],
+  "characterCup": {
+    "styles": [
+      [ "TeaParty_Teacup_A_character", "Teaparty_Teacup_A_TippedAway", "Teaparty_Teacup_A_TippedForward" ],
+      [ "TeaParty_Teacup_B_character", "Teaparty_Teacup_B_TippedAway", "Teaparty_Teacup_B_TippedForward" ],
+      [ "TeaParty_Teacup_C_character", "Teaparty_Teacup_C_TippedAway", "Teaparty_Teacup_C_TippedForward" ],
+      [ "TeaParty_Teacup_D_character", "Teaparty_Teacup_D_TippedAway", "Teaparty_Teacup_D_TippedForward" ],
+      [ "TeaParty_Teacup_E_character", "TeaParty_Teacup_E_TippedAway", "TeaParty_Teacup_E1_TippedForward" ],
+      [ "TeaParty_Teacup_F_character", "Teaparty_Teacup_F_TippedAway", "Teaparty_Teacup_F_TippedForward" ]
+    ],
+    "fills": [
+      "Teacup_A_character_TeaLevel",
+      "Teacup_B_character_TeaLevel",
+      "Teacup_C_character_TeaLevel",
+      "Teacup_D_character_TeaLevel",
+      "Teacup_E_character_TeaLevel",
+      "Teacup_F_character_TeaLevel"
+    ]
+  },
+  "snackPlate": {
+    "styles": [
+      "Teaplate_A",
+      "Teaplate_B",
+      "Teaplate_C",
+      "Teaplate_D",
+      "Teaplate_E",
+      "Teaplate_F"
+    ]
+  },
+  "servingDish": {
+    "position": {
+      "x": 515,
+      "y": 310
+    },
+    "snacks": [
+      [ "Snack_A_Stack0", "Snack_A_Stack1", "Snack_A_Stack2", "Snack_A_Stack3", "Snack_A_Stack4", "Snack_A_Stack5", "Snack_A_Stack6" ],
+      [ null, "Snack_B_Stack1", "Snack_B_Stack2", "Snack_B_Stack3", "Snack_B_Stack4", "Snack_B_Stack5", "Snack_B_Stack6" ],
+      [ null, "Snack_C_Stack1", "Snack_C_Stack2", "Snack_C_Stack3", "Snack_C_Stack4", "Snack_C_Stack5", "Snack_C_Stack6" ],
+      [ null, "Snack_D_Stack1", "Snack_D_Stack2", "Snack_D_Stack3", "Snack_D_Stack4", "Snack_D_Stack5", "Snack_D_Stack6" ]
+    ],
+    "pickups": [
+      {
+        "spriteId": "TeaParty_Snack_A",
+        "offset": {
+          "x": -50,
+          "y": -50
+        }
+      },
+      {
+        "spriteId": "TeaParty_Snack_B",
+        "offset": {
+          "x": -50,
+          "y": -50
+        }
+      },
+      {
+        "spriteId": "TeaParty_Snack_C",
+        "offset": {
+          "x": -50,
+          "y": -50
+        }
+      },
+      {
+        "spriteId": "TeaParty_Snack_D",
+        "offset": {
+          "x": -50,
+          "y": -50
+        }
+      }
+    ],
+    "plates": [
+      "Teaplate_A",
+      "Teaplate_B",
+      "Teaplate_C",
+      "Teaplate_D",
+      "Teaplate_E",
+      "Teaplate_F"
+    ]
+  },
+  "teaSnacks": {
+    "types": [
+      [ null, "TeaParty_Snack_A_Bite2", "TeaParty_Snack_A" ],
+      [ null, "TeaParty_Snack_B_Bite2", "TeaParty_Snack_B" ],
+      [ null, "TeaParty_Snack_C2_Bite", "TeaParty_Snack_C2" ],
+      [ null, "TeaParty_Snack_D_Bite2", "TeaParty_Snack_D" ]
+    ],
+    "serveSfx": [
+      "cookie_deal",
+      "cookie_deal",
+      "berry_deal",
+      "berry_deal"
+    ]
+  },
+  "table": {
+    "spriteId": "TeaParty_Table_Bare",
+    "position": {
+      "x": 0,
+      "y": 243
+    },
+    "cloths": [
+      "TeaParty_Table_PatternA",
+      "TeaParty_Table_PatternB",
+      "TeaParty_Table_PatternC",
+      "TeaParty_Table_PatternD",
+      "TeaParty_Table_PatternE",
+      "TeaParty_Table_PatternF"
+    ]
+  },
+  "teasetShelf": {
+    "position": {
+      "x": 55,
+      "y": 7
+    },
+    "styles": [
+      "Shelf_Teaset_A",
+      "Shelf_Teaset_B",
+      "Shelf_Teaset_C",
+      "Shelf_Teaset_D",
+      "Shelf_Teaset_E",
+      "Shelf_Teaset_F"
+    ]
+  },
+  "clothShelf": {
+    "position": {
+      "x": 372,
+      "y": 7
+    },
+    "styles": [
+      "Shelf_TableCloth_A",
+      "Shelf_TableCloth_B",
+      "Shelf_TableCloth_C",
+      "Shelf_TableCloth_D",
+      "Shelf_TableCloth_E",
+      "Shelf_TableCloth_F"
+    ]
+  },
+  "snackShelf": {
+    "position": {
+      "x": 697,
+      "y": 21
+    },
+    "styles": [
+      "Shelf_Snack_A",
+      "Shelf_Snack_B",
+      "Shelf_Snack_C",
+      "Shelf_Snack_D"
+    ]
+  },
+  "teapotPlacement": {
+    "x": 375,
+    "y": 410
+  },
+  "playerCupPlacement": {
+    "x": 460,
+    "y": 485
+  },
+  "playerItemScale": 0.85,
+  "playerSnackPlatePlacement": {
+    "x": 325,
+    "y": 425
+  },
+  "playerSnackPlacement": {
+    "x": 350,
+    "y": 400
+  }
+}

@@ -1,0 +1,30 @@
+{"frames": {
+
+"audio0001.png":
+{
+	"frame": {"x":0,"y":0,"w":39,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":35},
+	"sourceSize": {"w":39,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"audio0002.png":
+{
+	"frame": {"x":39,"y":0,"w":39,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":35},
+	"sourceSize": {"w":39,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_audio.png",
+	"format": "RGBA8888",
+	"size": {"w":78,"h":35},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:07e2c0beff3bcb840ef32bb9d7f3646e:06f9229e586aca736e2cfe73571a90ee:00f0287fae06af25524681e2643572f4$"
+}
+}

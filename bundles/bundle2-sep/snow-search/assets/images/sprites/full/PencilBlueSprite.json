@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn70000":
+{
+	"frame": {"x":0,"y":100,"w":117,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":99},
+	"sourceSize": {"w":117,"h":99}
+},
+"sn70001":
+{
+	"frame": {"x":118,"y":0,"w":117,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":99},
+	"sourceSize": {"w":117,"h":99}
+},
+"sn70002":
+{
+	"frame": {"x":0,"y":0,"w":117,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":99},
+	"sourceSize": {"w":117,"h":99}
+},
+"sn70003":
+{
+	"frame": {"x":118,"y":100,"w":111,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":117,"h":99},
+	"sourceSize": {"w":117,"h":99}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "PencilBlueSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

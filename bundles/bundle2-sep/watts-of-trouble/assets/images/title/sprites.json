@@ -1,0 +1,32 @@
+{
+
+"images": [
+    "assets/images/title/sprites.png"
+],
+
+"frames": [
+    [2, 2, 1102, 768, 0, 0, 0],
+    [2, 772, 200, 186, 0, 0, 0],
+    [204, 772, 360, 100, 0, 0, 0],
+    [204, 874, 74, 89, 0, -64, -48],
+    [1106, 2, 603, 346, 0, 0, 0],
+    [1711, 2, 269, 406, 0, -50, -42],
+    [1106, 410, 369, 448, 0, 0, 0]
+],
+
+"animations": {
+    "gradient": [0],
+    "btn/play/bg": [1],
+    "cyberchase": [2],
+    "btn/play/icon": [3],
+    "title": [4],
+    "hacker": [5],
+    "hacker-costume": [6]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:cbd2513c46f594562edc4a14ae1c345c:02cd10b06a1fb24a8854b0de6617fe63:1eabdf11f75e3a4fe3147baf7b5be24b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

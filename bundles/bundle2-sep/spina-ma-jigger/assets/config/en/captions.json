@@ -1,0 +1,2922 @@
+{
+	"CITH SPIN QUESTIONS 1126-1265 SALLY_02": [],
+	"spinmj-01-CAT-01": [
+		{
+			"content": "Spin-a-ma-jigger!",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"spinmj-02-CAT-01": [
+		{
+			"content": "Play!",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-03-CAT-01": [
+		{
+			"content": "Spin the spinner!",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-04-CAT-01": [
+		{
+			"content": "Let's spin!",
+			"start": 0,
+			"end": 1380
+		}
+	],
+	"spinmj-05-CAT-01": [
+		{
+			"content": "Give it a spin!",
+			"start": 0,
+			"end": 1540
+		}
+	],
+	"spinmj-06-CAT-01": [
+		{
+			"content": "Well done.",
+			"start": 0,
+			"end": 1670
+		}
+	],
+	"spinmj-07-CAT-01": [
+		{
+			"content": "Let's spin again!",
+			"start": 0,
+			"end": 1750
+		}
+	],
+	"spinmj-08-CAT-01": [
+		{
+			"content": "Choose a game to play!",
+			"start": 0,
+			"end": 2000
+		}
+	],
+	"spinmj-09-CAT-01B": [
+		{
+			"content": "Choose this to spin the spinner! ",
+			"start": 0,
+			"end": 2590
+		}
+	],
+	"spinmj-10-CAT-01": [
+		{
+			"content": "Which game would you like to play?",
+			"start": 0,
+			"end": 2420
+		}
+	],
+	"spinmj-100-SALLY-01A": [
+		{
+			"content": "Confetti in a balloon!",
+			"start": 210,
+			"end": 2210
+		}
+	],
+	"spinmj-101-SALLY-01C": [
+		{
+			"content": "How light!",
+			"start": 0,
+			"end": 1290
+		}
+	],
+	"spinmj-102-SALLY-01C": [
+		{
+			"content": "That's pop-tastic!",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"spinmj-103-SALLY-01D": [
+		{
+			"content": "Next time, can you pop all the red balloons first?",
+			"start": 0,
+			"end": 4470
+		}
+	],
+	"spinmj-104-SALLY-01A": [
+		{
+			"content": "Next time, can you pop all the water balloons first?",
+			"start": 0,
+			"end": 3740
+		}
+	],
+	"spinmj-105-SALLY-01D": [
+		{
+			"content": "Next time, can you pop all the blue balloons first?",
+			"start": 0,
+			"end": 4550
+		}
+	],
+	"spinmj-106-NICK-01C": [
+		{
+			"content": "Wave the wand fast to make lots of small bubbles.",
+			"start": 0,
+			"end": 4230
+		}
+	],
+	"spinmj-107-NICK-01E": [
+		{
+			"content": "Wave the wand slowly, to make one big bubble!",
+			"start": 0,
+			"end": 3930
+		}
+	],
+	"spinmj-108-NICK-01E": [
+		{
+			"content": "Try moving the wand slowly.",
+			"start": 0,
+			"end": 2840
+		}
+	],
+	"spinmj-109-NICK-01D": [
+		{
+			"content": "Try moving the wand fast!",
+			"start": 0,
+			"end": 2340
+		}
+	],
+	"spinmj-11-CAT-01": [
+		{
+			"content": "What do you want to play next?",
+			"start": 0,
+			"end": 2380
+		}
+	],
+	"spinmj-110-NICK-01I": [
+		{
+			"content": "Use the wand to pop your bubbles.",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-111-NICK-01D": [
+		{
+			"content": "Touch the bubbles with your wand to pop them!",
+			"start": 0,
+			"end": 3700
+		}
+	],
+	"spinmj-112-NICK-01B": [
+		{
+			"content": "Touch the bubbles to pop them!",
+			"start": 0,
+			"end": 2290
+		}
+	],
+	"spinmj-113-NICK-01D": [
+		{
+			"content": "Can you follow the bubbles with your eyes? ",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-114-NICK-01D": [
+		{
+			"content": "What does the bubble sound like when it pops?",
+			"start": 0,
+			"end": 3250
+		}
+	],
+	"spinmj-115-NICK-01G": [
+		{
+			"content": "Have you ever felt a bubble on your tongue?!",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-116-NICK-01A": [
+		{
+			"content": "What do bubbles feel like?",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"spinmj-117-NICK-01D": [
+		{
+			"content": "What do bubbles smell like?",
+			"start": 0,
+			"end": 2500
+		}
+	],
+	"spinmj-118-NICK-01E": [
+		{
+			"content": "What happens if you move slowly?",
+			"start": 0,
+			"end": 2380
+		}
+	],
+	"spinmj-119-NICK-01A": [
+		{
+			"content": "What happens if you move fast?",
+			"start": 0,
+			"end": 2420
+		}
+	],
+	"spinmj-12-CAT-01": [
+		{
+			"content": "Let's choose a game! ",
+			"start": 0,
+			"end": 2250
+		}
+	],
+	"spinmj-120-NICK-01F": [
+		{
+			"content": "Melt the snowflakes with your fingertip!",
+			"start": 0,
+			"end": 2790
+		}
+	],
+	"spinmj-121-NICK-01D": [
+		{
+			"content": "Click on the snowflakes to melt them!",
+			"start": 0,
+			"end": 2460
+		}
+	],
+	"spinmj-122-NICK-01C": [
+		{
+			"content": "Touch the snowflake to make them melt!",
+			"start": 0,
+			"end": 2790
+		}
+	],
+	"spinmj-123-NICK-01G": [
+		{
+			"content": "Melt the snowflakes!",
+			"start": 0,
+			"end": 2130
+		}
+	],
+	"spinmj-124-NICK-01D": [
+		{
+			"content": "What do snowflakes feel like? ",
+			"start": 0,
+			"end": 2170
+		}
+	],
+	"spinmj-125-NICK-01D": [
+		{
+			"content": "Has a snowflake ever fallen on your tongue?",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"spinmj-126-NICK-01C": [
+		{
+			"content": "Brrrrrrr snowflakes feel cold! ",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-127-NICK-01I": [
+		{
+			"content": "What can you see with your eyes? ",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-128-SALLY-01D": [
+		{
+			"content": "These berries are wet and squishy!",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-129-SALLY-01E": [
+		{
+			"content": "Can you imagine what these berries smell like?",
+			"start": 0,
+			"end": 3730
+		}
+	],
+	"spinmj-13-CAT-01": [
+		{
+			"content": "Sticker Book!",
+			"start": 0,
+			"end": 1290
+		}
+	],
+	"spinmj-130-SALLY-01E": [
+		{
+			"content": "Ooh, these berries have tiny seeds inside. Cool!",
+			"start": 0,
+			"end": 4250
+		}
+	],
+	"spinmj-131-SALLY-01F": [
+		{
+			"content": "Oh! This must be where juice comes from!",
+			"start": 0,
+			"end": 4020
+		}
+	],
+	"spinmj-132-SALLY-01C": [
+		{
+			"content": "Hey! These must be paint balls.",
+			"start": 0,
+			"end": 2700
+		}
+	],
+	"spinmj-133-SALLY-01B": [
+		{
+			"content": "Oh! These are wet and squishy inside.",
+			"start": 0,
+			"end": 3690
+		}
+	],
+	"spinmj-134-SALLY-01C": [
+		{
+			"content": "*giggles*",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"spinmj-135-SALLY-01D": [
+		{
+			"content": "Hmm, this paint is kinda slippery.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-136-SALLY-01C": [
+		{
+			"content": "Oh, these leaves are crunchy!",
+			"start": 0,
+			"end": 2340
+		}
+	],
+	"spinmj-137-SALLY-01B": [
+		{
+			"content": "Hmm these are crispy and crunchy.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-138-SALLY-01E": [
+		{
+			"content": "What do you think these leaves smell like?",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-139-SALLY-01E": [
+		{
+			"content": "Have you seen green leaves turn red, yellow and orange in the fall?",
+			"start": 0,
+			"end": 5490
+		}
+	],
+	"spinmj-14-CAT-01": [
+		{
+			"content": "Sand Castle!",
+			"start": 0,
+			"end": 1580
+		}
+	],
+	"spinmj-140-SALLY-01D": [
+		{
+			"content": "Pick the option YOU like best!",
+			"start": 0,
+			"end": 2500
+		}
+	],
+	"spinmj-141-SALLY-01I": [
+		{
+			"content": "Which of these ice cream flavors tastes best?",
+			"start": 0,
+			"end": 3920
+		}
+	],
+	"spinmj-142-SALLY-01E": [
+		{
+			"content": "blueberry",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"spinmj-143-SALLY-01B": [
+		{
+			"content": "salmon",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-144-SALLY-01B": [
+		{
+			"content": "pizza",
+			"start": 0,
+			"end": 960
+		}
+	],
+	"spinmj-145-SALLY-01E": [
+		{
+			"content": "What do you think sounds best?",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"spinmj-146-SALLY-01D": [
+		{
+			"content": "bell",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-147-SALLY-01A": [
+		{
+			"content": "goldfish",
+			"start": 0,
+			"end": 1290
+		}
+	],
+	"spinmj-148-SALLY-01A": [
+		{
+			"content": "horn",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-149-SALLY-01C": [
+		{
+			"content": "Which is your favorite Thing?",
+			"start": 0,
+			"end": 2210
+		}
+	],
+	"spinmj-149-SALLY-01F": [
+		{
+			"content": "Which is your favorite Thing?",
+			"start": 0,
+			"end": 2590
+		}
+	],
+	"spinmj-15-CAT-01": [
+		{
+			"content": "Drawing and Coloring!",
+			"start": 0,
+			"end": 1920
+		}
+	],
+	"spinmj-150-SALLY-01A": [
+		{
+			"content": "Thing 1",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-151-SALLY-01A": [
+		{
+			"content": "Thing 2",
+			"start": 0,
+			"end": 1540
+		}
+	],
+	"spinmj-152-SALLY-01E": [
+		{
+			"content": "What is your favorite season?",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"spinmj-152-SALLY-01G": [
+		{
+			"content": "What is your favorite season?",
+			"start": 0,
+			"end": 2380
+		}
+	],
+	"spinmj-153-SALLY-01A": [
+		{
+			"content": "winter",
+			"start": 0,
+			"end": 1380
+		}
+	],
+	"spinmj-154-SALLY-01B": [
+		{
+			"content": "spring",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-155-SALLY-01B": [
+		{
+			"content": "summer",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-156-SALLY-01B": [
+		{
+			"content": "fall",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-157-SALLY-01D": [
+		{
+			"content": "Which of these colors looks best to you?",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-158-SALLY-01D": [
+		{
+			"content": "red",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-159-SALLY-01D": [
+		{
+			"content": "yellow",
+			"start": 0,
+			"end": 960
+		}
+	],
+	"spinmj-16-CAT-01": [
+		{
+			"content": "Balloons!",
+			"start": 0,
+			"end": 1500
+		}
+	],
+	"spinmj-160-SALLY-01A": [
+		{
+			"content": "blue",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-161-SALLY-01D": [
+		{
+			"content": "green",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-162-SALLY-01A": [
+		{
+			"content": "Which of these do YOU like to smell?",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-162-SALLY-02A": [
+		{
+			"content": "Which of these do YOU like to smell?",
+			"start": 0,
+			"end": 2790
+		}
+	],
+	"spinmj-163-SALLY-01D": [
+		{
+			"content": "flower",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-164-SALLY-01B": [
+		{
+			"content": "wet dog",
+			"start": 0,
+			"end": 1380
+		}
+	],
+	"spinmj-165-SALLY-01D": [
+		{
+			"content": "cake",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-166-SALLY-01D": [
+		{
+			"content": "swing set",
+			"start": 0,
+			"end": 1540
+		}
+	],
+	"spinmj-167-SALLY-01B": [
+		{
+			"content": "Which of these feels softest to you?",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-168-SALLY-01C": [
+		{
+			"content": "bunny",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-169-SALLY-01B": [
+		{
+			"content": "cloud",
+			"start": 0,
+			"end": 1130
+		}
+	],
+	"spinmj-17-CAT-01": [
+		{
+			"content": "Bubbles!",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-170-SALLY-01C": [
+		{
+			"content": "marshmallow",
+			"start": 0,
+			"end": 1540
+		}
+	],
+	"spinmj-171-SALLY-01B": [
+		{
+			"content": "teddy bear",
+			"start": 0,
+			"end": 1250
+		}
+	],
+	"spinmj-172-SALLY-01C": [
+		{
+			"content": "Which sound would help you fall asleep?",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-173-SALLY-01C": [
+		{
+			"content": "violin",
+			"start": 0,
+			"end": 1500
+		}
+	],
+	"spinmj-174-SALLY-01B": [
+		{
+			"content": "cat",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-175-SALLY-01C": [
+		{
+			"content": "bell",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-176-SALLY-01B": [
+		{
+			"content": "trumpet",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-177-SALLY-01F": [
+		{
+			"content": "Which one would roll the best?",
+			"start": 0,
+			"end": 2250
+		}
+	],
+	"spinmj-178-SALLY-01E": [
+		{
+			"content": "a block",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-179-SALLY-01G": [
+		{
+			"content": "basketball",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-18-CAT-02B": [
+		{
+			"content": "Squish It!",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-180-NICK-01E": [
+		{
+			"content": "chocolate",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-181-NICK-01D": [
+		{
+			"content": "bubble gum",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-181A-NICK-01C": [
+		{
+			"content": "teddy bear",
+			"start": 0,
+			"end": 960
+		}
+	],
+	"spinmj-181B-NICK-01E": [
+		{
+			"content": "cake",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-182-SALLY-03C": [
+		{
+			"content": "Which one would YOU like to wear as a hat? ",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-183-SALLY-03B": [
+		{
+			"content": "traffic cone",
+			"start": 0,
+			"end": 1540
+		}
+	],
+	"spinmj-184-SALLY-03C": [
+		{
+			"content": "lamp shade",
+			"start": 0,
+			"end": 1270
+		}
+	],
+	"spinmj-185-SALLY-03H": [
+		{
+			"content": "clown wig",
+			"start": 0,
+			"end": 1650
+		}
+	],
+	"spinmj-186-SALLY-03D": [
+		{
+			"content": "beanie",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-187-SALLY-03E": [
+		{
+			"content": "What do you think would make a good gift for a friend?",
+			"start": 0,
+			"end": 3410
+		}
+	],
+	"spinmj-187A-SALLY-03A": [
+		{
+			"content": "teddy bear",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-189-SALLY-03D": [
+		{
+			"content": "toy car",
+			"start": 0,
+			"end": 1290
+		}
+	],
+	"spinmj-19-CAT-01": [
+		{
+			"content": "Questions!",
+			"start": 0,
+			"end": 1330
+		}
+	],
+	"spinmj-190-SALLY-03F": [
+		{
+			"content": "book",
+			"start": 0,
+			"end": 750
+		}
+	],
+	"spinmj-190A-SALLY-03C": [
+		{
+			"content": "basketball",
+			"start": 0,
+			"end": 1130
+		}
+	],
+	"spinmj-192-SALLY-03C": [
+		{
+			"content": "What do you think would make a good pet? ",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-193-NICK-01D": [
+		{
+			"content": "cat",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-194-NICK-01D": [
+		{
+			"content": "dog",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"spinmj-195-NICK-01B": [
+		{
+			"content": "hamster",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-196-NICK-01C": [
+		{
+			"content": "turtle",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-197-SALLY-03F": [
+		{
+			"content": "Who would you want to have a play date with? ",
+			"start": 0,
+			"end": 2630
+		}
+	],
+	"spinmj-197-SALLY-03G": [
+		{
+			"content": "Who would you want to have a play date with? ",
+			"start": 0,
+			"end": 2590
+		}
+	],
+	"spinmj-198-NICK-01A": [
+		{
+			"content": "Nick",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-199-NICK-01E": [
+		{
+			"content": "Sally",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-20-CAT-01": [
+		{
+			"content": "All Around You!",
+			"start": 0,
+			"end": 1670
+		}
+	],
+	"spinmj-200-NICK-01F": [
+		{
+			"content": "The Cat in the Hat",
+			"start": 0,
+			"end": 1900
+		}
+	],
+	"spinmj-201-NICK-01D": [
+		{
+			"content": "Thing 1 and Thing 2",
+			"start": 0,
+			"end": 2230
+		}
+	],
+	"spinmj-202-SALLY-03D": [
+		{
+			"content": "Who would you want to go swimming with? ",
+			"start": 0,
+			"end": 2660
+		}
+	],
+	"spinmj-203-NICK-01G": [
+		{
+			"content": "dolphin",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-204-NICK-01C": [
+		{
+			"content": "fish",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-205-NICK-01E": [
+		{
+			"content": "sea turtle",
+			"start": 0,
+			"end": 1130
+		}
+	],
+	"spinmj-206-NICK-01D": [
+		{
+			"content": "shark",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-207-NICK-01E": [
+		{
+			"content": "seahorse",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-208-SALLY-03B": [
+		{
+			"content": "What would you pack in a suitcase? ",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"spinmj-208A-SALLY-03D": [
+		{
+			"content": "teddy bear",
+			"start": 0,
+			"end": 1330
+		}
+	],
+	"spinmj-21-NICK-01F": [
+		{
+			"content": "Let's go back to the spinner!",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-210-SALLY-03B": [
+		{
+			"content": "socks",
+			"start": 0,
+			"end": 1250
+		}
+	],
+	"spinmj-211-SALLY-03C": [
+		{
+			"content": "pillow",
+			"start": 0,
+			"end": 1170
+		}
+	],
+	"spinmj-211A-SALLY-03A": [
+		{
+			"content": "horn",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-213-NICK-01D": [
+		{
+			"content": "What do you think would sink in water?",
+			"start": 0,
+			"end": 2380
+		}
+	],
+	"spinmj-213A-NICK-01G": [
+		{
+			"content": "a block",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-213B-NICK-01E": [
+		{
+			"content": "basketball",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-213C-NICK-01F": [
+		{
+			"content": "trumpet",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-217-NICK-01F": [
+		{
+			"content": "rubber duck",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-218-NICK-01C": [
+		{
+			"content": "What do you think would float?",
+			"start": 0,
+			"end": 2040
+		}
+	],
+	"spinmj-218A-NICK-01D": [
+		{
+			"content": "a block",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-218B-NICK-01C": [
+		{
+			"content": "basketball",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-218C-NICK-01B": [
+		{
+			"content": "trumpet",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-22-NICK-01C": [
+		{
+			"content": "That was fun.",
+			"start": 0,
+			"end": 1380
+		}
+	],
+	"spinmj-222-NICK-01D": [
+		{
+			"content": "rubber duck",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"spinmj-223-NICK-01B": [
+		{
+			"content": "What would you play with in the bathtub?",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"spinmj-223A-NICK-01B": [
+		{
+			"content": "rubber duck",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-225-NICK-01E": [
+		{
+			"content": "blocks",
+			"start": 0,
+			"end": 960
+		}
+	],
+	"spinmj-225A-NICK-01E": [
+		{
+			"content": "toy car",
+			"start": 0,
+			"end": 1170
+		}
+	],
+	"spinmj-225B-NICK-01D": [
+		{
+			"content": "horn",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-228-NICK-01B": [
+		{
+			"content": "What would you like to build with? ",
+			"start": 0,
+			"end": 2170
+		}
+	],
+	"spinmj-228-NICK-02B": [
+		{
+			"content": "What would you like to build with? ",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-228-NICK-02C": [
+		{
+			"content": "What would you like to build with? ",
+			"start": 0,
+			"end": 2130
+		}
+	],
+	"spinmj-228A-NICK-01D": [
+		{
+			"content": "pillow",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-23-NICK-01D": [
+		{
+			"content": "Let's play again!",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"spinmj-230-NICK-01C": [
+		{
+			"content": "blocks",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-230A-NICK-01D": [
+		{
+			"content": "basketball",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-230B-NICK-01G": [
+		{
+			"content": "traffic cone",
+			"start": 0,
+			"end": 1630
+		}
+	],
+	"spinmj-233-NICK-01F": [
+		{
+			"content": "Which do you think feels the dryest?",
+			"start": 0,
+			"end": 2880
+		}
+	],
+	"spinmj-234-NICK-01B": [
+		{
+			"content": "fall leaves",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-234A-NICK-01C": [
+		{
+			"content": "dog",
+			"start": 0,
+			"end": 750
+		}
+	],
+	"spinmj-234B-NICK-01D": [
+		{
+			"content": "pillow",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-234C-NICK-01E": [
+		{
+			"content": "socks",
+			"start": 0,
+			"end": 1110
+		}
+	],
+	"spinmj-238-NICK-01C": [
+		{
+			"content": "Which do you think feels the wettest?",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"spinmj-239-NICK-01F": [
+		{
+			"content": "sponge",
+			"start": 0,
+			"end": 1170
+		}
+	],
+	"spinmj-239A-NICK-01C": [
+		{
+			"content": "dog",
+			"start": 0,
+			"end": 730
+		}
+	],
+	"spinmj-239B-NICK-01B": [
+		{
+			"content": "fall leaves",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"spinmj-239C-NICK-01B": [
+		{
+			"content": "flower",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-24-SALLY-01C": [
+		{
+			"content": "That was fun.",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"spinmj-243-NICK-01E": [
+		{
+			"content": "Which do you think feels the softest?",
+			"start": 0,
+			"end": 2790
+		}
+	],
+	"spinmj-243A-NICK-01C": [
+		{
+			"content": "dog",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"spinmj-243B-NICK-01C": [
+		{
+			"content": "cat",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-243C-NICK-01C": [
+		{
+			"content": "blocks",
+			"start": 0,
+			"end": 960
+		}
+	],
+	"spinmj-243D-NICK-01D": [
+		{
+			"content": "pillow",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-248-NICK-01C": [
+		{
+			"content": "Which do you think feels the smoothest?",
+			"start": 0,
+			"end": 2840
+		}
+	],
+	"spinmj-249-NICK-01C": [
+		{
+			"content": "plate",
+			"start": 0,
+			"end": 960
+		}
+	],
+	"spinmj-249A-NICK-01E": [
+		{
+			"content": "pillow",
+			"start": 0,
+			"end": 790
+		}
+	],
+	"spinmj-249B-NICK-01C": [
+		{
+			"content": "a block",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-249C-NICK-01C": [
+		{
+			"content": "rubber duck",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-25-SALLY-01C": [
+		{
+			"content": "Let's play something else!",
+			"start": 0,
+			"end": 2210
+		}
+	],
+	"spinmj-253-NICK-02B": [
+		{
+			"content": "Which do you think would taste the best on sandwiches? ",
+			"start": 0,
+			"end": 3840
+		}
+	],
+	"spinmj-253A-NICK-01D": [
+		{
+			"content": "cake",
+			"start": 0,
+			"end": 750
+		}
+	],
+	"spinmj-255-NICK-01C": [
+		{
+			"content": "peanut butter and jelly",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"spinmj-256-NICK-01F": [
+		{
+			"content": "bologna (baloney!)",
+			"start": 0,
+			"end": 1590
+		}
+	],
+	"spinmj-256A-NICK-01G": [
+		{
+			"content": "pizza",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-258-NICK-01F": [
+		{
+			"content": "Which do you like for dessert? ",
+			"start": 0,
+			"end": 2210
+		}
+	],
+	"spinmj-258A-NICK-01C": [
+		{
+			"content": "cake",
+			"start": 0,
+			"end": 790
+		}
+	],
+	"spinmj-26-CAT-01": [
+		{
+			"content": "Use your sense of SMELL!",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-260-NICK-01B": [
+		{
+			"content": "cookies",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-261-NICK-01B": [
+		{
+			"content": "pizza",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-261A-NICK-01E": [
+		{
+			"content": "ice cream",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-263-NICK-01G": [
+		{
+			"content": "Which do you think tastes more crunchy?",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-263A-NICK-01E": [
+		{
+			"content": "pizza",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-263B-NICK-01E": [
+		{
+			"content": "cookies",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-266-NICK-01C": [
+		{
+			"content": "cereal",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-267-NICK-01F": [
+		{
+			"content": "french fries",
+			"start": 0,
+			"end": 1250
+		}
+	],
+	"spinmj-268-NICK-01D": [
+		{
+			"content": "What do you like to hear in the morning? ",
+			"start": 0,
+			"end": 2790
+		}
+	],
+	"spinmj-268-NICK-01G": [
+		{
+			"content": "What do you like to hear in the morning? ",
+			"start": 0,
+			"end": 2920
+		}
+	],
+	"spinmj-269-NICK-01C": [
+		{
+			"content": "birds",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-27-CAT-01": [
+		{
+			"content": "Use your sense of TOUCH!",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"spinmj-270-NICK-01D": [
+		{
+			"content": "alarm clock",
+			"start": 0,
+			"end": 1170
+		}
+	],
+	"spinmj-271-NICK-01B": [
+		{
+			"content": "TV",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-272-NICK-01D": [
+		{
+			"content": "music",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-278-NICK-01C": [
+		{
+			"content": "Why do you think so?",
+			"start": 18,
+			"end": 1628
+		}
+	],
+	"spinmj-279-SALLY-03E": [
+		{
+			"content": "Hmmm, why did you choose that?",
+			"start": 0,
+			"end": 2790
+		}
+	],
+	"spinmj-279-SALLY-04C": [
+		{
+			"content": "Hmmm, why did you choose that?",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-28-CAT-01": [
+		{
+			"content": "Use your sense of TASTE!",
+			"start": 0,
+			"end": 2840
+		}
+	],
+	"spinmj-280-CAT-01": [
+		{
+			"content": "Let's investigate the world around us, right now!",
+			"start": 0,
+			"end": 3840
+		}
+	],
+	"spinmj-281-CAT-01": [
+		{
+			"content": "Take a moment and look up from the screen.",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-282-CAT-01": [
+		{
+			"content": "Turn around in a circle and look all around you.",
+			"start": 0,
+			"end": 3710
+		}
+	],
+	"spinmj-283-CAT-01": [
+		{
+			"content": "Turn around in a circle and listen all around you.",
+			"start": 0,
+			"end": 4030
+		}
+	],
+	"spinmj-284-CAT-01": [
+		{
+			"content": "Turn around in a circle and smell all around you.",
+			"start": 0,
+			"end": 4240
+		}
+	],
+	"spinmj-285-CAT-01": [
+		{
+			"content": "Turn around in a circle and feel all around you.",
+			"start": 0,
+			"end": 3930
+		}
+	],
+	"spinmj-286-CAT-01": [
+		{
+			"content": "Uses your senses to find something",
+			"start": 0,
+			"end": 2630
+		}
+	],
+	"spinmj-287-CAT-01": [
+		{
+			"content": "round",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-288-CAT-01": [
+		{
+			"content": "square",
+			"start": 0,
+			"end": 1080
+		}
+	],
+	"spinmj-289-CAT-01": [
+		{
+			"content": "shaped like a triangle",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"spinmj-29-CAT-01": [
+		{
+			"content": "Use your sense of SIGHT!",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-290-CAT-01": [
+		{
+			"content": "with corners",
+			"start": 0,
+			"end": 1330
+		}
+	],
+	"spinmj-291-CAT-01": [
+		{
+			"content": "red",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-292-CAT-01": [
+		{
+			"content": "green",
+			"start": 0,
+			"end": 1000
+		}
+	],
+	"spinmj-293-CAT-01": [
+		{
+			"content": "blue",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-294-CAT-01": [
+		{
+			"content": "orange",
+			"start": 0,
+			"end": 1040
+		}
+	],
+	"spinmj-295-CAT-01": [
+		{
+			"content": "yellow",
+			"start": 0,
+			"end": 920
+		}
+	],
+	"spinmj-296-CAT-01": [
+		{
+			"content": "black",
+			"start": 0,
+			"end": 830
+		}
+	],
+	"spinmj-297-CAT-01": [
+		{
+			"content": "white",
+			"start": 0,
+			"end": 880
+		}
+	],
+	"spinmj-298-CAT-01": [
+		{
+			"content": "bigger than you are",
+			"start": 0,
+			"end": 1380
+		}
+	],
+	"spinmj-299-CAT-01": [
+		{
+			"content": "smaller than you are",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"spinmj-30-NICK-01E": [
+		{
+			"content": "Let's take a closer look with our eyes. ",
+			"start": 0,
+			"end": 2630
+		}
+	],
+	"spinmj-300-CAT-01": [
+		{
+			"content": "higher than you",
+			"start": 0,
+			"end": 1540
+		}
+	],
+	"spinmj-301-CAT-01": [
+		{
+			"content": "underneath you",
+			"start": 0,
+			"end": 1330
+		}
+	],
+	"spinmj-302-CAT-01": [
+		{
+			"content": "that smells good",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-303-CAT-01": [
+		{
+			"content": "that smells bad",
+			"start": 0,
+			"end": 1540
+		}
+	],
+	"spinmj-304-CAT-01": [
+		{
+			"content": "that smells fruity",
+			"start": 0,
+			"end": 1750
+		}
+	],
+	"spinmj-305-CAT-01": [
+		{
+			"content": "that smells fresh",
+			"start": 0,
+			"end": 1710
+		}
+	],
+	"spinmj-306-CAT-01": [
+		{
+			"content": "that smells clean",
+			"start": 0,
+			"end": 1710
+		}
+	],
+	"spinmj-307-CAT-01": [
+		{
+			"content": "that sounds empty",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"spinmj-308-CAT-01": [
+		{
+			"content": "that sounds noisy",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"spinmj-309-CAT-01": [
+		{
+			"content": "that sounds loud",
+			"start": 0,
+			"end": 1920
+		}
+	],
+	"spinmj-31-SALLY-01E": [
+		{
+			"content": "Let's use our ears to listen very carefully ",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-310-CAT-01": [
+		{
+			"content": "that sounds soft",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-311-CAT-01": [
+		{
+			"content": "that sounds high pitched",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"spinmj-312-CAT-01": [
+		{
+			"content": "that sound low pitched",
+			"start": 0,
+			"end": 2170
+		}
+	],
+	"spinmj-313-CAT-01": [
+		{
+			"content": "that feels flat",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-314-CAT-01": [
+		{
+			"content": "that feels bumpy",
+			"start": 0,
+			"end": 1920
+		}
+	],
+	"spinmj-315-CAT-01": [
+		{
+			"content": "that feels light",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"spinmj-316-CAT-01": [
+		{
+			"content": "that feels heavy",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"spinmj-317-CAT-01": [
+		{
+			"content": "that feels smooth",
+			"start": 0,
+			"end": 2040
+		}
+	],
+	"spinmj-318-CAT-01": [
+		{
+			"content": "that feels fuzzy",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-319-CAT-01": [
+		{
+			"content": "that feels soft",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-32-NICK-01F": [
+		{
+			"content": "Let's feel with our fingers! ",
+			"start": 0,
+			"end": 2290
+		}
+	],
+	"spinmj-320-CAT-01": [
+		{
+			"content": "that feels rough",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-321-CAT-01": [
+		{
+			"content": "that fits in your hand",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-322-CAT-01": [
+		{
+			"content": "that you wear",
+			"start": 0,
+			"end": 1330
+		}
+	],
+	"spinmj-323-CAT-01B": [
+		{
+			"content": "you use to eat with",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"spinmj-324-CAT-01": [
+		{
+			"content": "When you're finished, choose the green button to play another game.",
+			"start": 0,
+			"end": 4500
+		}
+	],
+	"spinmj-325-CAT-01": [
+		{
+			"content": "Let's talk about the world around us, right now!",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-326-CAT-01": [
+		{
+			"content": "Let's take a moment and chat!",
+			"start": 0,
+			"end": 2000
+		}
+	],
+	"spinmj-327-CAT-01": [
+		{
+			"content": "Talk about something that ",
+			"start": 0,
+			"end": 1710
+		}
+	],
+	"spinmj-328-CAT-01": [
+		{
+			"content": "feels really soft",
+			"start": 0,
+			"end": 1670
+		}
+	],
+	"spinmj-329-CAT-01": [
+		{
+			"content": "feels rough",
+			"start": 0,
+			"end": 1380
+		}
+	],
+	"spinmj-33-SALLY-01G": [
+		{
+			"content": "Let's imagine tasting with our tongue.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-330-CAT-01": [
+		{
+			"content": "feels slimey",
+			"start": 0,
+			"end": 1580
+		}
+	],
+	"spinmj-331-CAT-01": [
+		{
+			"content": "feels greasy",
+			"start": 0,
+			"end": 1710
+		}
+	],
+	"spinmj-332-CAT-01": [
+		{
+			"content": "sounds really loud",
+			"start": 0,
+			"end": 2170
+		}
+	],
+	"spinmj-333-CAT-01": [
+		{
+			"content": "sounds really quiet",
+			"start": 0,
+			"end": 2250
+		}
+	],
+	"spinmj-334-CAT-01": [
+		{
+			"content": "you might hear at the beach",
+			"start": 0,
+			"end": 1920
+		}
+	],
+	"spinmj-335-CAT-01": [
+		{
+			"content": "you might hear in the forest",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"spinmj-336-CAT-01": [
+		{
+			"content": "smells sweet",
+			"start": 0,
+			"end": 1670
+		}
+	],
+	"spinmj-337-CAT-01": [
+		{
+			"content": "is smelly",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"spinmj-338-CAT-01": [
+		{
+			"content": "smells bad",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"spinmj-339-CAT-01": [
+		{
+			"content": "smells fruity",
+			"start": 0,
+			"end": 1710
+		}
+	],
+	"spinmj-34-NICK-01F": [
+		{
+			"content": "Imagine smelling with your nose. ",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-340-CAT-01": [
+		{
+			"content": "smells nice",
+			"start": 0,
+			"end": 1920
+		}
+	],
+	"spinmj-341-CAT-01": [
+		{
+			"content": "you saw in school",
+			"start": 0,
+			"end": 1750
+		}
+	],
+	"spinmj-342-CAT-01B": [
+		{
+			"content": "you saw at the playground",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"spinmj-343-CAT-01": [
+		{
+			"content": "you saw at the library",
+			"start": 0,
+			"end": 2210
+		}
+	],
+	"spinmj-344-CAT-01": [
+		{
+			"content": "you saw at the beach",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-345-CAT-01": [
+		{
+			"content": "you saw in the forest",
+			"start": 0,
+			"end": 2210
+		}
+	],
+	"spinmj-345-CAT-03": [
+		{
+			"content": "you saw in the forest",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-346-CAT-01": [
+		{
+			"content": "looks gigantic",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-347-CAT-01": [
+		{
+			"content": "you saw, that was really tall",
+			"start": 0,
+			"end": 2460
+		}
+	],
+	"spinmj-348-CAT-01": [
+		{
+			"content": "you saw, that was teeny tiny",
+			"start": 0,
+			"end": 2840
+		}
+	],
+	"spinmj-349-CAT-01": [
+		{
+			"content": "swims",
+			"start": 0,
+			"end": 1170
+		}
+	],
+	"spinmj-350-CAT-01": [
+		{
+			"content": "flies through the air",
+			"start": 0,
+			"end": 1710
+		}
+	],
+	"spinmj-351-CAT-01": [
+		{
+			"content": "you tasted at a friend's house",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-352-CAT-01": [
+		{
+			"content": "you tasted at breakfast",
+			"start": 0,
+			"end": 2170
+		}
+	],
+	"spinmj-353-CAT-01": [
+		{
+			"content": "you tasted at dinner",
+			"start": 0,
+			"end": 2040
+		}
+	],
+	"spinmj-354-CAT-01": [
+		{
+			"content": "you tasted at school",
+			"start": 0,
+			"end": 2210
+		}
+	],
+	"spinmj-355-CAT-01": [
+		{
+			"content": "tastes sweet",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"spinmj-356-CAT-01": [
+		{
+			"content": "tastes spicy",
+			"start": 0,
+			"end": 1630
+		}
+	],
+	"spinmj-357-CAT-01": [
+		{
+			"content": "tastes sour",
+			"start": 0,
+			"end": 1580
+		}
+	],
+	"spinmj-358-CAT-01": [
+		{
+			"content": "you do in the morning",
+			"start": 0,
+			"end": 1630
+		}
+	],
+	"spinmj-359-CAT-01": [
+		{
+			"content": "you do before bed time",
+			"start": 0,
+			"end": 2250
+		}
+	],
+	"spinmj-36-CAT-03": [
+		{
+			"content": "Wow! You really used your eyes and looked closely.",
+			"start": 0,
+			"end": 4300
+		}
+	],
+	"spinmj-360-CAT-02": [
+		{
+			"content": "that moves on wheels",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-361-CAT-02": [
+		{
+			"content": "that you push or pull",
+			"start": 0,
+			"end": 2040
+		}
+	],
+	"spinmj-362-CAT-01": [
+		{
+			"content": "Can you think of any more?",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"spinmj-363-CAT-01B": [
+		{
+			"content": "When you're all done thinking, choose the green button to play another game.",
+			"start": 0,
+			"end": 5230
+		}
+	],
+	"spinmj-364-CAT-01": [
+		{
+			"content": "Let's pretend!  Stand up.",
+			"start": 0,
+			"end": 2630
+		}
+	],
+	"spinmj-365-CAT-01": [
+		{
+			"content": "Pretend to play on the playground swings",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-366-CAT-01B": [
+		{
+			"content": "Pretend to play on the playground slide",
+			"start": 0,
+			"end": 3340
+		}
+	],
+	"spinmj-367-CAT-01": [
+		{
+			"content": "Pretend like you just opened a present",
+			"start": 0,
+			"end": 3120
+		}
+	],
+	"spinmj-368-CAT-01": [
+		{
+			"content": "Pretend your ice cream cone fell on the ground.",
+			"start": 0,
+			"end": 3860
+		}
+	],
+	"spinmj-369-CAT-01": [
+		{
+			"content": "Pretend a fire truck is passing by",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-37-CAT-03": [
+		{
+			"content": "Way to use your ears!",
+			"start": 0,
+			"end": 2210
+		}
+	],
+	"spinmj-370-CAT-01": [
+		{
+			"content": "Pretend you're listening to something really quiet",
+			"start": 0,
+			"end": 3830
+		}
+	],
+	"spinmj-371-CAT-01": [
+		{
+			"content": "Pretend you are a really teeny bug",
+			"start": 0,
+			"end": 3270
+		}
+	],
+	"spinmj-372-CAT-01": [
+		{
+			"content": "Pretend you are something really big and tall",
+			"start": 0,
+			"end": 3580
+		}
+	],
+	"spinmj-373-CAT-01": [
+		{
+			"content": "Pretend you are playing a musical instrument",
+			"start": 0,
+			"end": 3250
+		}
+	],
+	"spinmj-374-CAT-01": [
+		{
+			"content": "Pretend you smell something stinky",
+			"start": 0,
+			"end": 3200
+		}
+	],
+	"spinmj-375-CAT-01": [
+		{
+			"content": "Pretend you smell something clean",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-376-CAT-01": [
+		{
+			"content": "Pretend you smell something delicious",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-377-CAT-01": [
+		{
+			"content": "Pretend you smell something rotten",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"spinmj-378-CAT-01": [
+		{
+			"content": "Pretend you smell something fresh",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-379-CAT-01": [
+		{
+			"content": "Pretend you're eating a sour lemon",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-380-CAT-01": [
+		{
+			"content": "Pretend you're eating a spicy snack",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-381-CAT-01": [
+		{
+			"content": "Pretend you're eating a soggy sandwich",
+			"start": 0,
+			"end": 3440
+		}
+	],
+	"spinmj-382-CAT-01": [
+		{
+			"content": "Pretend you're eating a sweet dessert",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"spinmj-383-CAT-01": [
+		{
+			"content": "Pretend to be your favorite animal",
+			"start": 0,
+			"end": 3380
+		}
+	],
+	"spinmj-384-CAT-01": [
+		{
+			"content": "Pretend you are swimming",
+			"start": 0,
+			"end": 1840
+		}
+	],
+	"spinmj-385-CAT-01": [
+		{
+			"content": "Pretend you are reading a book",
+			"start": 0,
+			"end": 2250
+		}
+	],
+	"spinmj-386-CAT-01": [
+		{
+			"content": "Pretend you are climbing a mountain",
+			"start": 0,
+			"end": 2460
+		}
+	],
+	"spinmj-387-CAT-01": [
+		{
+			"content": "Pretend you touched something really hot",
+			"start": 0,
+			"end": 2840
+		}
+	],
+	"spinmj-388-CAT-01": [
+		{
+			"content": "Pretend you touched something really cold",
+			"start": 0,
+			"end": 3370
+		}
+	],
+	"spinmj-389-CAT-01": [
+		{
+			"content": "Pretend you are wearing heavy boots",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-39-CAT-03": [
+		{
+			"content": "Good job using your sense of touch.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-390-CAT-01": [
+		{
+			"content": "Pretend you are solving a problem",
+			"start": 0,
+			"end": 2590
+		}
+	],
+	"spinmj-391-CAT-01": [
+		{
+			"content": "Pretend you're a scientist making a discovery",
+			"start": 0,
+			"end": 3710
+		}
+	],
+	"spinmj-392-CAT-01": [
+		{
+			"content": "Pretend you're an engineer designing a tall building",
+			"start": 0,
+			"end": 4190
+		}
+	],
+	"spinmj-393-CAT-01": [
+		{
+			"content": "Pretend you're an engineer designing a bridge",
+			"start": 0,
+			"end": 3760
+		}
+	],
+	"spinmj-394-CAT-01": [
+		{
+			"content": "Pretend you're an engineer designing a home",
+			"start": 0,
+			"end": 3620
+		}
+	],
+	"spinmj-395-CAT-01": [
+		{
+			"content": "Pretend you're an engineer designing a car",
+			"start": 0,
+			"end": 3690
+		}
+	],
+	"spinmj-396-CAT-01": [
+		{
+			"content": "Pretend you're building a house",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"spinmj-397-CAT-01": [
+		{
+			"content": "Pretend to be me! The Cat in the Hat!",
+			"start": 0,
+			"end": 3730
+		}
+	],
+	"spinmj-398-CAT-01": [
+		{
+			"content": "Pretend you're walking on rocks",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"spinmj-399-CAT-01": [
+		{
+			"content": "Pretend you're walking in mud",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-40-CAT-03": [
+		{
+			"content": "Good job using your nose to sniff that out!",
+			"start": 0,
+			"end": 3430
+		}
+	],
+	"spinmj-400-CAT-01": [
+		{
+			"content": "Pretend you're walking on ice!",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-401-CAT-01": [
+		{
+			"content": "Try standing on one foot!",
+			"start": 0,
+			"end": 2480
+		}
+	],
+	"spinmj-402-CAT-01": [
+		{
+			"content": "Pretend you're lifting a heavy ball",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-403-CAT-01": [
+		{
+			"content": "Pretend you're rolling a ball across the floor",
+			"start": 0,
+			"end": 3390
+		}
+	],
+	"spinmj-404-CAT-01B": [
+		{
+			"content": "Pretend you're touching a prickly cactus",
+			"start": 0,
+			"end": 2960
+		}
+	],
+	"spinmj-405-CAT-01": [
+		{
+			"content": "Pretend you're touching a soft bunny",
+			"start": 0,
+			"end": 3660
+		}
+	],
+	"spinmj-406-CAT-01": [
+		{
+			"content": "Pretend you're touching a bumpy dinosaur",
+			"start": 0,
+			"end": 3150
+		}
+	],
+	"spinmj-407-CAT-01": [
+		{
+			"content": "Pretend you see a ghost",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"spinmj-408-CAT-01": [
+		{
+			"content": "Pretend you see a silly clown",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-409-CAT-01": [
+		{
+			"content": "When you're all done pretending, select the green button to play ANOTHER game.",
+			"start": 0,
+			"end": 5720
+		}
+	],
+	"spinmj-41-CAT-03": [
+		{
+			"content": "You really used your senses!",
+			"start": 0,
+			"end": 2500
+		}
+	],
+	"spinmj-410-CAT-01": [
+		{
+			"content": "Can you remember the last thing you ate? What did it taste like?",
+			"start": 0,
+			"end": 4420
+		}
+	],
+	"spinmj-411-CAT-01": [
+		{
+			"content": "Can you remember the last time you saw some flowers? What did they smell like?",
+			"start": 0,
+			"end": 5710
+		}
+	],
+	"spinmj-412-CAT-01B": [
+		{
+			"content": "Do you or a friend have a pet? What does the pet feel like when you touch them?",
+			"start": 0,
+			"end": 5770
+		}
+	],
+	"spinmj-42-CAT-03": [
+		{
+			"content": "Sensational!",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"spinmj-43-CAT-03": [
+		{
+			"content": "You are a sensational sense seeker! ",
+			"start": 0,
+			"end": 3470
+		}
+	],
+	"spinmj-44-CAT-03": [
+		{
+			"content": "Pick a sticker and place it on the picture",
+			"start": 0,
+			"end": 3320
+		}
+	],
+	"spinmj-45-CAT-03": [
+		{
+			"content": "Oooh!  I wonder what is happening here!",
+			"start": 0,
+			"end": 3850
+		}
+	],
+	"spinmj-46-CAT-03": [
+		{
+			"content": "Change the background using the arrows ",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-47-CAT-03": [
+		{
+			"content": "Can we try a new background for our story?",
+			"start": 0,
+			"end": 3140
+		}
+	],
+	"spinmj-48-CAT-03": [
+		{
+			"content": "Can you tell me a story about what is happening here?",
+			"start": 0,
+			"end": 3710
+		}
+	],
+	"spinmj-50-CAT-03B": [
+		{
+			"content": "Look! It's Sally!",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"spinmj-51-CAT-03": [
+		{
+			"content": "Hey, it's Nick!",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"spinmj-52-CAT-03": [
+		{
+			"content": "Oh, that's Thing One!",
+			"start": 0,
+			"end": 2170
+		}
+	],
+	"spinmj-53-CAT-03": [
+		{
+			"content": "There's Thing Two!",
+			"start": 0,
+			"end": 2000
+		}
+	],
+	"spinmj-54-CAT-03": [
+		{
+			"content": "Hey it's me! The Cat in the Hat!",
+			"start": 0,
+			"end": 3390
+		}
+	],
+	"spinmj-55-CAT-03": [
+		{
+			"content": "Oh, I just love this picture.",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-56-CAT-03": [
+		{
+			"content": "Great!",
+			"start": 0,
+			"end": 750
+		}
+	],
+	"spinmj-57-CAT-03": [
+		{
+			"content": "Cool.",
+			"start": 0,
+			"end": 1170
+		}
+	],
+	"spinmj-58-CAT-03B": [
+		{
+			"content": "I love how you used that there! ",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-59-SALLY-01D": [
+		{
+			"content": "Choose a bucket and place it in the sand to make a sand castle",
+			"start": 0,
+			"end": 5000
+		}
+	],
+	"spinmj-60-SALLY-01A": [
+		{
+			"content": "Choose a bucket",
+			"start": 0,
+			"end": 1380
+		}
+	],
+	"spinmj-61-SALLY-01F": [
+		{
+			"content": "Place the castle piece where you want it to go!",
+			"start": 0,
+			"end": 3080
+		}
+	],
+	"spinmj-62-SALLY-01D": [
+		{
+			"content": "Build your sand castle how you like it!",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-63-SALLY-01E": [
+		{
+			"content": "What happens if you drop the sand from high in the air?",
+			"start": 0,
+			"end": 3580
+		}
+	],
+	"spinmj-64-SALLY-01G": [
+		{
+			"content": "Press the wave button to start over",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-65-NICK-01C": [
+		{
+			"content": "Listen closely. What do you hear? ",
+			"start": 0,
+			"end": 2840
+		}
+	],
+	"spinmj-66-NICK-01H": [
+		{
+			"content": "Oooh. Seagulls!",
+			"start": 0,
+			"end": 1580
+		}
+	],
+	"spinmj-67-NICK-01D": [
+		{
+			"content": "Those are some squacky seagulls!",
+			"start": 0,
+			"end": 2500
+		}
+	],
+	"spinmj-68-NICK-01E": [
+		{
+			"content": "Do you hear that wave? It's getting closer!",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"spinmj-69-NICK-01D": [
+		{
+			"content": "Great sand packing!",
+			"start": 0,
+			"end": 2340
+		}
+	],
+	"spinmj-70-NICK-01B": [
+		{
+			"content": "Let's build build build and then knock it down, down down!",
+			"start": 0,
+			"end": 4570
+		}
+	],
+	"spinmj-70-NICK-01D": [
+		{
+			"content": "Let's build build build and then knock it down, down down!",
+			"start": 0,
+			"end": 5680
+		}
+	],
+	"spinmj-71-NICK-01C": [
+		{
+			"content": "You are a sandcastle scultper extraordinaire! ",
+			"start": 0,
+			"end": 3840
+		}
+	],
+	"spinmj-71-NICK-01D": [
+		{
+			"content": "You are a sandcastle scultper extraordinaire! ",
+			"start": 0,
+			"end": 4020
+		}
+	],
+	"spinmj-72-NICK-01D": [
+		{
+			"content": "How high can you build your sandcastle? ",
+			"start": 0,
+			"end": 2820
+		}
+	],
+	"spinmj-73-NICK-01B": [
+		{
+			"content": "Let's stack castle pieces on top of each other!",
+			"start": 0,
+			"end": 3410
+		}
+	],
+	"spinmj-74-NICK-01D": [
+		{
+			"content": "Let's finish and color this picture",
+			"start": 0,
+			"end": 2540
+		}
+	],
+	"spinmj-75-NICK-01D": [
+		{
+			"content": "What's missing? Can you draw it in?",
+			"start": 0,
+			"end": 2880
+		}
+	],
+	"spinmj-76-NICK-01D": [
+		{
+			"content": "What else do you think is happening in this picture? Draw it in!",
+			"start": 0,
+			"end": 3740
+		}
+	],
+	"spinmj-77-NICK-01C": [
+		{
+			"content": "Let's color this picture.",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"spinmj-78-NICK-01E": [
+		{
+			"content": "The eraser will erase part of your drawing",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"spinmj-79-NICK-01D": [
+		{
+			"content": "The trash can will let you start over!",
+			"start": 0,
+			"end": 2420
+		}
+	],
+	"spinmj-80-NICK-01C": [
+		{
+			"content": "Choose whatever color you like",
+			"start": 0,
+			"end": 2460
+		}
+	],
+	"spinmj-81-NICK-01D": [
+		{
+			"content": "Choose a thick or thin brush, and see what lines they make!",
+			"start": 0,
+			"end": 4280
+		}
+	],
+	"spinmj-82-NICK-01E": [
+		{
+			"content": "Try a different brush!",
+			"start": 0,
+			"end": 1580
+		}
+	],
+	"spinmj-83-NICK-01B": [
+		{
+			"content": "What colors will you use to color your picture?",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-84-NICK-01C": [
+		{
+			"content": "Have you ever painted with your fingers? Oooo. Squishy!",
+			"start": 0,
+			"end": 4710
+		}
+	],
+	"spinmj-85-NICK-01J": [
+		{
+			"content": "Lets use our eyes and see what a marvelous picture you have made! ",
+			"start": 0,
+			"end": 5170
+		}
+	],
+	"spinmj-86-NICK-01C": [
+		{
+			"content": "What should we call your masterpiece?",
+			"start": 0,
+			"end": 2340
+		}
+	],
+	"spinmj-87-SALLY-01D": [
+		{
+			"content": "Pop as many balloons as you can!",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-88-SALLY-01B": [
+		{
+			"content": "Count to yourself, as you pop balloons!",
+			"start": 0,
+			"end": 3250
+		}
+	],
+	"spinmj-89-SALLY-01C": [
+		{
+			"content": "Different balloons have different materials",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"spinmj-90-SALLY-01E": [
+		{
+			"content": "A water balloon pops and splashes water",
+			"start": 0,
+			"end": 3460
+		}
+	],
+	"spinmj-91-SALLY-01C": [
+		{
+			"content": "A sand balloon pops and drops sand all over",
+			"start": 0,
+			"end": 3850
+		}
+	],
+	"spinmj-92-SALLY-01D": [
+		{
+			"content": "A helium balloon floats up",
+			"start": 0,
+			"end": 2630
+		}
+	],
+	"spinmj-93-SALLY-01B": [
+		{
+			"content": "What do you notice about the different balloons?",
+			"start": 0,
+			"end": 3140
+		}
+	],
+	"spinmj-94-SALLY-01A": [
+		{
+			"content": "Which one makes the loudest pop!?",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"spinmj-95-SALLY-01C": [
+		{
+			"content": "Which balloons are heavier? ",
+			"start": 0,
+			"end": 2590
+		}
+	],
+	"spinmj-96-SALLY-01C": [
+		{
+			"content": "Which balloons are the lightest? ",
+			"start": 0,
+			"end": 2290
+		}
+	],
+	"spinmj-97-SALLY-01A": [
+		{
+			"content": "Water balloons will get you all wet! ",
+			"start": 0,
+			"end": 2920
+		}
+	],
+	"spinmj-98-SALLY-01C": [
+		{
+			"content": "That balloon was full of sand!",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"spinmj-99-SALLY-01B": [
+		{
+			"content": "Sandy balloons feel super gritty.",
+			"start": 0,
+			"end": 3000
+		}
+	]
+}

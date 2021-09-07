@@ -1,0 +1,280 @@
+{
+	"level": {
+		"1": {
+			"time": 60,
+			"tutorialSpawn": 5,
+			"progress": 6,
+			"rate": 2,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 50,
+			"type": ["star", "rock"]
+		},
+		"2": {
+			"time": 60,
+			"progress": 10,
+			"rate": 2,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 50,
+			"type": ["star", "rock"]
+		},
+		"3": {
+			"time": 60,
+			"progress": 15,
+			"rate": 2,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 50,
+			"type": ["star", "rock"]
+		},
+		"4": {
+			"time": 60,
+			"progress": 20,
+			"rate": 2,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 50,
+			"type": ["star", "rock"]
+		},
+		"5": {
+			"time": 60,
+			"progress": 25,
+			"rate": 2,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 50,
+			"type": ["star", "rock"]
+		},
+		"6": {
+			"time": 60,
+			"progress": 20,
+			"rate": 1.75,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 50,
+			"type": ["star", "rock"]
+		},
+		"7": {
+			"time": 60,
+			"progress": 25,
+			"rate": 1.75,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 75,
+			"faster": true,
+			"type": ["star", "rock"]
+		},
+		"8": {
+			"time": 60,
+			"progress": 30,
+			"rate": 1.75,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 75,
+			"type": ["star", "rock"]
+		},
+		"9": {
+			"time": 60,
+			"progress": 35,
+			"rate": 1.75,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 75,
+			"type": ["star", "rock"]
+		},
+		"10": {
+			"time": 60,
+			"progress": 40,
+			"rate": 1.75,
+			"powerUpRateMin": 6, 
+			"powerUpRateRange": 4,
+			"speed": 75,
+			"type": ["star", "rock"]
+		},
+		"11": {
+			"time": 50,
+			"progress": 10,
+			"rate": 1.5,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 100,
+			"faster": true,
+			"type": ["star", "rock", "urchin"]
+		},
+		"12": {
+			"time": 50,
+			"progress": 15,
+			"rate": 1.5,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 100,
+			"type": ["star", "rock", "urchin"]
+		},
+		"13": {
+			"time": 50,
+			"progress": 20,
+			"rate": 1.5,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 100,
+			"type": ["star", "rock", "urchin"]
+		},
+		"14": {
+			"time": 50,
+			"progress": 25,
+			"rate": 1.5,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 100,
+			"type": ["star", "rock", "urchin"]
+		},
+		"15": {
+			"time": 50,
+			"progress": 30,
+			"rate": 1.5,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 100,
+			"type": ["star", "rock", "urchin"]
+		},
+		"16": {
+			"time": 50,
+			"progress": 15,
+			"rate": 1.25,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 100,
+			"type": ["star", "rock", "urchin"]
+		},
+		"17": {
+			"time": 50,
+			"progress": 20,
+			"rate": 1.25,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 125,
+			"faster": true,
+			"type": ["star", "rock", "urchin"]
+		},
+		"18": {
+			"time": 50,
+			"progress": 25,
+			"rate": 1.25,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 125,
+			"type": ["star", "rock", "urchin"]
+		},
+		"19": {
+			"time": 50,
+			"progress": 30,
+			"rate": 1.25,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 125,
+			"type": ["star", "rock", "urchin"]
+		},
+		"20": {
+			"time": 50,
+			"progress": 30,
+			"rate": 1.25,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 125,
+			"type": ["star", "rock", "urchin"]
+		},
+		"21": {
+			"time": 45,
+			"progress": 12,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 150,
+			"faster": true,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"22": {
+			"time": 45,
+			"progress": 14,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 150,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"23": {
+			"time": 45,
+			"progress": 16,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 150,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"24": {
+			"time": 45,
+			"progress": 18,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 150,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"25": {
+			"time": 45,
+			"progress": 20,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 150,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"26": {
+			"time": 45,
+			"progress": 23,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 175,
+			"faster": true,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"27": {
+			"time": 45,
+			"progress": 26,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 175,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"28": {
+			"time": 45,
+			"progress": 29,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 175,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"29": {
+			"time": 45,
+			"progress": 32,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 175,
+			"type": ["star", "rock", "urchin", "shell"]
+		},
+		"30": {
+			"time": 45,
+			"progress": 35,
+			"rate": 1,
+			"powerUpRateMin": 7, 
+			"powerUpRateRange": 5,
+			"speed": 175,
+			"type": ["star", "rock", "urchin", "shell"]
+		}
+	}
+}

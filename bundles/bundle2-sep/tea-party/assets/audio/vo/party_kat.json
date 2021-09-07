@@ -1,0 +1,141 @@
+{
+  "manifest": [
+    {
+      "src": "assets/audio/vo/party_kat.mp3",
+      "data": {
+        "audioSprite": [
+          {
+            "id": "Katerina_apple",
+            "startTime": 0,
+            "duration": 340.2040816326531
+          },
+          {
+            "id": "Katerina_berry",
+            "startTime": 2000,
+            "duration": 157.80045351473905
+          },
+          {
+            "id": "Katerina_cookie",
+            "startTime": 4000,
+            "duration": 601.8820861678007
+          },
+          {
+            "id": "Katerina_crunch",
+            "startTime": 6000,
+            "duration": 680.2494331065762
+          },
+          {
+            "id": "Katerina_favorite",
+            "startTime": 8000,
+            "duration": 3161.8820861678005
+          },
+          {
+            "id": "Katerina_Greeting_v01",
+            "startTime": 13000,
+            "duration": 1307.1882086167807
+          },
+          {
+            "id": "Katerina_moresnacks_v01",
+            "startTime": 16000,
+            "duration": 3449.2290249433104
+          },
+          {
+            "id": "Katerina_moresnacks_v02",
+            "startTime": 21000,
+            "duration": 1934.1269841269834
+          },
+          {
+            "id": "Katerina_moresnacks_v03",
+            "startTime": 24000,
+            "duration": 2613.310657596372
+          },
+          {
+            "id": "Katerina_moretea_v01",
+            "startTime": 28000,
+            "duration": 2352.0861678004544
+          },
+          {
+            "id": "Katerina_moretea_v02",
+            "startTime": 32000,
+            "duration": 1829.6371882086148
+          },
+          {
+            "id": "Katerina_moretea_v03",
+            "startTime": 35000,
+            "duration": 1986.3718820861677
+          },
+          {
+            "id": "Katerina_notdoneyet_v01",
+            "startTime": 38000,
+            "duration": 4232.902494331064
+          },
+          {
+            "id": "Katerina_notdoneyet_v02",
+            "startTime": 44000,
+            "duration": 3814.943310657597
+          },
+          {
+            "id": "Katerina_notdoneyet_v03",
+            "startTime": 49000,
+            "duration": 3684.331065759636
+          },
+          {
+            "id": "Katerina_sip",
+            "startTime": 54000,
+            "duration": 262.2902494331072
+          },
+          {
+            "id": "Katerina_talk_v01",
+            "startTime": 56000,
+            "duration": 2717.800453514741
+          },
+          {
+            "id": "Katerina_talk_v02",
+            "startTime": 60000,
+            "duration": 1934.1269841269834
+          },
+          {
+            "id": "Katerina_talk_v03",
+            "startTime": 63000,
+            "duration": 2587.1882086167802
+          },
+          {
+            "id": "Katerina_talk_v04",
+            "startTime": 67000,
+            "duration": 3867.188208616781
+          },
+          {
+            "id": "Katerina_talk_v05",
+            "startTime": 72000,
+            "duration": 2404.331065759635
+          },
+          {
+            "id": "Katerina_thankyou_v01",
+            "startTime": 76000,
+            "duration": 1359.4331065759634
+          },
+          {
+            "id": "Katerina_thankyou_v02",
+            "startTime": 79000,
+            "duration": 2169.229024943306
+          },
+          {
+            "id": "Katerina_thankyou_v03",
+            "startTime": 83000,
+            "duration": 1411.6780045351475
+          },
+          {
+            "id": "Katerina_thankyou_v04",
+            "startTime": 86000,
+            "duration": 1568.4126984127006
+          },
+          {
+            "id": "Katerina_youareout_v01",
+            "startTime": 89000,
+            "duration": 2325.9637188208585
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+
+"images": [
+    "assets/images/menu/sprites.png"
+],
+
+"frames": [
+    [2, 2, 883, 195, 0, 0, 0],
+    [887, 2, 131, 136, 0, 0, 0],
+    [887, 140, 130, 267, 0, -113, -44],
+    [2, 199, 550, 553, 0, 0, 0],
+    [554, 199, 309, 317, 0, -14, -14],
+    [865, 409, 155, 160, 0, 0, 0],
+    [554, 518, 305, 62, 0, 0, 0],
+    [861, 571, 158, 166, 0, 0, 0],
+    [554, 582, 250, 279, 0, -53, -38],
+    [806, 739, 168, 171, 0, 0, 0],
+    [2, 754, 359, 490, 0, 0, 0],
+    [363, 754, 168, 171, 0, 0, 0],
+    [533, 863, 250, 197, 0, -63, -89],
+    [363, 927, 168, 171, 0, 0, 0],
+    [785, 912, 219, 167, 0, -79, -104],
+    [533, 1062, 249, 62, 0, 0, 0],
+    [363, 1100, 168, 171, 0, 0, 0],
+    [784, 1081, 218, 250, 0, -69, -52],
+    [533, 1126, 249, 62, 0, 0, 0],
+    [2, 1246, 337, 346, 0, 0, 0],
+    [533, 1190, 153, 154, 0, 0, 0],
+    [688, 1190, 84, 79, 0, 0, 0],
+    [688, 1271, 84, 79, 0, 0, 0],
+    [341, 1273, 130, 137, 0, 0, 0],
+    [473, 1346, 113, 108, 0, 0, 0],
+    [588, 1346, 84, 79, 0, 0, 0],
+    [341, 1412, 112, 106, 0, 0, 0],
+    [774, 1333, 106, 94, 0, 0, 0],
+    [674, 1352, 78, 81, 0, 0, 0],
+    [588, 1427, 78, 81, 0, 0, 0],
+    [455, 1456, 106, 94, 0, 0, 0],
+    [341, 1520, 100, 235, 0, -128, -60],
+    [882, 1333, 72, 75, 0, 0, 0]
+],
+
+"animations": {
+    "box": [0],
+    "btn/replay2": [1],
+    "characters/ripple-selected": [2],
+    "shine-big": [3],
+    "characters/bubbles": [4],
+    "btn/replay": [5],
+    "rr-green-long": [6],
+    "btn/home": [7],
+    "characters/splash-selected": [8],
+    "powerups/bubbles": [9],
+    "characters": [10],
+    "powerups/dunk": [11],
+    "characters/dunk-selected": [12],
+    "powerups/ripple": [13],
+    "characters/dunk": [14],
+    "rr-green": [15],
+    "powerups/splash": [16],
+    "characters/splash": [17],
+    "rr-orange": [18],
+    "characters/bubbles-selected": [19],
+    "shine": [20],
+    "star-bronze": [21],
+    "star-gold": [22],
+    "btn/home2": [23],
+    "fish-2": [24],
+    "star-silver": [25],
+    "fish-1": [26],
+    "star-1": [27],
+    "btn/back": [28],
+    "btn/tick": [29],
+    "star-2": [30],
+    "characters/ripple": [31],
+    "pebble": [32]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:9d83aded63d7bb610443ca4baa4c6efe:2a9bf8298bf26a582952a75630fdf613:1eabdf11f75e3a4fe3147baf7b5be24b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

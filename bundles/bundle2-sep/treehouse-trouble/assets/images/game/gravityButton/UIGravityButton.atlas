@@ -1,0 +1,62 @@
+
+UIGravityButton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackgroundAtt
+  rotate: false
+  xy: 2, 390
+  size: 173, 84
+  orig: 173, 84
+  offset: 0, 0
+  index: -1
+BackgroundDisabledAtt
+  rotate: false
+  xy: 2, 304
+  size: 173, 84
+  orig: 173, 84
+  offset: 0, 0
+  index: -1
+GravityAtt
+  rotate: false
+  xy: 2, 51
+  size: 91, 123
+  orig: 91, 123
+  offset: 0, 0
+  index: -1
+GravityDisabledAtt
+  rotate: false
+  xy: 385, 351
+  size: 91, 123
+  orig: 91, 123
+  offset: 0, 0
+  index: -1
+GravityLightAtt
+  rotate: false
+  xy: 106, 179
+  size: 91, 123
+  orig: 91, 123
+  offset: 0, 0
+  index: -1
+RevertAtt
+  rotate: false
+  xy: 177, 348
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+RevertDisabledAtt
+  rotate: false
+  xy: 2, 176
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+RevertLightAtt
+  rotate: false
+  xy: 281, 348
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1

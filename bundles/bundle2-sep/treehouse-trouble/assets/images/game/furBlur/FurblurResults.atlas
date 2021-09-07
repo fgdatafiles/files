@@ -1,0 +1,125 @@
+
+FurblurResults.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyAtt
+  rotate: false
+  xy: 2, 226
+  size: 267, 284
+  orig: 267, 284
+  offset: 0, 0
+  index: -1
+EarLAtt
+  rotate: false
+  xy: 464, 464
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+EarRAtt
+  rotate: false
+  xy: 334, 265
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+EyeLAtt
+  rotate: false
+  xy: 197, 163
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+EyeLClosedAtt
+  rotate: false
+  xy: 271, 313
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+EyeLClosingAtt
+  rotate: false
+  xy: 401, 449
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+EyeRAtt
+  rotate: false
+  xy: 197, 100
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+EyeRClosedAtt
+  rotate: false
+  xy: 271, 250
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+EyeRClosingAtt
+  rotate: false
+  xy: 334, 313
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+FaceDistressedAtt
+  rotate: false
+  xy: 271, 376
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+HandLAtt
+  rotate: false
+  xy: 197, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+HandRAtt
+  rotate: false
+  xy: 242, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+MouthClosedAtt
+  rotate: false
+  xy: 401, 387
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+MouthOpenAtt
+  rotate: false
+  xy: 457, 389
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+SpeechLargeAtt
+  rotate: false
+  xy: 2, 33
+  size: 193, 191
+  orig: 193, 191
+  offset: 0, 0
+  index: -1
+SpeechMedAtt
+  rotate: false
+  xy: 197, 44
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+SpeechSmallAtt
+  rotate: false
+  xy: 2, 4
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

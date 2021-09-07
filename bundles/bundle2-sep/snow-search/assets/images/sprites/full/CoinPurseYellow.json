@@ -1,0 +1,25 @@
+{
+	"scale":1,
+	"fps":2,
+	"labels":
+	{
+		"snow00":0,
+		"snow01":1,
+		"snow02":2,
+		"snow03":3
+	},
+	"frames":
+	[
+		{
+			"name":"sn18#",
+			"min":0,
+			"max":3,
+			"digits":4
+		}
+	],
+	"origin":
+	{
+		"x":26.4,
+		"y":17.35
+	}
+}

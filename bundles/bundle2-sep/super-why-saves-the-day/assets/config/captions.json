@@ -1,0 +1,1535 @@
+{
+	"game/sw_kudos_01": [
+		{
+			"content": "Super duper!",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"game/sw_kudos_02": [
+		{
+			"content": "Awesome job!",
+			"start": 0,
+			"end": 1230
+		}
+	],
+	"game/sw_kudos_03": [
+		{
+			"content": "Right on reader!",
+			"start": 0,
+			"end": 1250
+		}
+	],
+	"game/sw_kudos_04": [
+		{
+			"content": "Way to go!",
+			"start": 0,
+			"end": 990
+		}
+	],
+	"game/sw_kudos_05": [
+		{
+			"content": "Right on!",
+			"start": 0,
+			"end": 940
+		}
+	],
+	"game/sw_kudos_06": [
+		{
+			"content": "Super flying!",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"game/sw_kudos_07": [
+		{
+			"content": "Excellent!",
+			"start": 0,
+			"end": 890
+		}
+	],
+	"game/sw_kudos_08": [
+		{
+			"content": "Wow!",
+			"start": 0,
+			"end": 890
+		}
+	],
+	"game/sw_kudos_09": [
+		{
+			"content": "Way to fly!",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"beanstalk/sw_beanstalk_sentence": [
+		{
+			"content": "The giant is angry.",
+			"start": 0,
+			"end": 2300
+		}
+	],
+	"beanstalk/sw_beanstalk_sentence_new": [
+		{
+			"content": "The giant is happy.",
+			"start": 0,
+			"end": 2010
+		}
+	],
+	"beanstalk/sw_beanstalk_setup": [
+		{
+			"content": "In Jack and the Beanstalk, the giant is having one big tantrum.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"beanstalk/sw_incorrect_beanstalk": [
+		{
+			"content": "is not the opposite of angry.",
+			"start": 0,
+			"end": 2040
+		}
+	],
+	"beanstalk/sw_objective_beanstalk": [
+		{
+			"content": "What's the opposite of angry?",
+			"start": 0,
+			"end": 2300
+		}
+	],
+	"cinderella/sw_cinderella_sentence": [
+		{
+			"content": "It's midnight and Cinderella has to go.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"cinderella/sw_cinderella_sentence_new": [
+		{
+			"content": "It's midnight and Cinderella has to stay.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"cinderella/sw_cinderella_setup": [
+		{
+			"content": "In Cinderella, Cinderella doesn't want to leave the ball at midnight, but she has to.",
+			"start": 0,
+			"end": 5590
+		}
+	],
+	"cinderella/sw_incorrect_cinderella": [
+		{
+			"content": "won't help Cinderella.",
+			"start": 0,
+			"end": 1620
+		}
+	],
+	"cinderella/sw_objective_cinderella": [
+		{
+			"content": "What word will help Cinderella so she doesn't have to leave the ball?",
+			"start": 0,
+			"end": 3870
+		}
+	],
+	"duckling/sw_duckling_sentence": [
+		{
+			"content": "The Ugly Duckling cries in the pond.",
+			"start": 0,
+			"end": 2640
+		}
+	],
+	"duckling/sw_duckling_sentence_new": [
+		{
+			"content": "The Ugly Duckling swims in the pond.",
+			"start": 0,
+			"end": 2640
+		}
+	],
+	"duckling/sw_duckling_setup": [
+		{
+			"content": "In the Ugly Duckling, the Ugly Duckling it stuck in the pond, which makes him so sad.",
+			"start": 0,
+			"end": 6640
+		}
+	],
+	"duckling/sw_incorrect_duckling": [
+		{
+			"content": "won't help the Ugly Duckling get home.",
+			"start": 0,
+			"end": 2380
+		}
+	],
+	"duckling/sw_objective_duckling": [
+		{
+			"content": "What can the Ugly Duckling do in the pond to help him get home.",
+			"start": 0,
+			"end": 3650
+		}
+	],
+	"end/sw_change_word": [
+		{
+			"content": "Let's change the word.",
+			"start": 0,
+			"end": 1280
+		}
+	],
+	"end/sw_changestory": [
+		{
+			"content": "With the power to read, we can change this story and save the day!",
+			"start": 0,
+			"end": 4490
+		}
+	],
+	"end/sw_encouragement_01": [
+		{
+			"content": "Keep looking.",
+			"start": 0,
+			"end": 970
+		}
+	],
+	"end/sw_encouragement_02": [
+		{
+			"content": "Try another word.",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"end/sw_encouragement_03": [
+		{
+			"content": "Try again.",
+			"start": 0,
+			"end": 840
+		}
+	],
+	"end/sw_idle": [
+		{
+			"content": "Need help?",
+			"start": 0,
+			"end": 860
+		}
+	],
+	"end/sw_payoff_01": [
+		{
+			"content": "Super job super you!",
+			"start": 0,
+			"end": 2010
+		}
+	],
+	"end/sw_payoff_02": [
+		{
+			"content": "We changed the story and saved the day!",
+			"start": 0,
+			"end": 2740
+		}
+	],
+	"end/sw_read": [
+		{
+			"content": "Let's read.",
+			"start": 0,
+			"end": 1120
+		}
+	],
+	"end/sw_ready_set": [
+		{
+			"content": "Ready. Set.",
+			"start": 0,
+			"end": 1260
+		}
+	],
+	"end/sw_write": [
+		{
+			"content": "Why Writer write.",
+			"start": 0,
+			"end": 1360
+		}
+	],
+	"end/sw_zap": [
+		{
+			"content": "Zap!",
+			"start": 0,
+			"end": 1070
+		}
+	],
+	"foolish/sw_foolish_sentence": [
+		{
+			"content": "The farmer wishes for a house made of sausages.",
+			"start": 0,
+			"end": 3760
+		}
+	],
+	"foolish/sw_foolish_sentence_new": [
+		{
+			"content": "The farmer wishes for a house made of bricks.",
+			"start": 0,
+			"end": 3300
+		}
+	],
+	"foolish/sw_foolish_setup": [
+		{
+			"content": "In The Foolish Wishes, the farmer wished for a house made of sausages, and now the animals are eating it.",
+			"start": 0,
+			"end": 7370
+		}
+	],
+	"foolish/sw_incorrect_foolish": [
+		{
+			"content": "won't help the farmer.",
+			"start": 0,
+			"end": 1390
+		}
+	],
+	"foolish/sw_objective_foolish": [
+		{
+			"content": "What can the house be made of so nobody will eat it?",
+			"start": 0,
+			"end": 3580
+		}
+	],
+	"frog/sw_frog_sentence": [
+		{
+			"content": "The princess lost her wand in the pond.",
+			"start": 0,
+			"end": 2800
+		}
+	],
+	"frog/sw_frog_sentence_new": [
+		{
+			"content": "The princess found her want in the pond.",
+			"start": 0,
+			"end": 2980
+		}
+	],
+	"frog/sw_frog_setup": [
+		{
+			"content": "In The Frog Prince, the princess lost her wand in the pond.",
+			"start": 0,
+			"end": 3990
+		}
+	],
+	"frog/sw_incorrect_frog": [
+		{
+			"content": "won't help the princess get her wand back.",
+			"start": 0,
+			"end": 2510
+		}
+	],
+	"frog/sw_objective_frog": [
+		{
+			"content": "What word will help princess get her wand back?",
+			"start": 0,
+			"end": 3470
+		}
+	],
+	"game/sw_boost": [
+		{
+			"content": "Here we go!",
+			"start": 0,
+			"end": 1250
+		}
+	],
+	"game/sw_bubble": [
+		{
+			"content": "Zoom!",
+			"start": 0,
+			"end": 1490
+		}
+	],
+	"game/sw_cloud": [
+		{
+			"content": "Woah!",
+			"start": 0,
+			"end": 970
+		}
+	],
+	"game/sw_fireworks": [
+		{
+			"content": "Cool!",
+			"start": 0,
+			"end": 1050
+		}
+	],
+	"game/sw_flying_complete": [
+		{
+			"content": "Super job! You found all the super letters. Let's go change this story.",
+			"start": 0,
+			"end": 5280
+		}
+	],
+	"game/sw_flying_objective": [
+		{
+			"content": "Super Reader. Help me collect all of the Super Letters.",
+			"start": 0,
+			"end": 3560
+		}
+	],
+	"game/sw_tutorial_desktop": [
+		{
+			"content": "Use your mouse, or arrows on the keyboard to fly me up and down.",
+			"start": 0,
+			"end": 4310
+		}
+	],
+	"game/sw_tutorial_mobile": [
+		{
+			"content": "Use your finger to fly me up and down.",
+			"start": 0,
+			"end": 2820
+		}
+	],
+	"goldilocks/sw_goldilocks_sentence": [
+		{
+			"content": "Goldilocks sleeps in little bear's bed.",
+			"start": 0,
+			"end": 3320
+		}
+	],
+	"goldilocks/sw_goldilocks_sentence_new": [
+		{
+			"content": "Goldilocks jumps in little bear's bed.",
+			"start": 0,
+			"end": 3190
+		}
+	],
+	"goldilocks/sw_goldilocks_setup": [
+		{
+			"content": "In Goldilocks and the Three Bears, the bears find Goldilocks sleeping in their house.",
+			"start": 0,
+			"end": 5980
+		}
+	],
+	"goldilocks/sw_incorrect_goldilocks": [
+		{
+			"content": "can't help Goldilocks wake up.",
+			"start": 0,
+			"end": 2060
+		}
+	],
+	"goldilocks/sw_objective_goldilocks": [
+		{
+			"content": "What word can we use to help Goldilocks wake up?",
+			"start": 0,
+			"end": 3630
+		}
+	],
+	"hansel/sw_hansel_sentence": [
+		{
+			"content": "Hansel and Gretel eat the witch's house.",
+			"start": 0,
+			"end": 2980
+		}
+	],
+	"hansel/sw_hansel_sentence_new": [
+		{
+			"content": "Hansel and Gretel eat the witch's cookies.",
+			"start": 0,
+			"end": 2590
+		}
+	],
+	"hansel/sw_hansel_setup": [
+		{
+			"content": "In Hansel and Gretel, Hansel and Gretel eat the witch's house. The witch needs our help.",
+			"start": 0,
+			"end": 5800
+		}
+	],
+	"hansel/sw_incorrect_hansel": [
+		{
+			"content": "Hansel and Gretel can't eat the witch's",
+			"start": 0,
+			"end": 2400
+		}
+	],
+	"hansel/sw_objective_hansel": [
+		{
+			"content": "What should Hansel and Gretel eat instead?",
+			"start": 0,
+			"end": 2590
+		}
+	],
+	"humpty/sw_humpty_sentence": [
+		{
+			"content": "Humpty Dumpty had a great fall.",
+			"start": 0,
+			"end": 2750
+		}
+	],
+	"humpty/sw_humpty_sentence_new": [
+		{
+			"content": "Humpty Dumpty had a great slide.",
+			"start": 0,
+			"end": 2900
+		}
+	],
+	"humpty/sw_humpty_setup": [
+		{
+			"content": "In Humpty Dumpty, Humpty Dumpty has a great fall. We need to help him.",
+			"start": 0,
+			"end": 5150
+		}
+	],
+	"humpty/sw_incorrect_humpty": [
+		{
+			"content": "won't help Humpty Dumpty get down.",
+			"start": 0,
+			"end": 2350
+		}
+	],
+	"humpty/sw_objective_humpty": [
+		{
+			"content": "What will help Humpty Dumpty safely get down from the wall?",
+			"start": 0,
+			"end": 3900
+		}
+	],
+	"letters/sw_a": [
+		{
+			"content": "A",
+			"start": 0,
+			"end": 470
+		}
+	],
+	"letters/sw_b": [
+		{
+			"content": "B",
+			"start": 0,
+			"end": 520
+		}
+	],
+	"letters/sw_c": [
+		{
+			"content": "C",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"letters/sw_d": [
+		{
+			"content": "D",
+			"start": 0,
+			"end": 500
+		}
+	],
+	"letters/sw_e": [
+		{
+			"content": "E",
+			"start": 0,
+			"end": 520
+		}
+	],
+	"letters/sw_f": [
+		{
+			"content": "F",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"letters/sw_g": [
+		{
+			"content": "G",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"letters/sw_h": [
+		{
+			"content": "H",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"letters/sw_i": [
+		{
+			"content": "I",
+			"start": 0,
+			"end": 500
+		}
+	],
+	"letters/sw_j": [
+		{
+			"content": "J",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"letters/sw_k": [
+		{
+			"content": "K",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"letters/sw_l": [
+		{
+			"content": "L",
+			"start": 0,
+			"end": 500
+		}
+	],
+	"letters/sw_m": [
+		{
+			"content": "M",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"letters/sw_n": [
+		{
+			"content": "N",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"letters/sw_o": [
+		{
+			"content": "O",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"letters/sw_p": [
+		{
+			"content": "P",
+			"start": 0,
+			"end": 520
+		}
+	],
+	"letters/sw_q": [
+		{
+			"content": "Q",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"letters/sw_r": [
+		{
+			"content": "R",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"letters/sw_s": [
+		{
+			"content": "S",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"letters/sw_t": [
+		{
+			"content": "T",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"letters/sw_u": [
+		{
+			"content": "U",
+			"start": 0,
+			"end": 650
+		}
+	],
+	"letters/sw_v": [
+		{
+			"content": "V",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"letters/sw_w": [
+		{
+			"content": "W",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"letters/sw_x": [
+		{
+			"content": "X",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"letters/sw_y": [
+		{
+			"content": "Y",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"letters/sw_z": [
+		{
+			"content": "Z",
+			"start": 0,
+			"end": 730
+		}
+	],
+	"mode/sw_easy": [
+		{
+			"content": "Easy",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"mode/sw_hard": [
+		{
+			"content": "Hard",
+			"start": 0,
+			"end": 400
+		}
+	],
+	"mode/sw_letsfly": [
+		{
+			"content": "Let's fly into this book and change the story!",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"mode/sw_letsfly_alt": [
+		{
+			"content": "We need to fly into this book and change the story!",
+			"start": 0,
+			"end": 3450
+		}
+	],
+	"mode/sw_mode_easy_click": [
+		{
+			"content": "Click easy to read with me.",
+			"start": 0,
+			"end": 2110
+		}
+	],
+	"mode/sw_mode_easy_tap": [
+		{
+			"content": "Tap easy to read with me.",
+			"start": 0,
+			"end": 2000
+		}
+	],
+	"mode/sw_mode_hard_click": [
+		{
+			"content": "Click hard to read on your own.",
+			"start": 0,
+			"end": 2190
+		}
+	],
+	"mode/sw_mode_hard_tap": [
+		{
+			"content": "Tap hard to read on your own.",
+			"start": 0,
+			"end": 2270
+		}
+	],
+	"mode/sw_mode_intro": [
+		{
+			"content": "How do you want to play?",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"mode/sw_rescue": [
+		{
+			"content": "Super Why to the rescue!",
+			"start": 0,
+			"end": 2350
+		}
+	],
+	"muffet/sw_incorrect_muffet": [
+		{
+			"content": "won't' help Miss Muffet feel better.",
+			"start": 0,
+			"end": 2090
+		}
+	],
+	"muffet/sw_muffet_sentence": [
+		{
+			"content": "The spider makes Miss Muffet scared.",
+			"start": 0,
+			"end": 2800
+		}
+	],
+	"muffet/sw_muffet_sentence_new": [
+		{
+			"content": "The spider makes Miss Muffet laugh.",
+			"start": 0,
+			"end": 2740
+		}
+	],
+	"muffet/sw_muffet_setup": [
+		{
+			"content": "In Little Miss Muffet, the spider is scaring Miss Muffet.",
+			"start": 0,
+			"end": 3860
+		}
+	],
+	"muffet/sw_objective_muffet": [
+		{
+			"content": "What word will help Miss Muffet feel better?",
+			"start": 0,
+			"end": 2850
+		}
+	],
+	"pea/sw_incorrect_pea": [
+		{
+			"content": "won't help the princess get rid of the pea.",
+			"start": 0,
+			"end": 2510
+		}
+	],
+	"pea/sw_objective_pea": [
+		{
+			"content": "Which word will help the princess get rid of the pea?",
+			"start": 0,
+			"end": 3450
+		}
+	],
+	"pea/sw_pea_sentence": [
+		{
+			"content": "The princess feels a pea under her mattress.",
+			"start": 0,
+			"end": 3500
+		}
+	],
+	"pea/sw_pea_sentence_new": [
+		{
+			"content": "The princess eats a pea under her mattress.",
+			"start": 0,
+			"end": 3240
+		}
+	],
+	"pea/sw_pea_setup": [
+		{
+			"content": "In Princess and the Pea, the princess can't sleep because she feels a pea under her mattress.",
+			"start": 0,
+			"end": 6090
+		}
+	],
+	"peep/sw_incorrect_peep": [
+		{
+			"content": "won't help Little Bo Peep.",
+			"start": 0,
+			"end": 1830
+		}
+	],
+	"peep/sw_objective_peep": [
+		{
+			"content": "What word will help Little Bo Peep so she can be with her sheep again?",
+			"start": 0,
+			"end": 4290
+		}
+	],
+	"peep/sw_peep_sentence": [
+		{
+			"content": "Little Bo Peep lost her sheep.",
+			"start": 0,
+			"end": 2850
+		}
+	],
+	"peep/sw_peep_sentence_new": [
+		{
+			"content": "Little Bo Peep hugged her sheep.",
+			"start": 0,
+			"end": 2530
+		}
+	],
+	"peep/sw_peep_setup": [
+		{
+			"content": "In Little Bo Peep, Little Bo Peep lost her sheep.",
+			"start": 0,
+			"end": 4140
+		}
+	],
+	"pigs/sw_incorrect_pigs": [
+		{
+			"content": "is not the opposite of bad.",
+			"start": 0,
+			"end": 2040
+		}
+	],
+	"pigs/sw_objective_pigs": [
+		{
+			"content": "We need to stop this wolf from blowing down houses. What's the opposite of bad?",
+			"start": 0,
+			"end": 5750
+		}
+	],
+	"pigs/sw_pigs_sentence": [
+		{
+			"content": "There once was a big bad wolf.",
+			"start": 0,
+			"end": 3190
+		}
+	],
+	"pigs/sw_pigs_sentence_new": [
+		{
+			"content": "There once was a big good wolf.",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"pigs/sw_pigs_setup": [
+		{
+			"content": "In The Three Little Pigs, the big bad wolf is blowing down the pig's houses. We have to stop the wolf from being bad.",
+			"start": 0,
+			"end": 8210
+		}
+	],
+	"rapunzel/sw_incorrect_rapunzel": [
+		{
+			"content": "won't help Rapunzel climb down.",
+			"start": 0,
+			"end": 2200
+		}
+	],
+	"rapunzel/sw_objective_rapunzel": [
+		{
+			"content": "Rapunzel can't climb down her hair. What can she climb down?",
+			"start": 0,
+			"end": 4210
+		}
+	],
+	"rapunzel/sw_rapunzel_sentence": [
+		{
+			"content": "Rapunzel, let down your hair.",
+			"start": 0,
+			"end": 2720
+		}
+	],
+	"rapunzel/sw_rapunzel_sentence_new": [
+		{
+			"content": "Rapunzel, let down your ladder.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"rapunzel/sw_rapunzel_setup": [
+		{
+			"content": "In Rapunzel, Rapunzel is stuck in the tower. We need to help her.",
+			"start": 0,
+			"end": 4810
+		}
+	],
+	"red/sw_incorrect_red": [
+		{
+			"content": "won't help this story.",
+			"start": 0,
+			"end": 1460
+		}
+	],
+	"red/sw_objective_red": [
+		{
+			"content": "what word will help?",
+			"start": 0,
+			"end": 1410
+		}
+	],
+	"red/sw_red_sentence": [
+		{
+			"content": "The wolf is in Grandma's bed.",
+			"start": 0,
+			"end": 2380
+		}
+	],
+	"red/sw_red_sentence_new": [
+		{
+			"content": "Grandma is in Grandma's bed.",
+			"start": 0,
+			"end": 2350
+		}
+	],
+	"red/sw_red_setup": [
+		{
+			"content": "In Little Red Riding Hood, the wolf is in Grandma's bed.",
+			"start": 0,
+			"end": 4020
+		}
+	],
+	"shoemaker/sw_incorrect_shoemaker": [
+		{
+			"content": "won't help out the shoemaker.",
+			"start": 0,
+			"end": 1930
+		}
+	],
+	"shoemaker/sw_objective_shoemaker": [
+		{
+			"content": "What else can the elves make to help the shoemaker?",
+			"start": 0,
+			"end": 2930
+		}
+	],
+	"shoemaker/sw_shoemaker_sentence": [
+		{
+			"content": "The elves make snacks at night.",
+			"start": 0,
+			"end": 2530
+		}
+	],
+	"shoemaker/sw_shoemaker_sentence_new": [
+		{
+			"content": "The elves make shoes at night.",
+			"start": 0,
+			"end": 2260
+		}
+	],
+	"shoemaker/sw_shoemaker_setup": [
+		{
+			"content": "In The Elves and the Shoemaker, the shoemaker needs help making shoes, but the elves are too busy making snacks.",
+			"start": 0,
+			"end": 7600
+		}
+	],
+	"sleeping/sw_incorrect_sleeping": [
+		{
+			"content": "won't help Sleeping Beauty not sleep.",
+			"start": 0,
+			"end": 2610
+		}
+	],
+	"sleeping/sw_objective_sleeping": [
+		{
+			"content": "Sleeping Beauty needs to do more than just sleep. Which word will help her?",
+			"start": 0,
+			"end": 4980
+		}
+	],
+	"sleeping/sw_sleeping_sentence": [
+		{
+			"content": "Sleeping Beauty sleeps.",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"sleeping/sw_sleeping_sentence_new": [
+		{
+			"content": "Sleeping Beauty sings.",
+			"start": 0,
+			"end": 1960
+		}
+	],
+	"sleeping/sw_sleeping_setup": [
+		{
+			"content": "In Sleeping Beauty, Sleeping Beauty sleeps all of the time.",
+			"start": 0,
+			"end": 4670
+		}
+	],
+	"snow/sw_incorrect_snow": [
+		{
+			"content": "won't help Snow White.",
+			"start": 0,
+			"end": 1490
+		}
+	],
+	"snow/sw_objective_snow": [
+		{
+			"content": "What can Snow White do so she doesn't eat the poison apple?",
+			"start": 0,
+			"end": 3930
+		}
+	],
+	"snow/sw_snow_sentence": [
+		{
+			"content": "Snow White eats the apple.",
+			"start": 0,
+			"end": 2040
+		}
+	],
+	"snow/sw_snow_sentence_new": [
+		{
+			"content": "Snow White throws the apple.",
+			"start": 0,
+			"end": 2170
+		}
+	],
+	"snow/sw_snow_setup": [
+		{
+			"content": "In Snow White, Snow White eats the poison apple.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"sw_exit": [
+		{
+			"content": "Are you sure you want to exit?",
+			"start": 0,
+			"end": 1670
+		}
+	],
+	"sw_no": [
+		{
+			"content": "No",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"sw_title": [
+		{
+			"content": "Super Why Saves the Day!",
+			"start": 0,
+			"end": 2140
+		}
+	],
+	"sw_yes": [
+		{
+			"content": "Yes",
+			"start": 0,
+			"end": 803
+		}
+	],
+	"words/sw_afraid": [
+		{
+			"content": "Afraid",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"words/sw_angry": [
+		{
+			"content": "Angry",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"words/sw_apple": [
+		{
+			"content": "Apple",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"words/sw_back": [
+		{
+			"content": "Back",
+			"start": 0,
+			"end": 500
+		}
+	],
+	"words/sw_bad": [
+		{
+			"content": "Bad",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"words/sw_bed": [
+		{
+			"content": "Bed",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"words/sw_bites": [
+		{
+			"content": "Bites",
+			"start": 0,
+			"end": 650
+		}
+	],
+	"words/sw_book": [
+		{
+			"content": "Book",
+			"start": 0,
+			"end": 650
+		}
+	],
+	"words/sw_bricks": [
+		{
+			"content": "Bricks",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"words/sw_bump": [
+		{
+			"content": "Bump",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"words/sw_chews": [
+		{
+			"content": "Chews",
+			"start": 0,
+			"end": 760
+		}
+	],
+	"words/sw_clouds": [
+		{
+			"content": "Clouds",
+			"start": 0,
+			"end": 780
+		}
+	],
+	"words/sw_cookies": [
+		{
+			"content": "Cookies",
+			"start": 0,
+			"end": 730
+		}
+	],
+	"words/sw_cries": [
+		{
+			"content": "Cries",
+			"start": 0,
+			"end": 730
+		}
+	],
+	"words/sw_cry": [
+		{
+			"content": "Cry",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"words/sw_door": [
+		{
+			"content": "Door",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_drive": [
+		{
+			"content": "Drive",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"words/sw_dropped": [
+		{
+			"content": "Dropped",
+			"start": 0,
+			"end": 680
+		}
+	],
+	"words/sw_eats": [
+		{
+			"content": "Eats",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_eggs": [
+		{
+			"content": "Eggs",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"words/sw_fall": [
+		{
+			"content": "Fall",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_feels": [
+		{
+			"content": "Feels",
+			"start": 0,
+			"end": 840
+		}
+	],
+	"words/sw_found": [
+		{
+			"content": "Found",
+			"start": 0,
+			"end": 730
+		}
+	],
+	"words/sw_games": [
+		{
+			"content": "Games",
+			"start": 0,
+			"end": 650
+		}
+	],
+	"words/sw_go": [
+		{
+			"content": "Go",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"words/sw_good": [
+		{
+			"content": "Good",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"words/sw_grandma": [
+		{
+			"content": "Grandma",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"words/sw_hair": [
+		{
+			"content": "Hair",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_happy": [
+		{
+			"content": "Happy",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_hid": [
+		{
+			"content": "Hid",
+			"start": 0,
+			"end": 520
+		}
+	],
+	"words/sw_home": [
+		{
+			"content": "Home",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"words/sw_house": [
+		{
+			"content": "House",
+			"start": 0,
+			"end": 680
+		}
+	],
+	"words/sw_hugged": [
+		{
+			"content": "Hugged",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"words/sw_jumps": [
+		{
+			"content": "Jumps",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"words/sw_ladder": [
+		{
+			"content": "Ladder",
+			"start": 0,
+			"end": 680
+		}
+	],
+	"words/sw_laugh": [
+		{
+			"content": "Laugh",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_lion": [
+		{
+			"content": "Lion",
+			"start": 0,
+			"end": 680
+		}
+	],
+	"words/sw_lost": [
+		{
+			"content": "Lost",
+			"start": 0,
+			"end": 760
+		}
+	],
+	"words/sw_mad": [
+		{
+			"content": "Mad",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"words/sw_missed": [
+		{
+			"content": "Missed",
+			"start": 0,
+			"end": 630
+		}
+	],
+	"words/sw_naps": [
+		{
+			"content": "Naps",
+			"start": 0,
+			"end": 650
+		}
+	],
+	"words/sw_red": [
+		{
+			"content": "Red",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_run": [
+		{
+			"content": "Run",
+			"start": 0,
+			"end": 550
+		}
+	],
+	"words/sw_sad": [
+		{
+			"content": "Sad",
+			"start": 0,
+			"end": 680
+		}
+	],
+	"words/sw_salads": [
+		{
+			"content": "Salads",
+			"start": 0,
+			"end": 860
+		}
+	],
+	"words/sw_sausages": [
+		{
+			"content": "Sausages",
+			"start": 0,
+			"end": 1070
+		}
+	],
+	"words/sw_scared": [
+		{
+			"content": "Scared",
+			"start": 0,
+			"end": 760
+		}
+	],
+	"words/sw_shoes": [
+		{
+			"content": "Shoes",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"words/sw_sings": [
+		{
+			"content": "Sings",
+			"start": 0,
+			"end": 760
+		}
+	],
+	"words/sw_sits": [
+		{
+			"content": "Sits",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"words/sw_sleeps": [
+		{
+			"content": "Sleeps",
+			"start": 0,
+			"end": 760
+		}
+	],
+	"words/sw_slide": [
+		{
+			"content": "Slide",
+			"start": 0,
+			"end": 730
+		}
+	],
+	"words/sw_small": [
+		{
+			"content": "Small",
+			"start": 0,
+			"end": 680
+		}
+	],
+	"words/sw_smells": [
+		{
+			"content": "Smells",
+			"start": 0,
+			"end": 840
+		}
+	],
+	"words/sw_snacks": [
+		{
+			"content": "Snacks",
+			"start": 0,
+			"end": 810
+		}
+	],
+	"words/sw_snores": [
+		{
+			"content": "Snores",
+			"start": 0,
+			"end": 810
+		}
+	],
+	"words/sw_stay": [
+		{
+			"content": "Stay",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"words/sw_swims": [
+		{
+			"content": "Swims",
+			"start": 0,
+			"end": 810
+		}
+	],
+	"words/sw_threw": [
+		{
+			"content": "Threw",
+			"start": 0,
+			"end": 580
+		}
+	],
+	"words/sw_throws": [
+		{
+			"content": "Throws",
+			"start": 0,
+			"end": 650
+		}
+	],
+	"words/sw_tiger": [
+		{
+			"content": "Tiger",
+			"start": 0,
+			"end": 650
+		}
+	],
+	"words/sw_videos": [
+		{
+			"content": "Videos",
+			"start": 0,
+			"end": 810
+		}
+	],
+	"words/sw_waters": [
+		{
+			"content": "Waters",
+			"start": 0,
+			"end": 760
+		}
+	],
+	"words/sw_windows": [
+		{
+			"content": "Windows",
+			"start": 0,
+			"end": 840
+		}
+	],
+	"words/sw_wolf": [
+		{
+			"content": "Wolf",
+			"start": 0,
+			"end": 810
+		}
+	]
+}

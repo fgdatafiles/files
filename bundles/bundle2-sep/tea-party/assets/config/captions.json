@@ -1,0 +1,1305 @@
+{
+  "directory_teapartygame": [
+    {
+      "content": "(Daniel) Let's make a tea party,",
+      "start": 0,
+      "end": 1500
+    },
+    {
+      "content": "(Daniel) and we can invite our friends to come!",
+      "start": 1600,
+      "end": 3800
+    }
+  ],
+  "Daniel_AppleSlices": [
+    {
+      "content": " (Daniel) Apple slices, yum! ",
+      "start": 0,
+      "end": 2589
+    },
+    {
+      "content": " (Daniel) Those look good!",
+      "start": 2751,
+      "end": 4838
+    }
+  ],
+  "Daniel_Favorite": [
+    {
+      "content": "(Daniel) You picked the tiger one!",
+      "start": 0,
+      "end": 1920
+    },
+    {
+      "content": "(Daniel) I looove the tiger one!",
+      "start": 2129,
+      "end": 4128
+    }
+  ],
+  "Daniel_conversation_v01": [
+    {
+      "content": "(Daniel) I'm so glad everyone's here!",
+      "start": 0,
+      "end": 2339
+    }
+  ],
+  "Daniel_conversation_v02": [
+    {
+      "content": "(Daniel) I'm so glad you're here with us, neighbor.",
+      "start": 0,
+      "end": 2482
+    }
+  ],
+  "Daniel_conversation_v03": [
+    {
+      "content": "(Daniel) Tea parties are so much fun!",
+      "start": 0,
+      "end": 2381
+    }
+  ],
+  "Daniel_conversation_v04": [
+    {
+      "content": "(Daniel) I like being at a tea party with you!",
+      "start": 0,
+      "end": 2978
+    }
+  ],
+  "Daniel_conversation_v05": [
+    {
+      "content": "(Daniel) We're so glad that you are here with us today!",
+      "start": 0,
+      "end": 2797
+    }
+  ],
+  "Daniel_conversation_v06": [
+    {
+      "content": "(Daniel) It's so grrrrific that everyone's here.",
+      "start": 0,
+      "end": 2781
+    },
+    {
+      "content": "(Daniel) And YOU too!",
+      "start": 2844,
+      "end": 4510
+    }
+  ],
+  "Daniel_conversation_v07": [
+    {
+      "content": "(Daniel) What a lovely tea party!",
+      "start": 0,
+      "end": 2254
+    }
+  ],
+  "Daniel_conversation_v08": [
+    {
+      "content": "(Daniel) It's so grrrific that you're here!",
+      "start": 0,
+      "end": 2636
+    }
+  ],
+  "Daniel_conversation_v09": [
+    {
+      "content": "(Daniel) Isn't it fun to be together?",
+      "start": 0,
+      "end": 1972
+    }
+  ],
+  "Daniel_conversation_v10": [
+    {
+      "content": "(Daniel) This is so much fun!",
+      "start": 0,
+      "end": 2289
+    }
+  ],
+  "Daniel_moreSnack_v01": [
+    {
+      "content": "(Daniel) I finished my snack.",
+      "start": 0,
+      "end": 1646
+    },
+    {
+      "content": "(Daniel) Would you please give me another?",
+      "start": 1703,
+      "end": 3892
+    }
+  ],
+  "Daniel_moreSnack_v02": [
+    {
+      "content": "(Daniel) Now that was yummy!",
+      "start": 0,
+      "end": 1850
+    },
+    {
+      "content": "(Daniel) May I please have another snack?",
+      "start": 1975,
+      "end": 4096
+    }
+  ],
+  "Daniel_moreSnack_v03": [
+    {
+      "content": "(Daniel) That was dee-licious!",
+      "start": 0,
+      "end": 2174
+    },
+    {
+      "content": "(Daniel) May I please have another?",
+      "start": 2250,
+      "end": 3984
+    }
+  ],
+  "Daniel_moreTeaNeighbor_v01": [
+    {
+      "content": "(Daniel) Would you like some more tea, neighbor?",
+      "start": 0,
+      "end": 2295
+    }
+  ],
+  "Daniel_moreTea_v01": [
+    {
+      "content": "(Daniel) My cup is empty.",
+      "start": 0,
+      "end": 1132
+    },
+    {
+      "content": "(Daniel) May I please have more?",
+      "start": 1339,
+      "end": 2864
+    }
+  ],
+  "Daniel_moreTeaneighbor_v02": [
+    {
+      "content": "(Daniel) Would you like to pour some more",
+      "start": 0,
+      "end": 1361
+    },
+    {
+      "content": "(Daniel) tea for yourself neighbor?",
+      "start": 1369,
+      "end": 2930
+    }
+  ],
+  "Daniel_moreTea_v02": [
+    {
+      "content": "(Daniel) May I have some more tea please?",
+      "start": 2,
+      "end": 2233
+    }
+  ],
+  "Daniel_moreTea_v03": [
+    {
+      "content": "(Daniel) I finished my tea.",
+      "start": 0,
+      "end": 1161
+    },
+    {
+      "content": "(Daniel) May I have some more?",
+      "start": 1352,
+      "end": 2729
+    }
+  ],
+  "Daniel_moreTea_v04": [
+    {
+      "content": "(Daniel) Will you pour me some more please?",
+      "start": 0,
+      "end": 2194
+    }
+  ],
+  "Daniel_notDoneTea_v01": [
+    {
+      "content": "(Daniel) Thanks neighbor.",
+      "start": 0,
+      "end": 1151
+    },
+    {
+      "content": "(Daniel) But before you can refill you my cup,",
+      "start": 1217,
+      "end": 3264
+    },
+    {
+      "content": "(Daniel) I have to finish what I have.",
+      "start": 3320,
+      "end": 5009
+    }
+  ],
+  "Daniel_notDoneTea_v02": [
+    {
+      "content": "(Daniel) Thank you neighbor!",
+      "start": 11,
+      "end": 1351
+    },
+    {
+      "content": "(Daniel) But first I need to finish what's in my cup.",
+      "start": 1517,
+      "end": 4256
+    }
+  ],
+  "Daniel_notDoneTea_v03": [
+    {
+      "content": "(Daniel) Thank you neighbor!",
+      "start": 0,
+      "end": 1259
+    },
+    {
+      "content": "(Daniel) But first, I need to finish what I have.",
+      "start": 1338,
+      "end": 4148
+    }
+  ],
+  "Daniel_notDoneTea_v04": [
+    {
+      "content": "(Daniel) Thanks neighbor,",
+      "start": 0,
+      "end": 1228
+    },
+    {
+      "content": "(Daniel) but I'm not done with my tea yet!",
+      "start": 1314,
+      "end": 3280
+    }
+  ],
+  "Daniel_thankYou_v01": [
+    {
+      "content": "(Daniel) Thanks neighbor!",
+      "start": 0,
+      "end": 1269
+    }
+  ],
+  "Daniel_thankYou_v02": [
+    {
+      "content": "(Daniel) Thanks neighbor!",
+      "start": 0,
+      "end": 1231
+    }
+  ],
+  "Daniel_thankYou_v03": [
+    {
+      "content": "(Daniel) Thanks neighbor!",
+      "start": 0,
+      "end": 1261
+    }
+  ],
+  "Daniel_thankYou_v04": [
+    {
+      "content": "(Daniel) A Grrrrific Thank you!",
+      "start": 0,
+      "end": 1918
+    }
+  ],
+  "Daniel_thankYou_v05": [
+    {
+      "content": "(Daniel) A Grrrrific Thank you!",
+      "start": 0,
+      "end": 2000
+    }
+  ],
+  "Daniel_thankYou_v06": [
+    {
+      "content": "(Daniel) Thank you neighbor!",
+      "start": 0,
+      "end": 1318
+    }
+  ],
+  "Daniel_thankYou_v07": [
+    {
+      "content": "(Daniel) Thank you neighbor!",
+      "start": 0,
+      "end": 1475
+    }
+  ],
+  "Daniel_thankYou_v08": [
+    {
+      "content": "(Daniel) Thank you neighbor!",
+      "start": 0,
+      "end": 1965
+    }
+  ],
+  "Daniel_castleTeaPot": [
+    {
+      "content": "(Daniel) That one looks like the castle!",
+      "start": 0,
+      "end": 2188
+    },
+    {
+      "content": "(Daniel) It looks rrroyal!",
+      "start": 2293,
+      "end": 4151
+    }
+  ],
+  "Daniel_cookies": [
+    {
+      "content": "(Daniel) Oooh cookies! Those look yummy!",
+      "start": 14,
+      "end": 3013
+    }
+  ],
+  "Daniel_elainaTeaPot": [
+    {
+      "content": "(Daniel) That teapot looks like Miss Elaina's house.",
+      "start": 14,
+      "end": 2627
+    },
+    {
+      "content": "(Daniel) It has so many colors!",
+      "start": 2830,
+      "end": 5169
+    }
+  ],
+  "Daniel_katerinaTeaPot": [
+    {
+      "content": "(Daniel) Ooooh,",
+      "start": 0,
+      "end": 668
+    },
+    {
+      "content": "(Daniel) that one's fancy like Katerina's ballet things!",
+      "start": 691,
+      "end": 3715
+    },
+    {
+      "content": "(Daniel) It makes me feel like dancing.",
+      "start": 3883,
+      "end": 5919
+    }
+  ],
+  "Daniel_owlTeaPot": [
+    {
+      "content": "(Daniel) That teapot looks like O the owl!",
+      "start": 0,
+      "end": 2450
+    },
+    {
+      "content": "(Daniel) It makes me feel like saying Hoo Hoo!",
+      "start": 2645,
+      "end": 5570
+    }
+  ],
+  "Daniel_pretzels": [
+    {
+      "content": "(Daniel) Pretzels are fun to eat! And crunchy!",
+      "start": 0,
+      "end": 3550
+    }
+  ],
+  "Daniel_setup_chooseSnack": [
+    {
+      "content": "(Daniel) And you can choose a snack too!",
+      "start": 0,
+      "end": 2407
+    }
+  ],
+  "Daniel_setup_chooseTeaSet": [
+    {
+      "content": "(Daniel) Now you can choose a tea set!",
+      "start": 0,
+      "end": 1759
+    }
+  ],
+  "Daniel_setup_inviteFriends": [
+    {
+      "content": "(Daniel) Now we are ready to invite our friends!",
+      "start": 0,
+      "end": 2350
+    },
+    {
+      "content": "(Daniel) If you want, you can invite your friends too!",
+      "start": 2888,
+      "end": 5519
+    }
+  ],
+  "Daniel_setup_othersOnShelf": [
+    {
+      "content": "(Daniel) I’ll put the others on the shelf,",
+      "start": 11,
+      "end": 1738
+    },
+    {
+      "content": "(Daniel) if you want to pick a different one.",
+      "start": 1791,
+      "end": 3549
+    }
+  ],
+  "Daniel_setup_step1": [
+    {
+      "content": "(Daniel) Hi neighbor!",
+      "start": 0,
+      "end": 1462
+    },
+    {
+      "content": "(Daniel) I'm glad you're here to help",
+      "start": 1639,
+      "end": 2889
+    },
+    {
+      "content": "(Daniel) me make a tea party for me and my friends!",
+      "start": 2900,
+      "end": 5809
+    },
+    {
+      "content": "(Daniel) First, you can pick a tablecloth!",
+      "start": 5970,
+      "end": 8698
+    },
+    {
+      "content": "(Daniel) Which one do you want to use?",
+      "start": 8710,
+      "end": 10930
+    }
+  ],
+  "Daniel_setup_step2": [
+    {
+      "content": "(Daniel) That looks great!",
+      "start": 0,
+      "end": 1541
+    },
+    {
+      "content": "(Daniel) I’ll put the others on the shelf,",
+      "start": 1581,
+      "end": 3400
+    },
+    {
+      "content": "(Daniel) if you want to pick a different one.",
+      "start": 3431,
+      "end": 5343
+    },
+    {
+      "content": "(Daniel) Now you can choose a tea set!",
+      "start": 5533,
+      "end": 7543
+    },
+    {
+      "content": "(Daniel) Which one do you want?",
+      "start": 7629,
+      "end": 9180
+    }
+  ],
+  "Daniel_setup_tablecloth": [
+    {
+      "content": "(Daniel) First, you can pick a tablecloth!",
+      "start": 0,
+      "end": 2745
+    }
+  ],
+  "Daniel_setup_welcome": [
+    {
+      "content": "(Daniel) Hi neighbor!",
+      "start": 0,
+      "end": 1302
+    },
+    {
+      "content": "(Daniel) I'm glad you're here to help me make a",
+      "start": 1502,
+      "end": 3346
+    },
+    {
+      "content": "(Daniel) tea party for me and my friends!",
+      "start": 3365,
+      "end": 5643
+    }
+  ],
+  "Daniel_setup_whichOne": [
+    {
+      "content": "(Daniel) Which one do you want to use?",
+      "start": 0,
+      "end": 2165
+    }
+  ],
+  "Daniel_setup_whichOneDoYouWant": [
+    {
+      "content": "(Daniel) Which one do you want?",
+      "start": 0,
+      "end": 1361
+    }
+  ],
+  "Daniel_strawberries": [
+    {
+      "content": "(Daniel) I looovee juicy strawberries!",
+      "start": 0,
+      "end": 2595
+    }
+  ],
+  "Daniel_tableclothResponse_v1": [
+    {
+      "content": "(Daniel) That looks great!",
+      "start": 0,
+      "end": 1341
+    }
+  ],
+  "Daniel_tigerTeaPot": [
+    {
+      "content": "(Daniel) That one has stripes like me!",
+      "start": 0,
+      "end": 2037
+    }
+  ],
+  "Daniel_trolleyTeaPot": [
+    {
+      "content": "(Daniel) A teapot that looks like trolley!",
+      "start": 0,
+      "end": 2114
+    },
+    {
+      "content": "(Daniel) Ding Ding!",
+      "start": 2324,
+      "end": 3460
+    }
+  ],
+  "Elaina_Greeting_v01": [
+    {
+      "content": "(Elaina) Hiya!",
+      "start": 0,
+      "end": 631
+    }
+  ],
+  "Elaina_Greeting_v02": [
+    {
+      "content": "(Elaina) Hi neighbor!",
+      "start": 0,
+      "end": 941
+    }
+  ],
+  "Elaina_favorite": [
+    {
+      "content": "(Elaina) *laughs* That one looks like",
+      "start": 0,
+      "end": 2137
+    },
+    {
+      "content": "(Elaina) my house! Great choice!",
+      "start": 2146,
+      "end": 4674
+    }
+  ],
+  "Elaina_moresnacks_v01": [
+    {
+      "content": "(Elaina) Can I please have another",
+      "start": 0,
+      "end": 1348
+    },
+    {
+      "content": "(Elaina) snack?",
+      "start": 1356,
+      "end": 1794
+    }
+  ],
+  "Elaina_moresnacks_v02": [
+    {
+      "content": "(Elaina) Time for another snack for me!",
+      "start": 0,
+      "end": 2073
+    }
+  ],
+  "Elaina_moresnacks_v03": [
+    {
+      "content": "(Elaina) That treat sure was tasty!",
+      "start": 0,
+      "end": 2669
+    },
+    {
+      "content": "(Elaina) Could I have another please?",
+      "start": 2676,
+      "end": 4892
+    }
+  ],
+  "Elaina_moretea_v01": [
+    {
+      "content": "(Elaina) Could I please have",
+      "start": 0,
+      "end": 890
+    },
+    {
+      "content": "(Elaina) some more tea?",
+      "start": 897,
+      "end": 1666
+    }
+  ],
+  "Elaina_moretea_v02": [
+    {
+      "content": "(Elaina) Can I have some more, ",
+      "start": 0,
+      "end": 1228
+    },
+    {
+      "content": "(Elaina) can you please pour?",
+      "start": 1236,
+      "end": 2385
+    },
+    {
+      "content": "(Elaina) *laughs* Hey, that rhymes!",
+      "start": 2415,
+      "end": 5952
+    }
+  ],
+  "Elaina_moretea_v03": [
+    {
+      "content": "(Elaina) More tea for me please!",
+      "start": 0,
+      "end": 2113
+    }
+  ],
+  "Elaina_notdoneyet_v01": [
+    {
+      "content": "(Elaina) Thank you! But I'm",
+      "start": 0,
+      "end": 2160
+    },
+    {
+      "content": "(Elaina) still drinking what I have.",
+      "start": 2169,
+      "end": 3371
+    }
+  ],
+  "Elaina_notdoneyet_v02": [
+    {
+      "content": "(Elaina) Thank you!",
+      "start": 0,
+      "end": 738
+    },
+    {
+      "content": "(Elaina) But my cup is still full.",
+      "start": 744,
+      "end": 2373
+    }
+  ],
+  "Elaina_talk_v01": [
+    {
+      "content": "(Elaina) I wonder what it would be like",
+      "start": 0,
+      "end": 2794
+    },
+    {
+      "content": "(Elania) to have a backwards tea party!",
+      "start": 2804,
+      "end": 4834
+    }
+  ],
+  "Elaina_talk_v02": [
+    {
+      "content": "(Elaina) This is so much fun!",
+      "start": 0,
+      "end": 1782
+    }
+  ],
+  "Elaina_talk_v03": [
+    {
+      "content": "(Elaina) I'm glad you're here!",
+      "start": 0,
+      "end": 1430
+    }
+  ],
+  "Elaina_talk_v04": [
+    {
+      "content": "(Elaina) This tea tastes soooo good!",
+      "start": 0,
+      "end": 2273
+    }
+  ],
+  "Elaina_talk_v05": [
+    {
+      "content": "(Elaina) Yummy in my tummy!",
+      "start": 0,
+      "end": 1670
+    }
+  ],
+  "Elaina_thankyou_v01": [
+    {
+      "content": "(Elaina) Thank you so much!",
+      "start": 0,
+      "end": 1314
+    }
+  ],
+  "Elaina_thankyou_v02": [
+    {
+      "content": "(Elaina) Thanks!",
+      "start": 0,
+      "end": 845
+    }
+  ],
+  "Elaina_thankyou_v03": [
+    {
+      "content": "(Elaina) Thank you!",
+      "start": 0,
+      "end": 662
+    }
+  ],
+  "Elaina_thankyou_v04": [
+    {
+      "content": "(Elaina) Thank you, neighbor!",
+      "start": 0,
+      "end": 1065
+    }
+  ],
+  "Elaina_youareout": [
+    {
+      "content": "(Elaina) Looks like you're out of tea!",
+      "start": 0,
+      "end": 1994
+    }
+  ],
+  "Elaina_youareout2": [
+    {
+      "content": "(Elaina) I think your cup is empty.",
+      "start": 0,
+      "end": 1967
+    },
+    {
+      "content": "(Elaina) Want some more?",
+      "start": 1974,
+      "end": 3293
+    }
+  ],
+  "Katerina_Greeting_v01": [
+    {
+      "content": "(Katerina) Meow Meow Hi!",
+      "start": 0,
+      "end": 1244
+    }
+  ],
+  "Katerina_favorite": [
+    {
+      "content": "(Katerina) The Ballerina one",
+      "start": 0,
+      "end": 1089
+    },
+    {
+      "content": "(Katerina) is my favorite, meow meow!",
+      "start": 1111,
+      "end": 3127
+    }
+  ],
+  "Katerina_moresnacks_v01": [
+    {
+      "content": "(Katerina) My plate's empty.",
+      "start": 0,
+      "end": 1290
+    },
+    {
+      "content": "(Katerina) May I have another snack meow meow?",
+      "start": 1474,
+      "end": 3426
+    }
+  ],
+  "Katerina_moresnacks_v02": [
+    {
+      "content": "(Katerina) Could I have another snack please?",
+      "start": 0,
+      "end": 1846
+    }
+  ],
+  "Katerina_moresnacks_v03": [
+    {
+      "content": "(Katerina) Ohh I'd love another snack meow meow!",
+      "start": 0,
+      "end": 2539
+    }
+  ],
+  "Katerina_moretea_v01": [
+    {
+      "content": "(Katerina) Meow Meow May I have",
+      "start": 0,
+      "end": 1154
+    },
+    {
+      "content": "(Katerina) some more tea please?",
+      "start": 1167,
+      "end": 2330
+    }
+  ],
+  "Katerina_moretea_v02": [
+    {
+      "content": "(Katerina) Meow Meow more tea please.",
+      "start": 0,
+      "end": 1809
+    }
+  ],
+  "Katerina_moretea_v03": [
+    {
+      "content": "(Katerina) Can you fill up my cup please?",
+      "start": 0,
+      "end": 1942
+    }
+  ],
+  "Katerina_notdoneyet_v01": [
+    {
+      "content": "(Katerina) Oh I'd love some, meow meow!",
+      "start": 0,
+      "end": 1907
+    },
+    {
+      "content": "(Katerina) Just let me finish what I have first!",
+      "start": 2180,
+      "end": 4197
+    }
+  ],
+  "Katerina_notdoneyet_v02": [
+    {
+      "content": "(Katerina) Meow meow thank you!",
+      "start": 0,
+      "end": 1418
+    },
+    {
+      "content": "(Katerina) But I haven't finished the tea I have.",
+      "start": 1510,
+      "end": 3778
+    }
+  ],
+  "Katerina_notdoneyet_v03": [
+    {
+      "content": "(Katerina) Thanks, Meow Meow!",
+      "start": 0,
+      "end": 1081
+    },
+    {
+      "content": "(Katerina) but first, I have to finish what I have!",
+      "start": 1224,
+      "end": 3625
+    }
+  ],
+  "Katerina_talk_v01": [
+    {
+      "content": "(Katerina) I like being at a tea party with you!",
+      "start": 0,
+      "end": 2516
+    }
+  ],
+  "Katerina_talk_v02": [
+    {
+      "content": "(Katerina) Thanks for inviting me, Meow Meow.",
+      "start": 0,
+      "end": 1851
+    }
+  ],
+  "Katerina_talk_v03": [
+    {
+      "content": "(Katerina) Ooohh this tea is delicious!",
+      "start": 0,
+      "end": 2423
+    }
+  ],
+  "Katerina_talk_v04": [
+    {
+      "content": "(Katerina) I like being together with my friends,",
+      "start": 0,
+      "end": 2341
+    },
+    {
+      "content": "(Katerina) and with you!",
+      "start": 2465,
+      "end": 3782
+    }
+  ],
+  "Katerina_talk_v05": [
+    {
+      "content": "(Katerina) I love tea parties!",
+      "start": 0,
+      "end": 2353
+    }
+  ],
+  "Katerina_thankyou_v01": [
+    {
+      "content": "(Katerina) Thank you, Meow Meow!",
+      "start": 0,
+      "end": 1262
+    }
+  ],
+  "Katerina_thankyou_v02": [
+    {
+      "content": "(Katerina) Meow Meow thank you",
+      "start": 12,
+      "end": 2082
+    }
+  ],
+  "Katerina_thankyou_v03": [
+    {
+      "content": "(Katerina) Meow Meow thanks!",
+      "start": 0,
+      "end": 1348
+    }
+  ],
+  "Katerina_thankyou_v04": [
+    {
+      "content": "(Katerina) Meow Meow thank you",
+      "start": 0,
+      "end": 1517
+    }
+  ],
+  "Katerina_youareout_v01": [
+    {
+      "content": "(Katerina) Do you want some more tea, Meow Meow?",
+      "start": 0,
+      "end": 2246
+    }
+  ],
+  "O_Favorite": [
+    {
+      "content": "(O) It's an owl like me! I love that one.",
+      "start": 0,
+      "end": 3402
+    }
+  ],
+  "O_Greeting_v01": [
+    {
+      "content": "(O) Hoo hoo neighbor!",
+      "start": 0,
+      "end": 1005
+    }
+  ],
+  "O_moresnacks_v01": [
+    {
+      "content": "(O) Hoo Hoo! Another one for me, please!",
+      "start": 0,
+      "end": 2442
+    }
+  ],
+  "O_moresnacks_v02": [
+    {
+      "content": "(O) Mmm! That was a teriffic treat, hoo hoo.",
+      "start": 0,
+      "end": 3464
+    },
+    {
+      "content": "(O) May I have another?",
+      "start": 3747,
+      "end": 5119
+    }
+  ],
+  "O_moresnacks_v03": [
+    {
+      "content": "(O) Hoo hoo! May I have another snack please?",
+      "start": 0,
+      "end": 2895
+    }
+  ],
+  "O_moretea_v01": [
+    {
+      "content": "(O) Hoo hoo neighbor!",
+      "start": 0,
+      "end": 890
+    },
+    {
+      "content": "(O) Please could I have more tea?",
+      "start": 1056,
+      "end": 3405
+    }
+  ],
+  "O_moretea_v02": [
+    {
+      "content": "(O) That was yummy, hoo hoo.",
+      "start": 4,
+      "end": 2102
+    },
+    {
+      "content": "(O) May I have some more?",
+      "start": 2403,
+      "end": 3625
+    }
+  ],
+  "O_moretea_v03": [
+    {
+      "content": "(O) I'd like some more,",
+      "start": 0,
+      "end": 1429
+    },
+    {
+      "content": "(O) Can you please pour?",
+      "start": 1473,
+      "end": 2892
+    },
+    {
+      "content": "(O) Hoo hoo, that rhymes!",
+      "start": 2971,
+      "end": 4770
+    }
+  ],
+  "O_notdoneyet_v01": [
+    {
+      "content": "(O) Thanks, hoo hoo, not quite yet",
+      "start": 0,
+      "end": 2800
+    }
+  ],
+  "O_notdoneyet_v02": [
+    {
+      "content": "(O) I have to finish what's in my cup.",
+      "start": 0,
+      "end": 2193
+    }
+  ],
+  "O_talk_v01": [
+    {
+      "content": "(O) It's fun to be together, hoo hoo!",
+      "start": 0,
+      "end": 2314
+    }
+  ],
+  "O_talk_v02": [
+    {
+      "content": "(O) Hoo hoo -- tea for me and tea for you!",
+      "start": 0,
+      "end": 3245
+    }
+  ],
+  "O_talk_v03": [
+    {
+      "content": "(O) This tea party is nifty galifty!",
+      "start": 0,
+      "end": 3009
+    }
+  ],
+  "O_talk_v04": [
+    {
+      "content": "(O) These are some of my favorite snacks,",
+      "start": 0,
+      "end": 2523
+    },
+    {
+      "content": "(O) hoo hoo!",
+      "start": 2620,
+      "end": 3355
+    }
+  ],
+  "O_thankyou_v01": [
+    {
+      "content": "(O) Hoo hoo, thanks, neighbor!",
+      "start": 0,
+      "end": 1445
+    }
+  ],
+  "O_thankyou_v02": [
+    {
+      "content": "(O) Hoo hoo, thanks, neighbor!",
+      "start": 0,
+      "end": 1611
+    }
+  ],
+  "O_thankyou_v03": [
+    {
+      "content": "(O) Thank you!",
+      "start": 0,
+      "end": 748
+    }
+  ],
+  "O_thankyou_v04": [
+    {
+      "content": "(O) Thank you, hoo hoo!",
+      "start": 0,
+      "end": 1335
+    }
+  ],
+  "O_thankyou_v05": [
+    {
+      "content": "(O) Thank hoo!",
+      "start": 0,
+      "end": 800
+    }
+  ],
+  "O_youareout_v01": [
+    {
+      "content": "(O) Hoo Hoo, Would you like some more tea?",
+      "start": 0,
+      "end": 2407
+    }
+  ],
+  "O_youareout_v02": [
+    {
+      "content": "(O) Would you like some more tea, hoo hoo?",
+      "start": 0,
+      "end": 1967
+    }
+  ],
+  "Wednesday_Greeting_v01": [
+    {
+      "content": "(Prince Wednesday) A royal hello neighbor!",
+      "start": 0,
+      "end": 1621
+    }
+  ],
+  "Wednesday_favorite": [
+    {
+      "content": "(Prince Wednesday) Oh, the castle!",
+      "start": 0,
+      "end": 1187
+    },
+    {
+      "content": "(Prince Wednesday) That one is roooyyaallly purple!",
+      "start": 1335,
+      "end": 3445
+    }
+  ],
+  "Wednesday_moresnacks_v01": [
+    {
+      "content": "(Prince Wednesday) That was ROYALLY yummy!",
+      "start": 0,
+      "end": 1818
+    },
+    {
+      "content": "(Prince Wednesday) May I have another please?",
+      "start": 2034,
+      "end": 3412
+    }
+  ],
+  "Wednesday_moresnacks_v02": [
+    {
+      "content": "(Prince Wednesday) I'd love another snack please neighbor.",
+      "start": 0,
+      "end": 2175
+    }
+  ],
+  "Wednesday_moresnacks_v03": [
+    {
+      "content": "(Prince Wednesday) Another Royally terriffic treat please!",
+      "start": 0,
+      "end": 2455
+    }
+  ],
+  "Wednesday_moretea_v01": [
+    {
+      "content": "(Prince Wednesday) I would royally love some more tea,",
+      "start": 0,
+      "end": 2023
+    },
+    {
+      "content": "(Prince Wednesday) please.",
+      "start": 2054,
+      "end": 2627
+    }
+  ],
+  "Wednesday_moretea_v02": [
+    {
+      "content": "(Prince Wednesday) I finished my tea.",
+      "start": 5,
+      "end": 1221
+    },
+    {
+      "content": "(Prince Wednesday) May I please have some more?",
+      "start": 1347,
+      "end": 2643
+    }
+  ],
+  "Wednesday_moretea_v03": [
+    {
+      "content": "(Prince Wednesday) My cup is empty.",
+      "start": 0,
+      "end": 984
+    },
+    {
+      "content": "(Prince Wednesday) May I please have some more?",
+      "start": 1259,
+      "end": 2562
+    }
+  ],
+  "Wednesday_notdoneyet_v01": [
+    {
+      "content": "(Prince Wednesday) No thank you neighbor!",
+      "start": 4,
+      "end": 1229
+    },
+    {
+      "content": "(Prince Wednesday) I'm still sipping what I have.",
+      "start": 1397,
+      "end": 3085
+    }
+  ],
+  "Wednesday_notdoneyet_v02": [
+    {
+      "content": "(Prince Wednesday) Oh, no thank you neighbor!",
+      "start": 0,
+      "end": 1378
+    },
+    {
+      "content": "(Prince Wednesday) I'm still sipping what I have.",
+      "start": 1625,
+      "end": 3310
+    }
+  ],
+  "Wednesday_notdoneyet_v03": [
+    {
+      "content": "(Prince Wednesday) Thanks,",
+      "start": 0,
+      "end": 841
+    },
+    {
+      "content": "(Prince Wednesday) But I'm not quite ready for more.",
+      "start": 939,
+      "end": 2640
+    }
+  ],
+  "Wednesday_talk_v01": [
+    {
+      "content": "(Prince Wednesday) This tea is royally scrumptious, neighbor!",
+      "start": 0,
+      "end": 2490
+    }
+  ],
+  "Wednesday_talk_v02": [
+    {
+      "content": "(Prince Wednesday) A royal thank you",
+      "start": 0,
+      "end": 1090
+    },
+    {
+      "content": "(Prince Wednesday) for inviting me to your party!",
+      "start": 1091,
+      "end": 2729
+    }
+  ],
+  "Wednesday_talk_v03": [
+    {
+      "content": "(Prince Wednesday) Thanks for inviting me to your party!",
+      "start": 0,
+      "end": 1935
+    }
+  ],
+  "Wednesday_talk_v04": [
+    {
+      "content": "(Prince Wednesday) It's a royal Tea Party!",
+      "start": 0,
+      "end": 1838
+    }
+  ],
+  "Wednesday_thankyou_v01": [
+    {
+      "content": "(Prince Wednesday) A royal thank you, neighbor!",
+      "start": 0,
+      "end": 1837
+    }
+  ],
+  "Wednesday_thankyou_v02": [
+    {
+      "content": "(Prince Wednesday) A rrrrrrroyall thank you, neighbor!",
+      "start": 0,
+      "end": 2218
+    }
+  ],
+  "Wednesday_thankyou_v03": [
+    {
+      "content": "(Prince Wednesday) I rrrrrrrrrrroyally thank you!",
+      "start": 0,
+      "end": 1861
+    }
+  ],
+  "Wednesday_thankyou_v04": [
+    {
+      "content": "(Prince Wednesday) I rrrrrroyally thank you!",
+      "start": 0,
+      "end": 1959
+    }
+  ],
+  "Wednesday_thankyou_v05": [
+    {
+      "content": "(Prince Wednesday) Thank You!",
+      "start": 0,
+      "end": 878
+    }
+  ],
+  "Wednesday_youareout_v01": [
+    {
+      "content": "(Prince Wednesday) Did you enjoy your tea?",
+      "start": 0,
+      "end": 1600
+    },
+    {
+      "content": "(Prince Wednesday) Please help yourself to more!",
+      "start": 1700,
+      "end": 4000
+    }
+  ]
+}

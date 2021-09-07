@@ -1,0 +1,380 @@
+﻿{
+  "manifest": [
+    {
+      "id": "scene_sheet",
+      "src": "assets/sheets/party_scene.json",
+      "type": "spritesheet"
+    },
+    {
+      "id": "bg",
+      "src": "assets/images/Teaparty_Background.jpg",
+      "type": "image"
+    },
+    {
+      "id": "sfx_as",
+      "src": "assets/audio/sfx/teaparty_sfx.json",
+      "type": "manifest"
+    }
+  ],
+  "character": {
+    "name": "Daniel",
+    "dragonBonesData": {
+      "name": "Daniel",
+      "audioPath": "assets/audio/vo/",
+      "armatureName": "TeaPartyIntroDan_MAIN",
+      "baseURL": "",
+      "skeleton": {
+        "id": "skeleton",
+        "src": "assets/dragonBones/TeaParty_Dan_Intro/skeleton.json",
+        "type": "json"
+      },
+      "texture": {
+        "id": "texture",
+        "src": "assets/dragonBones/TeaParty_Dan_Intro/texture.png",
+        "type": "image"
+      },
+      "textureJSON": {
+        "id": "texture_def",
+        "src": "assets/dragonBones/TeaParty_Dan_Intro/texture.json",
+        "type": "json"
+      }
+    },
+    "VOManifest": "assets/audio/vo/intro_daniel.json",
+    "mouthArmature": "Dan_TalkingMouth",
+    "cloths": [
+      "TableOL_2_PatternA",
+      "TableOL_2_PatternB",
+      "TableOL_2_PatternC",
+      "TableOL_2_PatternD",
+      "TableOL_2_PatternE",
+      "TableOL_2_PatternF"
+    ],
+    "emptyCloth": "TableOL_2_Bare"
+  },
+  "table": {
+    "spriteId": "TeaParty_Table_Bare",
+    "position": {
+      "x": 0,
+      "y": 243
+    },
+    "cloths": [
+      "TeaParty_Table_PatternA",
+      "TeaParty_Table_PatternB",
+      "TeaParty_Table_PatternC",
+      "TeaParty_Table_PatternD",
+      "TeaParty_Table_PatternE",
+      "TeaParty_Table_PatternF"
+    ]
+  },
+  "teasetShelf": {
+    "position": {
+      "x": 55,
+      "y": 7
+    },
+    "styles": [
+      "Shelf_Teaset_A",
+      "Shelf_Teaset_B",
+      "Shelf_Teaset_C",
+      "Shelf_Teaset_D",
+      "Shelf_Teaset_E",
+      "Shelf_Teaset_F"
+    ],
+    "empty": "Shelf_Teaset_Empty"
+  },
+  "clothShelf": {
+    "position": {
+      "x": 372,
+      "y": 7
+    },
+    "styles": [
+      "Shelf_TableCloth_A",
+      "Shelf_TableCloth_B",
+      "Shelf_TableCloth_C",
+      "Shelf_TableCloth_D",
+      "Shelf_TableCloth_E",
+      "Shelf_TableCloth_F"
+    ],
+    "empty": "Shelf_TableCloth_Empty"
+  },
+  "snackShelf": {
+    "position": {
+      "x": 697,
+      "y": 21
+    },
+    "styles": [
+      "Shelf_Snack_A",
+      "Shelf_Snack_B",
+      "Shelf_Snack_C",
+      "Shelf_Snack_D"
+    ],
+    "empty": "Shelf_Snack_Empty"
+  },
+  "tableclothButtons": [
+    {
+      "spriteId": "TeaParty_Selector_PatternA",
+      "position": {
+        "x": 225,
+        "y": 30
+      },
+      "scale": 0.9
+    },
+    {
+      "spriteId": "TeaParty_Selector_PatternB",
+      "position": {
+        "x": 485,
+        "y": 30
+      },
+      "scale": 0.9
+    },
+    {
+      "spriteId": "TeaParty_Selector_PatternC",
+      "position": {
+        "x": 205,
+        "y": 90
+      },
+      "scale": 1.05
+    },
+    {
+      "spriteId": "TeaParty_Selector_PatternD",
+      "position": {
+        "x": 490,
+        "y": 90
+      },
+      "scale": 1.05
+    },
+    {
+      "spriteId": "TeaParty_Selector_PatternE",
+      "position": {
+        "x": 190,
+        "y": 150
+      },
+      "scale": 1.2
+    },
+    {
+      "spriteId": "TeaParty_Selector_PatternF",
+      "position": {
+        "x": 495,
+        "y": 150
+      },
+      "scale": 1.2
+    }
+  ],
+  "teasetButtons": [
+    {
+      "spriteId": "TeaParty_Teapot_A",
+      "position": {
+        "x": 300,
+        "y": 55
+      },
+      "scale": 0.7
+    },
+    {
+      "spriteId": "TeaParty_Teapot_B",
+      "position": {
+        "x": 650,
+        "y": 60
+      },
+      "scale": 0.7
+    },
+    {
+      "spriteId": "TeaParty_Teapot_C",
+      "position": {
+        "x": 140,
+        "y": 200
+      },
+      "scale": 0.9
+    },
+    {
+      "spriteId": "TeaParty_Teapot_D",
+      "position": {
+        "x": 350,
+        "y": 200
+      },
+      "scale": 0.9
+    },
+    {
+      "spriteId": "TeaParty_Teapot_E",
+      "position": {
+        "x": 560,
+        "y": 200
+      },
+      "scale": 0.9
+    },
+    {
+      "spriteId": "TeaParty_Teapot_F",
+      "position": {
+        "x": 770,
+        "y": 200
+      },
+      "scale": 0.9
+    }
+  ],
+  "teapots": [
+    {
+      "spriteId": "TeaParty_Teaset_A",
+      "position": {
+        "x": 150,
+        "y": 250
+      },
+      "voResponse": "Daniel_trolleyTeaPot",
+      "scale": 0.8
+    },
+    {
+      "spriteId": "TeaParty_Teaset_B",
+      "position": {
+        "x": 150,
+        "y": 200
+      },
+      "voResponse": "Daniel_castleTeaPot",
+      "scale": 0.8
+    },
+    {
+      "spriteId": "TeaParty_Teaset_C",
+      "position": {
+        "x": 150,
+        "y": 250
+      },
+      "voResponse": "Daniel_tigerTeaPot",
+      "scale": 0.8
+    },
+    {
+      "spriteId": "TeaParty_Teaset_D",
+      "position": {
+        "x": 150,
+        "y": 250
+      },
+      "voResponse": "Daniel_owlTeaPot",
+      "scale": 0.8
+    },
+    {
+      "spriteId": "TeaParty_Teaset_E",
+      "position": {
+        "x": 150,
+        "y": 250
+      },
+      "voResponse": "Daniel_elainaTeaPot",
+      "scale": 0.8
+    },
+    {
+      "spriteId": "TeaParty_Teaset_F",
+      "position": {
+        "x": 150,
+        "y": 250
+      },
+      "voResponse": "Daniel_katerinaTeaPot",
+      "scale": 0.8
+    }
+  ],
+  "snackButtons": [
+    {
+      "spriteId": "Snack_A_Stack6",
+      "position": {
+        "x": 400,
+        "y": 50
+      }
+    },
+    {
+      "spriteId": "Snack_B_Stack6",
+      "position": {
+        "x": 600,
+        "y": 50
+      }
+    },
+    {
+      "spriteId": "Snack_C_Stack6",
+      "position": {
+        "x": 500,
+        "y": 150
+      }
+    },
+    {
+      "spriteId": "Snack_D_Stack6",
+      "position": {
+        "x": 300,
+        "y": 150
+      }
+    }
+  ],
+  "snacks": [
+    {
+      "spriteId": "Snack_A_Stack6",
+      "position": {
+        "x": 520,
+        "y": 285
+      },
+      "voResponse": "Daniel_cookies",
+      "scale": 0.7
+    },
+    {
+      "spriteId": "Snack_B_Stack6",
+      "position": {
+        "x": 520,
+        "y": 285
+      },
+      "voResponse": "Daniel_pretzels",
+      "scale": 0.7
+    },
+    {
+      "spriteId": "Snack_C_Stack6",
+      "position": {
+        "x": 520,
+        "y": 285
+      },
+      "voResponse": "Daniel_strawberries",
+      "scale": 0.7
+    },
+    {
+      "spriteId": "Snack_D_Stack6",
+      "position": {
+        "x": 520,
+        "y": 285
+      },
+      "voResponse": "Daniel_AppleSlices",
+      "scale": 0.7
+    }
+  ],
+  "snackPlate": [
+    {
+      "spriteId": "Teaplate_A",
+      "position": {
+        "x": 500,
+        "y": 300
+      }
+    },
+    {
+      "spriteId": "Teaplate_B",
+      "position": {
+        "x": 500,
+        "y": 300
+      }
+    },
+    {
+      "spriteId": "Teaplate_C",
+      "position": {
+        "x": 500,
+        "y": 300
+      }
+    },
+    {
+      "spriteId": "Teaplate_D",
+      "position": {
+        "x": 500,
+        "y": 300
+      }
+    },
+    {
+      "spriteId": "Teaplate_E",
+      "position": {
+        "x": 500,
+        "y": 300
+      }
+    },
+    {
+      "spriteId": "Teaplate_F",
+      "position": {
+        "x": 500,
+        "y": 300
+      }
+    }
+  ]
+}

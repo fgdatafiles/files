@@ -1,0 +1,48 @@
+{
+
+"images": [
+    "assets/spritesheets/cinderella-ss.png"
+],
+
+"frames": [
+    [1, 1, 1427, 269, 0, 0, 0],
+    [1430, 1, 243, 361, 0, 0, 0],
+    [1675, 1, 243, 361, 0, -174, -3],
+    [1, 364, 1428, 265, 0, 0, 0],
+    [1, 272, 1008, 69, 0, 0, 0],
+    [1011, 272, 198, 81, 0, 0, 0],
+    [1211, 272, 209, 45, 0, 0, 0],
+    [1431, 364, 509, 157, 0, 0, 0],
+    [1431, 523, 361, 193, 0, 0, 0],
+    [1794, 523, 120, 117, 0, 0, 0],
+    [1794, 642, 122, 49, 0, 0, 0],
+    [1, 631, 570, 295, 0, 0, 0],
+    [573, 631, 714, 155, 0, 0, 0],
+    [1289, 718, 596, 151, 0, 0, 0],
+    [573, 788, 500, 118, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "characterEnd": [1],
+    "characterStart": [2],
+    "bg_ground": [3],
+    "fg_path": [4],
+    "bg_cloud1": [5],
+    "bg_cloud2": [6],
+    "bg_hill": [7],
+    "mg_hill": [8],
+    "bg_sun": [9],
+    "bg_cloud3": [10],
+    "fg_dog": [11],
+    "bg_castle": [12],
+    "fg_mouse": [13],
+    "fg_hill": [14]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:5b0ac67287fa3b55f5526291423e40d8:6f355f0722dcdbf2b13698808303694d:07cfc481304f650083b0f96cb3521218$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

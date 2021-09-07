@@ -1,0 +1,203 @@
+{
+	"baseURL":"assets/dragonBones/",
+  "characters": [
+    {
+      "character": "Daniel",
+      "dragonBonesData": {
+        "name": "Daniel",
+        "audioPath": "assets/audio/",
+        "armatureName": "Daniel_Wiggle_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "daniel_skeleton",
+          "src": "assets/dragonBones/daniel/dan_skeleton-compressed.txt",
+          "type": "text"
+        },
+        "texture": {
+          "id": "daniel_texture",
+          "src": "assets/dragonBones/daniel/dan_texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "daniel_texture_def",
+          "src": "assets/dragonBones/daniel/dan_texture.json",
+          "type": "text"
+        }
+      }
+    },
+    {
+      "character": "Elaina",
+      "dragonBonesData": {
+        "name": "Elaina",
+        "audioPath": "assets/audio/",
+        "armatureName": "Elaina_Wiggle_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "Elaina_skeleton",
+          "src": "assets/dragonBones/elaina/ela_skeleton-compressed.txt",
+          "type": "text"
+        },
+        "texture": {
+          "id": "Elaina_texture",
+          "src": "assets/dragonBones/elaina/ela_texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "Elaina_texture_def",
+          "src": "assets/dragonBones/elaina/ela_texture.json",
+          "type": "text"
+        }
+      }
+    },
+    {
+      "character": "Chrissie",
+      "anims": {
+        "idle": "idle",
+        "intoWave": "intoWave",
+        "wave": "waveCycle",
+        "outWave": "waveOut"
+      },
+      "dragonBonesData": {
+        "name": "Chrissie",
+        "audioPath": "assets/audio/",
+        "armatureName": "Chrissie_Wiggle_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "chrissie_skeleton",
+          "src": "assets/dragonBones/chrissie/chr_skeleton-compressed.txt",
+          "type": "text"
+        },
+        "texture": {
+          "id": "chrissie_texture",
+          "src": "assets/dragonBones/chrissie/chr_texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "chrissie_texture_def",
+          "src": "assets/dragonBones/chrissie/chr_texture.json",
+          "type": "text"
+        }
+      }
+    },
+    {
+      "character": "Jodi",
+      "anims": {
+        "idle": "idle",
+        "intoWave": "intoWave",
+        "wave": "waveCycle",
+        "outWave": "waveOut"
+      },
+      "dragonBonesData": {
+        "name": "Jodi",
+        "audioPath": "assets/audio/",
+        "armatureName": "Jodi_Wiggle_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "jodi_skeleton",
+          "src": "assets/dragonBones/jodi/jod_skeleton-compressed.txt",
+          "type": "text"
+        },
+        "texture": {
+          "id": "jodi_texture",
+          "src": "assets/dragonBones/jodi/jod_texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "jodi_texture_def",
+          "src": "assets/dragonBones/jodi/jod_texture.json",
+          "type": "text"
+        }
+      }
+    },
+    {
+      "character": "O",
+      "anims": {
+        "idle": "idle",
+        "intoWave": "intoWave",
+        "wave": "waveCycle",
+        "outWave": "waveOut"
+      },
+      "dragonBonesData": {
+        "name": "O",
+        "audioPath": "assets/audio/",
+        "armatureName": "O_Wiggle_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "o_skeleton",
+          "src": "assets/dragonBones/o/o_skeleton-compressed.txt",
+          "type": "text"
+        },
+        "texture": {
+          "id": "o_texture",
+          "src": "assets/dragonBones/o/o_texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "o_texture_def",
+          "src": "assets/dragonBones/o/o_texture.json",
+          "type": "text"
+        }
+      }
+    },
+    {
+      "character": "Katerina",
+      "anims": {
+        "idle": "idle",
+        "intoWave": "intoWave",
+        "wave": "waveCycle",
+        "outWave": "waveOut"
+      },
+      "dragonBonesData": {
+        "name": "Katerina",
+        "audioPath": "assets/audio/",
+        "armatureName": "Katerina_Wiggle_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "kat_skeleton",
+          "src": "assets/dragonBones/kat/kat_skeleton-compressed.txt",
+          "type": "text"
+        },
+        "texture": {
+          "id": "kat_texture",
+          "src": "assets/dragonBones/kat/kat_texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "kat_texture_def",
+          "src": "assets/dragonBones/kat/kat_texture.json",
+          "type": "text"
+        }
+      }
+    },
+    {
+      "character": "Wednesday",
+      "anims": {
+        "idle": "idle",
+        "intoWave": "intoWave",
+        "wave": "waveCycle",
+        "outWave": "waveOut"
+      },
+      "dragonBonesData": {
+        "name": "Wednesday",
+        "audioPath": "assets/audio/",
+        "armatureName": "Wednesday_Wiggle_MAIN",
+        "baseURL": "",
+        "skeleton": {
+          "id": "wed_skeleton",
+          "src": "assets/dragonBones/wed/wed_skeleton-compressed.txt",
+          "type": "text"
+        },
+        "texture": {
+          "id": "wed_texture",
+          "src": "assets/dragonBones/wed/wed_texture.png",
+          "type": "image"
+        },
+        "textureJSON": {
+          "id": "wed_texture_def",
+          "src": "assets/dragonBones/wed/wed_texture.json",
+          "type": "text"
+        }
+      }
+    }
+  ]
+}

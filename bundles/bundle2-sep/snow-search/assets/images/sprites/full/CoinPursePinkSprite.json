@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn110000":
+{
+	"frame": {"x":0,"y":0,"w":67,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":49},
+	"sourceSize": {"w":67,"h":49}
+},
+"sn110001":
+{
+	"frame": {"x":0,"y":90,"w":67,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":67,"h":49},
+	"sourceSize": {"w":67,"h":49}
+},
+"sn110002":
+{
+	"frame": {"x":0,"y":50,"w":67,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":67,"h":49},
+	"sourceSize": {"w":67,"h":49}
+},
+"sn110003":
+{
+	"frame": {"x":0,"y":130,"w":38,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":10,"w":67,"h":49},
+	"sourceSize": {"w":67,"h":49}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "CoinPursePinkSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

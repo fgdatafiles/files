@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn140000":
+{
+	"frame": {"x":0,"y":0,"w":109,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":61},
+	"sourceSize": {"w":109,"h":61}
+},
+"sn140001":
+{
+	"frame": {"x":0,"y":62,"w":109,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":109,"h":61},
+	"sourceSize": {"w":109,"h":61}
+},
+"sn140002":
+{
+	"frame": {"x":0,"y":111,"w":81,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":109,"h":61},
+	"sourceSize": {"w":109,"h":61}
+},
+"sn140003":
+{
+	"frame": {"x":0,"y":157,"w":52,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":16,"w":109,"h":61},
+	"sourceSize": {"w":109,"h":61}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "NewspaperSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

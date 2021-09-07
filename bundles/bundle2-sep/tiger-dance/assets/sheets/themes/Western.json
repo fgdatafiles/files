@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "./assets/sheets/themes/Western.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 488, 508, 0, 0, 0],
+    [1, 511, 386, 591, 0, 0, 0],
+    [491, 1, 259, 764, 0, 0, 0],
+    [389, 767, 303, 297, 0, -1, 0]
+],
+
+"animations": {
+    "Western_Horse_01": { "frames": [0] },
+    "Western_Cactus_01": { "frames": [1] },
+    "Western_Sun_01": { "frames": [2] },
+    "Western_Tumbleweed_01": { "frames": [3] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:4b5f30b11254f055bd4d461b82973800:a04341cc31f417caaefd7fc47526073c:210403c41939e826f0efa32a0bf44b1a$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

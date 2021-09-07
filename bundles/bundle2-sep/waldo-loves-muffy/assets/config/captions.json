@@ -1,0 +1,314 @@
+{
+
+"game-fdbk-bothportals":[
+	{
+		"content": "You have to use both portals at the same time.",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-fdbk-aah":[
+	{
+		"content": "Aaaah!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-alreadyused":[
+	{
+		"content": "Aw! I already used that piece!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-fdbk-char-caveman":[
+	{
+		"content": "Caveman smash!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-fdbk-char-cowboy":[
+	{
+		"content": "Yee-haa!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-char-elvis":[
+	{
+		"content": "Uh-huh-huh!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-char-karate":[
+	{
+		"content": "Hi-yah!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-char-sherlock":[
+	{
+		"content": "Elementary, my dear Muffy!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-fdbk-char-super":[
+	{
+		"content": "Super Waldo!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-fdbk-char-vacation":[
+	{
+		"content": "Relax, dude!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-eyeball":[
+	{
+		"content": "He saw me!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-go":[
+	{
+		"content": "Go!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-invisible":[
+	{
+		"content": "Invisible Waldo!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-fdbk-oops":[
+	{
+		"content": "Oops!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-shrink":[
+	{
+		"content": "Tiny Waldo!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-uhoh":[
+	{
+		"content": "Uh-oh!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-fdbk-wallhole":[
+	{
+		"content": "I don't fit!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-fdbk-whoa":[
+	{
+		"content": "Whoa!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"game-placethepieces":[
+	{
+		"content": "Place the pieces, then click GO!",
+		"start":0,
+		"end": 4000
+	}
+],
+
+"game-success-bestfriend":[
+	{
+		"content": "Muffy! My best friend in the world!",
+		"start":0,
+		"end": 4000
+	}
+],
+
+"game-success-himuffy":[
+	{
+		"content": "Hi, Muffy. I made it!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"game-success-hooray":[
+	{
+		"content": "Hooray! I found Muffy!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"tut-arrows":[
+	{
+		"content": "Arrows!",
+		"start":0,
+		"end": 1000
+	},
+	{
+		"content": "Place the arrows to turn me left, right, up, or down!",
+		"start":1027,
+		"end": 6000
+	}
+],
+
+"tut-springs":[
+	{
+		"content": "Springs!",
+		"start":0,
+		"end": 1050
+	},
+	{
+		"content": "Place the springs to launch me diagonally!",
+		"start":1400,
+		"end": 4500
+	}
+],
+
+"tut-instruct":[
+	{
+		"content": "Click on a piece to learn what it does!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"tut-invisible":[
+	{
+		"content": "Invisible!",
+		"start":0,
+		"end": 1100
+	},
+	{
+		"content": "The WALDO INVISO-MATIC makes me invisible...",
+		"start":1250,
+		"end": 4050
+	},
+	{
+		"content": "so I can get past that weird eyeball guy!",
+		"start":4100,
+		"end": 6500
+	},
+	{
+		"content": "He freaks me out!",
+		"start":6600,
+		"end": 8500
+	}
+],
+
+"tut-main":[
+	{
+		"content": "Place pieces into the board to guide me to Muffy, then click go!",
+		"start":0,
+		"end": 4000
+	},
+	{
+		"content": "Help me collect as many hearts as I can!",
+		"start": 4347,
+		"end": 7000
+	}
+],
+
+"tut-portals":[
+	{
+		"content": "Portals!",
+		"start":0,
+		"end": 1050
+	},
+	{
+		"content": "Place the portals to zap me from one place to another!",
+		"start":1100,
+		"end": 4550
+	},
+	{
+		"content": "I go in one, and come out the other,",
+		"start":4600,
+		"end": 7100
+	},
+	{
+		"content": "traveling in the same direction.",
+		"start":7150,
+		"end": 9500
+	}
+],
+
+"tut-shrink":[
+	{
+		"content": "Shrink!",
+		"start":0,
+		"end": 1000
+	},
+	{
+		"content": "The WALDO SHRINKER makes me tiny...",
+		"start":1025,
+		"end": 3900
+	},
+	{
+		"content": "so I can fit through holes in the walls!",
+		"start":3950,
+		"end": 6500
+	}
+],
+
+"menu-chooseround":[
+	{
+		"content": "Choose a round!",
+		"start":0,
+		"end": 2000
+	}
+],
+
+"splash-clickplay":[
+	{
+		"content": "Click PLAY to start!",
+		"start":0,
+		"end": 3000
+	}
+],
+
+"splash-title":[
+	{
+		"content": "Waldo Loves Muffy!",
+		"start":0,
+		"end": 3000
+	}
+]
+
+}

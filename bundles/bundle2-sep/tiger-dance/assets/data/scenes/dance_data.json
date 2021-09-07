@@ -1,0 +1,2077 @@
+{
+  "manifest": [
+    {
+      "id": "stage-bg",
+      "src": "assets/images/CloseBackground-M.jpg",
+      "type": "image"
+    },
+    {
+      "id": "curtain",
+      "src": "assets/images/RightCloseCurtain.png",
+      "type": "image"
+    },
+    {
+      "id": "tap-fx",
+      "src": "assets/sheets/vfx/TapFX.json",
+      "type": "spritesheet"
+    }
+  ],
+  "danceTime": 7000,
+  "finaleTime": 13100,
+  "dancecallDelay": 1200,
+  "tapFX": "TapFX",
+  "dances": [
+    {
+      "manifest": [
+        {
+          "id": "song-Daniel",
+          "src": "assets/audio/WiggleWhatever_Daniel_Music.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move1-Daniel",
+          "src": "assets/audio/daniel_wiggle_06.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "daniel-move1-Other",
+          "src": "assets/audio/o_wiggle_07.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move2-Daniel",
+          "src": "assets/audio/daniel_wiggle_07.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "daniel-move2-Other",
+          "src": "assets/audio/jodi_wiggle_07.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move3-Daniel",
+          "src": "assets/audio/daniel_wiggle_08.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "daniel-move3-Other",
+          "src": "assets/audio/kat_wiggle_07.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "allmove-Daniel",
+          "src": "assets/audio/daniel_wiggle_10.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "props-jungle",
+          "src": "assets/sheets/themes/Jungle.json",
+          "type": "spritesheet"
+        }
+      ],
+      "character": "Daniel",
+      "song": "song-Daniel",
+      "mainScreen": "middle",
+      "voFinal": "allmove-Daniel",
+      "dance": [
+        {
+          "move": "jump",
+          "vo": "move1-Daniel",
+          "vo2": "daniel-move1-Other",
+          "friend": "O",
+          "screen": "left"
+        },
+        {
+          "move": "wiggle",
+          "vo": "move2-Daniel",
+          "vo2": "daniel-move2-Other",
+          "friend": "Jodi",
+          "screen": "right"
+        },
+        {
+          "move": "roar",
+          "vo": "move3-Daniel",
+          "vo2": null,
+          "friend": "Katerina",
+          "screen": "left"
+        }
+      ],
+      "screens": [
+        {
+          "id": "left",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Jungle_Tree_02",
+              "align": "top",
+              "position": {
+                "x": 0.93,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Jungle_Tree_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.2,
+                "y": 0.85,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Jungle_Bush_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.23,
+                "y": 0.85,
+                "scale": 0.45,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "left",
+            "id": "curtain",
+            "invert": true
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "middle",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Jungle_Tree_02",
+              "align": "top",
+              "position": {
+                "x": 0.10,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Jungle_Bush_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.7,
+                "y": 0.8,
+                "scale": 0.4,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Jungle_Tree_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.95,
+                "y": 0.9,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Jungle_Vine_01",
+              "align": "top",
+              "position": {
+                "x": 0.58,
+                "y": 0.0,
+                "scale": 0.5,
+                "layer": "front"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "none"
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "right",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Jungle_Tree_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.10,
+                "y": 0.9,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Jungle_Tree_02",
+              "align": "top",
+              "position": {
+                "x": 0.85,
+                "y": 0.0,
+                "scale": 0.9,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Jungle_Bush_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.75,
+                "y": 0.85,
+                "scale": 0.5,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Jungle_Vine_01",
+              "align": "top",
+              "position": {
+                "x": 0.40,
+                "y": 0.0,
+                "scale": 0.5,
+                "layer": "front"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "right",
+            "id": "curtain",
+            "invert": false
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "manifest": [
+        {
+          "id": "song-Elaina",
+          "src": "assets/audio/WiggleWhatever_Miss_Elaina_Music.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move1-Elaina",
+          "src": "assets/audio/elaina_wiggle_02.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "elaina-move1-Other",
+          "src": "assets/audio/kat_wiggle_08.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move2-Elaina",
+          "src": "assets/audio/elaina_wiggle_03.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "elaina-move2-Other",
+          "src": "assets/audio/chrissie_wiggle_07.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move3-Elaina",
+          "src": "assets/audio/elaina_wiggle_04.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "elaina-move3-Other",
+          "src": "assets/audio/daniel_wiggle_14.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "allmove-Elaina",
+          "src": "assets/audio/elaina_wiggle_05.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "props-robot",
+          "src": "assets/sheets/themes/Robot.json",
+          "type": "spritesheet"
+        }
+      ],
+      "character": "Elaina",
+      "song": "song-Elaina",
+      "mainScreen": "middle",
+      "voFinal": "allmove-Elaina",
+      "dance": [
+        {
+          "move": "bend",
+          "vo": "move1-Elaina",
+          "vo2": "elaina-move1-Other",
+          "friend": "Katerina",
+          "screen": "left"
+        },
+        {
+          "move": "shake",
+          "vo": "move2-Elaina",
+          "vo2": "elaina-move2-Other",
+          "friend": "Chrissie",
+          "screen": "right"
+        },
+        {
+          "move": "robot",
+          "vo": "move3-Elaina",
+          "vo2": "elaina-move3-Other",
+          "friend": "Daniel",
+          "screen": "left"
+        }
+      ],
+      "screens": [
+        {
+          "id": "left",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Robot_Robot_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.22,
+                "y": 0.85,
+                "scale": 0.55,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Robot_SSystem_01",
+              "align": "top",
+              "position": {
+                "x": 0.8,
+                "y": -0.05,
+                "scale": 0.9,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "left",
+            "id": "curtain",
+            "invert": true
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "middle",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Robot_SSystem_01",
+              "align": "top",
+              "position": {
+                "x": 0.2,
+                "y": -0.05,
+                "scale": 0.9,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Robot_Spaceship_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.5,
+                "y": 0.8,
+                "scale": 0.85,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Robot_Robot_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.8,
+                "y": 0.83,
+                "scale": 0.4,
+                "layer": "back",
+                "invert": true
+              }
+            }
+          ],
+          "curtain": {
+            "position": "none"
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "right",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Robot_Robot_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.08,
+                "y": 0.83,
+                "scale": 0.4,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Robot_Rocket_01",
+              "align": "top",
+              "position": {
+                "x": 0.4,
+                "y": -0.2,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Robot_Planet_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.77,
+                "y": 0.8,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "right",
+            "id": "curtain",
+            "invert": false
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "manifest": [
+        {
+          "id": "song-O",
+          "src": "assets/audio/DanielTigerMusic_O_the_Owl.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move1-O",
+          "src": "assets/audio/o_wiggle_02.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "o-move1-Other",
+          "src": "assets/audio/kat_wiggle_09.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move2-O",
+          "src": "assets/audio/o_wiggle_03.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "o-move2-Other",
+          "src": "assets/audio/daniel_wiggle_16.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move3-O",
+          "src": "assets/audio/o_wiggle_04.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "o-move3-Other",
+          "src": "assets/audio/wednesday_wiggle_10.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "allmove-O",
+          "src": "assets/audio/o_wiggle_05.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "props-starry",
+          "src": "assets/sheets/themes/Starry.json",
+          "type": "spritesheet"
+        }
+      ],
+      "character": "O",
+      "song": "song-O",
+      "mainScreen": "middle",
+      "dance": [
+        {
+          "move": "stretch",
+          "vo": "move1-O",
+          "vo2": "o-move1-Other",
+          "friend": "Katerina",
+          "screen": "left"
+        },
+        {
+          "move": "jump",
+          "vo": "move2-O",
+          "vo2": "o-move2-Other",
+          "friend": "Daniel",
+          "screen": "right"
+        },
+        {
+          "move": "flap",
+          "vo": "move3-O",
+          "vo2": "o-move3-Other",
+          "friend": "Wednesday",
+          "screen": "left"
+        }
+      ],
+      "screens": [
+        {
+          "id": "left",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.2,
+                "y": -0.25,
+                "scale": 0.7,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Moon_01",
+              "align": "top",
+              "position": {
+                "x": 0.35,
+                "y": -0.05,
+                "scale": 0.90,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.68,
+                "y": -0.12,
+                "scale": 0.74,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.82,
+                "y": -0.47,
+                "scale": 0.91,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Cloud_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.82,
+                "y": 1.02,
+                "scale": 0.7,
+                "layer": "front",
+                "invert": true
+              }
+            },
+            {
+              "id": "Starry_Cloud_02",
+              "align": "bottom",
+              "position": {
+                "x": 0.1,
+                "y": 0.86,
+                "scale": 0.7,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "left",
+            "id": "curtain",
+            "invert": true
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "middle",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.10,
+                "y": -0.12,
+                "scale": 0.74,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.20,
+                "y": -0.47,
+                "scale": 0.91,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.67,
+                "y": -0.32,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_BigMoon_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.5,
+                "y": 0.91,
+                "scale": 0.9,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.90,
+                "y": -0.8,
+                "scale": 1.2,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Cloud_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.87,
+                "y": 0.93,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Cloud_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.08,
+                "y": 1.02,
+                "scale": 0.7,
+                "layer": "back",
+                "invert": true
+              }
+            }
+          ],
+          "curtain": {
+            "position": "none"
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "right",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Starry_Cloud_02",
+              "align": "bottom",
+              "position": {
+                "x": 0.05,
+                "y": 0.93,
+                "scale": 0.6,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Starry_Cloud_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.93,
+                "y": 0.92,
+                "scale": 0.83,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Starry_Cloud_02",
+              "align": "bottom",
+              "position": {
+                "x": 0.31,
+                "y": 0.82,
+                "scale": 0.5,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.05,
+                "y": -0.8,
+                "scale": 1.2,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.41,
+                "y": -0.96,
+                "scale": 1.4,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.78,
+                "y": -0.78,
+                "scale": 1.4,
+                "layer": "back",
+                "invert": false
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.16,
+                "y": 0.0,
+                "scale": 0.45,
+                "layer": "back",
+                "invert": false
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.72,
+                "y": 0.0,
+                "scale": 0.3,
+                "layer": "back",
+                "invert": false
+              }
+            },
+            {
+              "id": "Starry_Star_01",
+              "align": "top",
+              "position": {
+                "x": 0.61,
+                "y": -0.38,
+                "scale": 0.6,
+                "layer": "back",
+                "invert": false
+              }
+            }
+          ],
+          "curtain": {
+            "position": "right",
+            "id": "curtain",
+            "invert": false
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "manifest": [
+        {
+          "id": "song-Katerina",
+          "src": "assets/audio/WiggleWhatever_Katerina_Music.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move1-Katerina",
+          "src": "assets/audio/kat_wiggle_02.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "kat-move1-Other",
+          "src": "assets/audio/o_wiggle_12.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move2-Katerina",
+          "src": "assets/audio/kat_wiggle_03.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "kat-move2-Other",
+          "src": "assets/audio/elaina_wiggle_12.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move3-Katerina",
+          "src": "assets/audio/kat_wiggle_04.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "kat-move3-Other",
+          "src": "assets/audio/jodi_wiggle_11.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "allmove-Katerina",
+          "src": "assets/audio/kat_wiggle_05.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "props-ballet",
+          "src": "assets/sheets/themes/Ballet.json",
+          "type": "spritesheet"
+        }
+      ],
+      "character": "Katerina",
+      "song": "song-Katerina",
+      "mainScreen": "middle",
+      "dance": [
+        {
+          "move": "stretch",
+          "vo": "move1-Katerina",
+          "vo2": "kat-move1-Other",
+          "friend": "O",
+          "screen": "left"
+        },
+        {
+          "move": "bend",
+          "vo": "move2-Katerina",
+          "vo2": "kat-move2-Other",
+          "friend": "Elaina",
+          "screen": "right"
+        },
+        {
+          "move": "twirl",
+          "vo": "move3-Katerina",
+          "vo2": "kat-move3-Other",
+          "friend": "Jodi",
+          "screen": "left"
+        }
+      ],
+      "screens": [
+        {
+          "id": "left",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Ballet_FlowerStreamer_01",
+              "align": "top",
+              "position": {
+                "x": 0.5,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_FlowerStreamer_01",
+              "align": "top",
+              "position": {
+                "x": 1.0,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_FlowerBed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.2,
+                "y": 0.79,
+                "scale": 0.8,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.1,
+                "y": 0.86,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.72,
+                "y": 0.82,
+                "scale": 0.6,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_FlowerBed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.89,
+                "y": 0.9,
+                "scale": 0.7,
+                "layer": "front",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.25,
+                "y": -0.03,
+                "scale": 0.5,
+                "layer": "front"
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.68,
+                "y": -0.05,
+                "scale": 0.4,
+                "layer": "back",
+                "invert": true
+              }
+            }
+          ],
+          "curtain": {
+            "position": "left",
+            "id": "curtain",
+            "invert": true
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "middle",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Ballet_FlowerStreamer_01",
+              "align": "top",
+              "position": {
+                "x": 0.0,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_FlowerStreamer_01",
+              "align": "top",
+              "position": {
+                "x": 0.5,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_FlowerStreamer_01",
+              "align": "top",
+              "position": {
+                "x": 1.0,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.9,
+                "y": 0.8,
+                "scale": 0.4,
+                "layer": "back",
+                "invert": false
+              }
+            },
+            {
+              "id": "Ballet_FlowerBed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.6,
+                "y": 0.8,
+                "scale": 1,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_FlowerBed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.78,
+                "y": 0.82,
+                "scale": 0.6,
+                "layer": "back",
+                "invert": false
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.16,
+                "y": -0.05,
+                "scale": 0.45,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.55,
+                "y": -0.18,
+                "scale": 0.34,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.74,
+                "y": -0.02,
+                "scale": 0.39,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.3,
+                "y": 0.8,
+                "scale": 0.7,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.35,
+                "y": 0.83,
+                "scale": 0.5,
+                "layer": "back",
+                "invert": false
+              }
+            },
+            {
+              "id": "Ballet_FlowerBed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.16,
+                "y": 0.9,
+                "scale": 0.7,
+                "layer": "front",
+                "invert": true
+              }
+            }
+          ],
+          "curtain": {
+            "position": "none"
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "right",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Ballet_FlowerBed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.25,
+                "y": 0.78,
+                "scale": 1,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.05,
+                "y": 0.8,
+                "scale": 0.4,
+                "layer": "back",
+                "invert": false
+              }
+            },
+            {
+              "id": "Ballet_FlowerStreamer_01",
+              "align": "top",
+              "position": {
+                "x": 0.0,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_FlowerStreamer_01",
+              "align": "top",
+              "position": {
+                "x": 0.5,
+                "y": -0.05,
+                "scale": 1.0,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_FlowerBed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.84,
+                "y": 0.9,
+                "scale": 0.7,
+                "layer": "front",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.74,
+                "y": 0.93,
+                "scale": 0.6,
+                "layer": "front",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Flower_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.92,
+                "y": 0.92,
+                "scale": 0.5,
+                "layer": "front",
+                "invert": false
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.28,
+                "y": -0.0,
+                "scale": 0.56,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.14,
+                "y": -0.07,
+                "scale": 0.34,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.46,
+                "y": -0.18,
+                "scale": 0.31,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ballet_Butterfly_01",
+              "align": "top",
+              "position": {
+                "x": 0.80,
+                "y": 0.0,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "right",
+            "id": "curtain",
+            "invert": false
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "manifest": [
+        {
+          "id": "song-Chrissie",
+          "src": "assets/audio/WiggleWhatever_Chrissie_Music.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move1-Chrissie",
+          "src": "assets/audio/chrissie_wiggle_02.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "chrissie-move1-Other",
+          "src": "assets/audio/wednesday_wiggle_11.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move2-Chrissie",
+          "src": "assets/audio/chrissie_wiggle_03.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "chrissie-move2-Other",
+          "src": "assets/audio/elaina_wiggle_11.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move3-Chrissie",
+          "src": "assets/audio/chrissie_wiggle_04.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "chrissie-move3-Other",
+          "src": "assets/audio/jodi_wiggle_12.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "allmove-Chrissie",
+          "src": "assets/audio/chrissie_wiggle_05.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "props-western",
+          "src": "assets/sheets/themes/Western.json",
+          "type": "spritesheet"
+        }
+      ],
+      "character": "Chrissie",
+      "song": "song-Chrissie",
+      "mainScreen": "middle",
+      "dance": [
+        {
+          "move": "clap",
+          "vo": "move1-Chrissie",
+          "vo2": "chrissie-move1-Other",
+          "friend": "Wednesday",
+          "screen": "left"
+        },
+        {
+          "move": "shake",
+          "vo": "move2-Chrissie",
+          "vo2": "chrissie-move2-Other",
+          "friend": "Elaina",
+          "screen": "right"
+        },
+        {
+          "move": "wave",
+          "vo": "move3-Chrissie",
+          "vo2": "chrissie-move3-Other",
+          "friend": "Jodi",
+          "screen": "left"
+        }
+      ],
+      "screens": [
+        {
+          "id": "left",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Western_Sun_01",
+              "align": "top",
+              "position": {
+                "x": 0.35,
+                "y": -0.53,
+                "scale": 0.85,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Western_Cactus_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.83,
+                "y": 0.83,
+                "scale": 0.9,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Western_Tumbleweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.15,
+                "y": 0.9,
+                "scale": 0.9,
+                "layer": "front"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "left",
+            "id": "curtain",
+            "invert": true
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "middle",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Western_Cactus_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.14,
+                "y": 0.83,
+                "scale": 0.9,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Western_Horse_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.82,
+                "y": 0.9,
+                "scale": 0.9,
+                "layer": "back"
+              }
+            }
+
+          ],
+          "curtain": {
+            "position": "none"
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "right",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Western_Horse_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.15,
+                "y": 0.9,
+                "scale": 0.9,
+                "layer": "back"
+              }
+            },
+
+            {
+              "id": "Western_Cactus_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.7,
+                "y": 0.8,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Western_Tumbleweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.85,
+                "y": 0.87,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "right",
+            "id": "curtain",
+            "invert": false
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "manifest": [
+        {
+          "id": "song-Jodi",
+          "src": "assets/audio/WiggleWhatever_Jodi_Music.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move1-Jodi",
+          "src": "assets/audio/jodi_wiggle_02.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "jodi-move1-Other",
+          "src": "assets/audio/daniel_wiggle_15.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move2-Jodi",
+          "src": "assets/audio/jodi_wiggle_03.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "jodi-move2-Other",
+          "src": "assets/audio/o_wiggle_11.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move3-Jodi",
+          "src": "assets/audio/jodi_wiggle_04.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "jodi-move3-Other",
+          "src": "assets/audio/chrissie_wiggle_09.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "allmove-Jodi",
+          "src": "assets/audio/jodi_wiggle_05.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "props-ocean",
+          "src": "assets/sheets/themes/Ocean.json",
+          "type": "spritesheet"
+        }
+      ],
+      "character": "Jodi",
+      "song": "song-Jodi",
+      "mainScreen": "middle",
+      "dance": [
+        {
+          "move": "wiggle",
+          "vo": "move1-Jodi",
+          "vo2": "jodi-move1-Other",
+          "friend": "Daniel",
+          "screen": "left"
+        },
+        {
+          "move": "jump",
+          "vo": "move2-Jodi",
+          "vo2": "jodi-move2-Other",
+          "friend": "O",
+          "screen": "right"
+        },
+        {
+          "move": "twist",
+          "vo": "move3-Jodi",
+          "vo2": "jodi-move3-Other",
+          "friend": "Chrissie",
+          "screen": "left"
+        }
+      ],
+      "screens": [
+        {
+          "id": "left",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.78,
+                "y": -0.1,
+                "scale": 0.3,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.9,
+                "y": -0.15,
+                "scale": 0.45,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_fish_01",
+              "align": "top",
+              "position": {
+                "x": 0.4,
+                "y": -0.3,
+                "scale": 0.6,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ocean_Seaweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.2,
+                "y": 0.85,
+                "scale": 0.7,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Seaweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.8,
+                "y": 0.83,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Seaweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.9,
+                "y": 0.83,
+                "scale": 0.4,
+                "layer": "back",
+                "invert": true
+              }
+            }
+          ],
+          "curtain": {
+            "position": "left",
+            "id": "curtain",
+            "invert": true
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "middle",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.05,
+                "y": -0.1,
+                "scale": 0.3,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.17,
+                "y": -0.15,
+                "scale": 0.45,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.3,
+                "y": -0.12,
+                "scale": 0.4,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.7,
+                "y": -0.12,
+                "scale": 0.3,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.8,
+                "y": -0.1,
+                "scale": 0.2,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.9,
+                "y": -0.09,
+                "scale": 0.25,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Seaweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.07,
+                "y": 0.83,
+                "scale": 0.6,
+                "layer": "front"
+              }
+            },
+            {
+              "id": "Ocean_Seaweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.17,
+                "y": 0.83,
+                "scale": 0.4,
+                "layer": "front",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ocean_Coral_02",
+              "align": "bottom",
+              "position": {
+                "x": 0.9,
+                "y": 0.8,
+                "scale": 0.7,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Coral_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.75,
+                "y": 0.85,
+                "scale": 0.7,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "none"
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "right",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.05,
+                "y": -0.1,
+                "scale": 0.2,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Fish_02",
+              "align": "top",
+              "position": {
+                "x": 0.15,
+                "y": -0.09,
+                "scale": 0.25,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Coral_02",
+              "align": "bottom",
+              "position": {
+                "x": 0.1,
+                "y": 0.8,
+                "scale": 0.7,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_Seaweed_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.8,
+                "y": 0.84,
+                "scale": 0.6,
+                "layer": "front",
+                "invert": true
+              }
+            },
+            {
+              "id": "Ocean_fish_01",
+              "align": "top",
+              "position": {
+                "x": 0.6,
+                "y": -0.3,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "Ocean_fish_01",
+              "align": "top",
+              "position": {
+                "x": 0.7,
+                "y": -0.25,
+                "scale": 0.5,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "right",
+            "id": "curtain",
+            "invert": false
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "manifest": [
+        {
+          "id": "song-Wednesday",
+          "src": "assets/audio/WiggleWhatever_Wednesday_Music.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move1-Wednesday",
+          "src": "assets/audio/wednesday_wiggle_02.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "wed-move1-Other",
+          "src": "assets/audio/daniel_wiggle_15.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move2-Wednesday",
+          "src": "assets/audio/wednesday_wiggle_03.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "wed-move2-Other",
+          "src": "assets/audio/chrissie_wiggle_08.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "move3-Wednesday",
+          "src": "assets/audio/wednesday_wiggle_04.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "wed-move3-Other",
+          "src": "assets/audio/elaina_wiggle_10.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "allmove-Wednesday",
+          "src": "assets/audio/wednesday_wiggle_05.mp3",
+          "type": "sound"
+        },
+        {
+          "id": "props-march",
+          "src": "assets/sheets/themes/March.json",
+          "type": "spritesheet"
+        }
+      ],
+      "character": "Wednesday",
+      "song": "song-Wednesday",
+      "mainScreen": "middle",
+      "dance": [
+        {
+          "move": "wiggle",
+          "vo": "move1-Wednesday",
+          "vo2": "wed-move1-Other",
+          "friend": "Daniel",
+          "screen": "left"
+        },
+        {
+          "move": "clap",
+          "vo": "move2-Wednesday",
+          "vo2": "wed-move2-Other",
+          "friend": "Chrissie",
+          "screen": "right"
+        },
+        {
+          "move": "march",
+          "vo": "move3-Wednesday",
+          "vo2": "wed-move3-Other",
+          "friend": "Elaina",
+          "screen": "left"
+        }
+      ],
+      "screens": [
+        {
+          "id": "left",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "March_Banner_01",
+              "align": "top",
+              "position": {
+                "x": 0.3,
+                "y": 0,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Banner_01",
+              "align": "top",
+              "position": {
+                "x": 0.9,
+                "y": 0,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Castle_02",
+              "align": "bottom",
+              "position": {
+                "x": 0.17,
+                "y": 0.87,
+                "scale": 0.5,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Dragon_01",
+              "align": "top",
+              "position": {
+                "x": 0.6,
+                "y": -0.2,
+                "scale": 0.5,
+                "layer": "back",
+                "invert": true
+              }
+            }
+          ],
+          "curtain": {
+            "position": "left",
+            "id": "curtain",
+            "invert": true
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "middle",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "March_Castle_01",
+              "align": "bottom",
+              "position": {
+                "x": 0.5,
+                "y": 0.85,
+                "scale": 0.85,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Banner_01",
+              "align": "top",
+              "position": {
+                "x": 0.1,
+                "y": 0,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Banner_01",
+              "align": "top",
+              "position": {
+                "x": 0.9,
+                "y": 0,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Dragon_01",
+              "align": "top",
+              "position": {
+                "x": 0.25,
+                "y": -0.1,
+                "scale": 0.3,
+                "layer": "back",
+                "invert": true
+              }
+            },
+            {
+              "id": "March_Dragon_01",
+              "align": "top",
+              "position": {
+                "x": 0.37,
+                "y": 0.0,
+                "scale": 0.2,
+                "layer": "back",
+                "invert": true
+              }
+            }
+          ],
+          "curtain": {
+            "position": "none"
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        },
+        {
+          "id": "right",
+          "bg": "stage-bg",
+          "props": [
+            {
+              "id": "March_Banner_01",
+              "align": "top",
+              "position": {
+                "x": 0.7,
+                "y": 0,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Banner_01",
+              "align": "top",
+              "position": {
+                "x": 0.1,
+                "y": 0,
+                "scale": 0.8,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Castle_02",
+              "align": "bottom",
+              "position": {
+                "x": 0.83,
+                "y": 0.87,
+                "scale": 0.5,
+                "layer": "back"
+              }
+            },
+            {
+              "id": "March_Dragon_01",
+              "align": "top",
+              "position": {
+                "x": 0.36,
+                "y": -0.2,
+                "scale": 0.6,
+                "layer": "back"
+              }
+            }
+          ],
+          "curtain": {
+            "position": "right",
+            "id": "curtain",
+            "invert": false
+          },
+          "character": {
+            "x": 0.5,
+            "y": 0.9,
+            "scale": 1.0
+          }
+        }
+      ]
+    }
+  ]
+}

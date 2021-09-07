@@ -1,0 +1,39 @@
+{"frames": {
+
+"btn_restart0001.png":
+{
+	"frame": {"x":0,"y":0,"w":131,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":33},
+	"sourceSize": {"w":131,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btn_restart0002.png":
+{
+	"frame": {"x":131,"y":0,"w":131,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":33},
+	"sourceSize": {"w":131,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btn_restart0003.png":
+{
+	"frame": {"x":262,"y":0,"w":131,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":33},
+	"sourceSize": {"w":131,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_restart.png",
+	"format": "RGBA8888",
+	"size": {"w":393,"h":33},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fec2821ae61716599744165ba98a2ec5:eded4faf394c171cd80351938c1e7057:2b9244fd16a1f8ce0f3deada2a4a27cb$"
+}
+}

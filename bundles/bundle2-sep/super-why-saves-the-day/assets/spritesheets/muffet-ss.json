@@ -1,0 +1,60 @@
+{
+
+"images": [
+    "assets/spritesheets/muffet-ss.png"
+],
+
+"frames": [
+    [1, 1, 1428, 265, 0, 0, 0],
+    [1431, 1, 489, 324, 0, 0, 0],
+    [1, 268, 1427, 269, 0, 0, 0],
+    [1922, 1, 70, 148, 0, 0, 0],
+    [1, 539, 217, 363, 0, 0, 0],
+    [1, 904, 167, 114, 0, 0, 0],
+    [170, 904, 163, 99, 0, 0, 0],
+    [220, 539, 258, 345, 0, 0, 0],
+    [335, 886, 251, 130, 0, 0, 0],
+    [480, 539, 355, 334, 0, -169, 0],
+    [588, 875, 131, 97, 0, 0, 0],
+    [721, 875, 186, 91, 0, 0, 0],
+    [837, 539, 350, 334, 0, -174, 0],
+    [909, 875, 127, 81, 0, 0, 0],
+    [1189, 539, 214, 319, 0, 0, 0],
+    [1189, 860, 346, 161, 0, 0, 0],
+    [1405, 539, 158, 235, 0, 0, 0],
+    [1430, 327, 207, 192, 0, 0, 0],
+    [1639, 327, 354, 214, 0, 0, 0],
+    [1537, 776, 356, 218, 0, 0, 0],
+    [1565, 543, 365, 216, 0, 0, 0]
+],
+
+"animations": {
+    "bg_ground": [0],
+    "bg_silhouette3": [1],
+    "bg_sky": [2],
+    "bg_silhouette2": [3],
+    "mg_tree1": [4],
+    "bg_cloud1": [5],
+    "mg_bush": [6],
+    "bg_tree": [7],
+    "fg_foliage": [8],
+    "characterStart": [9],
+    "mg_hydrant": [10],
+    "bg_cloud2": [11],
+    "characterEnd": [12],
+    "mg_tuffet": [13],
+    "bg_silhouette1": [14],
+    "fg_bush": [15],
+    "bg_foliage": [16],
+    "bg_sun": [17],
+    "bg_house2": [18],
+    "mg_tree2": [19],
+    "bg_house1": [20]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:9906cdf5645a2273f29dcecbbd6f2c6e:c68a83428341d43b40444a09320430d3:c7c54b587e96bf4850e8da513abb05ce$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

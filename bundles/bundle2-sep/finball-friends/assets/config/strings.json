@@ -1,0 +1,22 @@
+{
+	"LOADING" : { "text" : "Loading" },
+
+	"1_PLAYER" : { "text" : "1 PLAYER" },
+	"2_PLAYERS" : { "text" : "2 PLAYERS" },
+	"PLAYER" : { "text" : "PLAYER" },
+	"PLAYERS" : { "text" : "PLAYERS" },
+	"CHARACTER_SPLASH_NAME" : { "text" : "Splash" },
+	"CHARACTER_SPLASH_INFO" : { "text" : "is a yellowback fusilier!" },
+	"CHARACTER_BUBBLES_NAME" : { "text" : "Bubbles" },
+	"CHARACTER_BUBBLES_INFO" : { "text" : "is a mandarin dragonet!" },
+	"CHARACTER_DUNK_NAME" : { "text" : "Dunk" },
+	"CHARACTER_DUNK_INFO" : { "text" : "is a pufferfish!" },
+	"CHARACTER_RIPPLE_NAME" : { "text" : "Ripple" },
+	"CHARACTER_RIPPLE_INFO" : { "text" : "is a seahorse!" },
+
+	"END_HIT" : { "text" : "{n} hit!" },
+	"END_HITS" : { "text" : "{n} hits!" },
+	"END_WE_DID_IT" : { "text" : "We did it!" },
+	"END_NEXT_TIME" : { "text" : "We'll get it next time!" },
+	"END_HIGHSCORE" : { "text" : "High Score: {n}" }
+}

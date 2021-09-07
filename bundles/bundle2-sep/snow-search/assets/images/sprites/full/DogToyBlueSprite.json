@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn210000":
+{
+	"frame": {"x":0,"y":25,"w":59,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":24},
+	"sourceSize": {"w":59,"h":24}
+},
+"sn210001":
+{
+	"frame": {"x":0,"y":0,"w":59,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":24},
+	"sourceSize": {"w":59,"h":24}
+},
+"sn210002":
+{
+	"frame": {"x":0,"y":50,"w":59,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":59,"h":24},
+	"sourceSize": {"w":59,"h":24}
+},
+"sn210003":
+{
+	"frame": {"x":0,"y":70,"w":29,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":5,"w":59,"h":24},
+	"sourceSize": {"w":59,"h":24}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "DogToyBlueSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1"
+}
+}

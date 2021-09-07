@@ -1,0 +1,39 @@
+{
+  "manifest": [
+    {
+      "id": "titleBG",
+      "src": "assets/images/titlecard.jpg",
+      "type": "image"
+    },
+    {
+      "id": "titleSheet",
+      "src": "assets/sheets/titlescreen.json",
+      "type": "spritesheet"
+    },
+    {
+      "id": "titleVO",
+      "src": "assets/audio/sfx/directory_teapartygame.mp3",
+      "type": "sound"
+    },
+    {
+      "id": "global_click",
+      "src": "assets/audio/sfx/trolley_sfx_select.mp3",
+      "type": "sound"
+    }
+  ],
+  "image": "titleBG",
+  "playButton": {
+    "art": {
+      "sheet": "titleSheet",
+      "up": "playBtn",
+      "down": "playBtnDown",
+      "over": "playBtnDown"
+    },
+    "position": {
+      "x": 0.5,
+      "y": 0.88
+    },
+    "align": "center"
+  },
+  "audio": "titleVO"
+}

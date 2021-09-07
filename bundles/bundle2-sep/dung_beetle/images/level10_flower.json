@@ -1,0 +1,30 @@
+{"frames": {
+
+"flower1.png":
+{
+	"frame": {"x":61,"y":0,"w":50,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":47},
+	"sourceSize": {"w":50,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"flower2.png":
+{
+	"frame": {"x":0,"y":0,"w":61,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":57},
+	"sourceSize": {"w":61,"h":57},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "level10_flower.png",
+	"format": "RGBA8888",
+	"size": {"w":111,"h":57},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f3663c95afea8c1433c8fa30819c46f7:e48c998d0a6921771461c9367e8d3835:e48d0a1b0358a162024b4af07ef33129$"
+}
+}

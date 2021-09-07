@@ -1,0 +1,52 @@
+{
+
+"images": [
+    "assets/spritesheets/foolish-ss.png"
+],
+
+"frames": [
+    [1, 1, 1428, 271, 0, 0, 0],
+    [1, 274, 1427, 265, 0, 0, 0],
+    [1, 541, 686, 379, 0, 0, 0],
+    [689, 541, 475, 359, 0, -154, -20],
+    [1431, 1, 573, 197, 0, 0, 0],
+    [1166, 541, 307, 312, 0, 0, 0],
+    [1431, 200, 375, 130, 0, 0, 0],
+    [1430, 332, 360, 97, 0, 0, 0],
+    [1475, 431, 327, 290, 0, 0, 0],
+    [1475, 723, 370, 259, 0, 0, 0],
+    [1808, 200, 201, 247, 0, 0, 0],
+    [1804, 449, 234, 208, 0, 0, 0],
+    [1847, 659, 185, 111, 0, 0, 0],
+    [1847, 772, 139, 146, 0, 0, 0],
+    [1, 922, 146, 47, 0, 0, 0],
+    [1847, 920, 123, 60, 0, 0, 0],
+    [1166, 855, 116, 86, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_ground": [1],
+    "characterEnd": [2],
+    "characterStart": [3],
+    "bg_fenced": [4],
+    "mg_tree": [5],
+    "bg_hill": [6],
+    "mg_hill1": [7],
+    "fg_hill": [8],
+    "fg_foliage1": [9],
+    "mg_foliage": [10],
+    "mg_hill2": [11],
+    "bg_cloud2": [12],
+    "fg_foliage2": [13],
+    "fg_stump": [14],
+    "bg_cloud1": [15],
+    "bg_cloud3": [16]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:aca6265a890abc7328f7ea2fdf9c65b6:d22bfb2921698f954142175791ced28d:7a9a024d2e5df2518f500f8dc97997bc$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,23 @@
+{
+	"scale":0.5,
+	"fps":15,
+	"labels":
+	{
+		"anim":0,
+		"anim_stop":59
+	},
+	"frames":
+	[
+		{
+			"name":"boxSnowflakes_SMALL#",
+			"min":0,
+			"max":59,
+			"digits":4
+		}
+	],
+	"origin":
+	{
+		"x":0,
+		"y":0
+	}
+}

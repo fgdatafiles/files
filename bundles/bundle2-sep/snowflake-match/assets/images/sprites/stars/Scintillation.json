@@ -1,0 +1,21 @@
+{
+	"fps":24,
+	"labels":
+	{
+		"scintillation":0
+	},
+	"frames":
+	[
+		{
+			"name":"animScintillement#",
+			"min":0,
+			"max":20,
+			"digits":4
+		}
+	],
+	"origin":
+	{
+		"x":100,
+		"y":100
+	}
+}

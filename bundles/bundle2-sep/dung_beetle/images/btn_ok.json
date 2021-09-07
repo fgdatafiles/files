@@ -1,0 +1,39 @@
+{"frames": {
+
+"ok1.png":
+{
+	"frame": {"x":0,"y":0,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ok2.png":
+{
+	"frame": {"x":0,"y":38,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ok3.png":
+{
+	"frame": {"x":0,"y":76,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_ok.png",
+	"format": "RGBA8888",
+	"size": {"w":178,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f1ae768bac2b05b101c510a8f55830b:869b32728d42a6ddedeed7da92c99415:de7226e678d15b7fa735c63988e44e19$"
+}
+}

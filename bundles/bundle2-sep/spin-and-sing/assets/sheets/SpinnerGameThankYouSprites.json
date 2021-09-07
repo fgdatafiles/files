@@ -1,0 +1,36 @@
+{
+
+"images": [
+    "SpinnerGameThankYouSprites.png"
+],
+
+"frames": [
+    [1, 1, 370, 452, 0, 0, 0],
+    [373, 1, 370, 452, 0, 0, 0],
+    [745, 1, 369, 452, 0, 0, 0],
+    [1116, 1, 384, 315, 0, 0, 0],
+    [1116, 318, 357, 175, 0, 0, 0],
+    [1475, 318, 361, 169, 0, 0, 0],
+    [1502, 1, 211, 315, 0, 0, 0],
+    [1715, 1, 126, 92, 0, 0, 0],
+    [1715, 95, 84, 39, 0, 0, 0]
+],
+
+"animations": {
+    "cardFrontGrandpere": [0],
+    "cardInsideGrandpere": [1],
+    "cardFrontInsideGrandpere": [2],
+    "GrandpereHand": [3],
+    "DanielHand": [4],
+    "cardInsidePopUpGrandpere01": [5],
+    "cardInsidePopUpGrandpere00": [6],
+    "GrandpereThumb": [7],
+    "DanielThumb": [8]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:db063885c64782434143e3ebe2580fb5:9f87832df49789078ebd99ca79d84384:f55fd0287b4abd3acf52218f98126216$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

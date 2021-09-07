@@ -1,0 +1,196 @@
+{
+  "manifest": [
+    {
+      "src": "assets/audio/vo/party_daniel.mp3",
+      "data": {
+        "audioSprite": [
+          {
+            "id": "Daniel_apple",
+            "startTime": 0,
+            "duration": 506.14512471655325
+          },
+          {
+            "id": "Daniel_Berry",
+            "startTime": 2000,
+            "duration": 157.80045351473905
+          },
+          {
+            "id": "Daniel_conversation_v01",
+            "startTime": 4000,
+            "duration": 2352.0861678004535
+          },
+          {
+            "id": "Daniel_conversation_v02",
+            "startTime": 8000,
+            "duration": 2508.820861678004
+          },
+          {
+            "id": "Daniel_conversation_v03",
+            "startTime": 12000,
+            "duration": 2404.3310657596367
+          },
+          {
+            "id": "Daniel_conversation_v04",
+            "startTime": 16000,
+            "duration": 3161.8820861678005
+          },
+          {
+            "id": "Daniel_conversation_v05",
+            "startTime": 21000,
+            "duration": 2848.412698412698
+          },
+          {
+            "id": "Daniel_conversation_v06",
+            "startTime": 25000,
+            "duration": 4572.494331065759
+          },
+          {
+            "id": "Daniel_conversation_v07",
+            "startTime": 31000,
+            "duration": 2325.9637188208585
+          },
+          {
+            "id": "Daniel_conversation_v08",
+            "startTime": 35000,
+            "duration": 2743.922902494333
+          },
+          {
+            "id": "Daniel_conversation_v09",
+            "startTime": 39000,
+            "duration": 2116.9841269841286
+          },
+          {
+            "id": "Daniel_conversation_v10",
+            "startTime": 43000,
+            "duration": 2430.453514739227
+          },
+          {
+            "id": "Daniel_cookie",
+            "startTime": 47000,
+            "duration": 366.7800453514758
+          },
+          {
+            "id": "Daniel_crunch",
+            "startTime": 49000,
+            "duration": 392.90249433106794
+          },
+          {
+            "id": "Daniel_Favorite",
+            "startTime": 51000,
+            "duration": 4206.780045351472
+          },
+          {
+            "id": "Daniel_moreSnack_v01",
+            "startTime": 57000,
+            "duration": 3971.6780045351497
+          },
+          {
+            "id": "Daniel_moreSnack_v02",
+            "startTime": 62000,
+            "duration": 4128.412698412702
+          },
+          {
+            "id": "Daniel_moreSnack_v03",
+            "startTime": 68000,
+            "duration": 4050.0453514739265
+          },
+          {
+            "id": "Daniel_moreTeaNeighbor_v01",
+            "startTime": 74000,
+            "duration": 2508.820861678004
+          },
+          {
+            "id": "Daniel_moreTeaneighbor_v02",
+            "startTime": 78000,
+            "duration": 2952.90249433107
+          },
+          {
+            "id": "Daniel_moreTea_v01",
+            "startTime": 82000,
+            "duration": 2926.7800453514783
+          },
+          {
+            "id": "Daniel_moreTea_v02",
+            "startTime": 86000,
+            "duration": 2299.8412698412667
+          },
+          {
+            "id": "Daniel_moreTea_v03",
+            "startTime": 90000,
+            "duration": 2796.1678004535174
+          },
+          {
+            "id": "Daniel_moreTea_v04",
+            "startTime": 94000,
+            "duration": 2247.596371882082
+          },
+          {
+            "id": "Daniel_notDoneTea_v01",
+            "startTime": 98000,
+            "duration": 5094.943310657598
+          },
+          {
+            "id": "Daniel_notDoneTea_v02",
+            "startTime": 105000,
+            "duration": 4363.514739229032
+          },
+          {
+            "id": "Daniel_notDoneTea_v03",
+            "startTime": 111000,
+            "duration": 4232.9024943310715
+          },
+          {
+            "id": "Daniel_notDoneTea_v04",
+            "startTime": 117000,
+            "duration": 3318.616780045346
+          },
+          {
+            "id": "Daniel_sip",
+            "startTime": 122000,
+            "duration": 549.6371882086208
+          },
+          {
+            "id": "Daniel_thankYou_v01",
+            "startTime": 124000,
+            "duration": 1385.5555555555554
+          },
+          {
+            "id": "Daniel_thankYou_v02",
+            "startTime": 127000,
+            "duration": 1307.1882086167932
+          },
+          {
+            "id": "Daniel_thankYou_v03",
+            "startTime": 130000,
+            "duration": 1359.4331065759775
+          },
+          {
+            "id": "Daniel_thankYou_v04",
+            "startTime": 133000,
+            "duration": 1986.3718820861607
+          },
+          {
+            "id": "Daniel_thankYou_v05",
+            "startTime": 136000,
+            "duration": 2064.7392290249513
+          },
+          {
+            "id": "Daniel_thankYou_v06",
+            "startTime": 140000,
+            "duration": 1516.167800453502
+          },
+          {
+            "id": "Daniel_thankYou_v07",
+            "startTime": 143000,
+            "duration": 1594.5351473922926
+          },
+          {
+            "id": "Daniel_thankYou_v08",
+            "startTime": 146000,
+            "duration": 2038.616780045345
+          }
+        ]
+      }
+    }
+  ]
+}

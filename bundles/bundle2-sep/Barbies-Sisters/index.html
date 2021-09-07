@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Barbies Sisters</title>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="yes"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <!--<script src="js/jquery-1.7.2.min.js"></script>-->
+    <script src="jquery-1.7.2.min.js"></script>
+    <style>
+        body, canvas, div {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+    </style>
+    <!--<script src="js/MGFramework-2.0.0.js"></script>-->
+    <script src="MGFramework-2.0.0.js?v=15915"></script>
+</head>
+<body style="padding:0; margin: 0; background: #000;">
+<canvas id="gameCanvas" width="640" height="480"></canvas>
+
+<script src="game.min.js"></script>
+<script>
+    MGF.instance.miniLogoUrl = "res/credits/c_logo.png";
+    //        MGF.instance.miniLogoUrl = "";
+    MGF.HasScreenshot = false;
+    //--分享文字
+    MGF.language = "zh-CN";
+    MGF.sharemsgs["qq"] = "我在玩{gamename}打了{score}分,击败全地球{percent}%的好友!";
+    MGF.sharemsgs["weibo"] = "我在玩{gamename}打了{score}分,击败全地球{percent}%的好友!";
+    MGF.sharemsgs["facebook"] = "我在玩{gamename}打了{score}分,击败全地球{percent}%的好友!";
+    MGF.sharemsgs["twitter"] = "我在玩{gamename}打了{score}分,击败全地球{percent}%的好友!";
+    MGF.sharemsgs["app_googleplay"] = "{gamename}很好玩,第{level}关已经被我征服,全宇宙{percent}%的好友都已臣服我的脚下,哈哈!";
+    MGF.sharemsgs["app_appstore"] = "{gamename}很好玩,第{level}关已经被我征服,全宇宙{percent}%的好友都已臣服我的脚下,哈哈!";
+    //--界面展示文字
+    MGF.showmsgs["zh-CN"] = "恭喜您击败了{percent}%的玩家！如果您觉得好玩，请分享给您的朋友，快乐源自分享！";
+    MGF.instance.startup("Barbies Sisters", "Barbies-Sisters", false);
+
+</script>
+</body>
+</html>

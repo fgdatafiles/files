@@ -1,0 +1,1 @@
+!function(){var a=include("springroll.Application"),b=include("springroll.easeljs.EaselJSDisplay"),c=new a({fps:30,name:"spin-and-sing",canvasId:"stage",configPath:"assets/config/config.json",captionsPath:"assets/config/captions.json",display:b});c.on("init",function(){window.SchellGames.Games.Spinandsing.start(c.display.stage,c)}),window.app=c}();

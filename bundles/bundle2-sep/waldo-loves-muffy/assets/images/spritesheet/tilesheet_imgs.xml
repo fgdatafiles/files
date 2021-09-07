@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b0969f52ae7a5a12ab1e63d793f5b7e1:6286fed3fa2086b92f1c34e52d33bb1f:1b39fe0c0c8deca55ebcfd288c764d53$ -->
+<TextureAtlas imagePath="tilesheet_imgs.png">
+    <SubTexture name="arrow_down" x="396" y="540" width="78" height="76"/>
+    <SubTexture name="arrow_left" x="317" y="540" width="78" height="76"/>
+    <SubTexture name="arrow_right" x="238" y="540" width="78" height="76"/>
+    <SubTexture name="arrow_up" x="159" y="540" width="78" height="76"/>
+    <SubTexture name="cannon_down_left" x="80" y="540" width="78" height="76"/>
+    <SubTexture name="cannon_down_right" x="1" y="925" width="78" height="76"/>
+    <SubTexture name="cannon_up_left" x="1" y="848" width="78" height="76"/>
+    <SubTexture name="cannon_up_right" x="1" y="771" width="78" height="76"/>
+    <SubTexture name="arrow_down_completed" x="1" y="694" width="78" height="76"/>
+    <SubTexture name="arrow_left_completed" x="1" y="617" width="78" height="76"/>
+    <SubTexture name="arrow_right_completed" x="1" y="540" width="78" height="76"/>
+    <SubTexture name="arrow_up_completed" x="396" y="463" width="78" height="76"/>
+    <SubTexture name="completed/cannon_down_left" x="317" y="463" width="78" height="76"/>
+    <SubTexture name="completed/cannon_down_right" x="238" y="463" width="78" height="76"/>
+    <SubTexture name="completed/cannon_up_left" x="159" y="463" width="78" height="76"/>
+    <SubTexture name="completed/cannon_up_right" x="80" y="463" width="78" height="76"/>
+    <SubTexture name="portal_up_completed" x="1" y="463" width="78" height="76"/>
+    <SubTexture name="portal_down_completed" x="1" y="463" width="78" height="76"/>
+    <SubTexture name="portal_left_completed" x="1" y="463" width="78" height="76"/>
+    <SubTexture name="portal_right_completed" x="1" y="463" width="78" height="76"/>
+    <SubTexture name="completed/portal_up" x="1" y="463" width="78" height="76"/>
+    <SubTexture name="arrow_down_right_completed" x="80" y="386" width="78" height="76"/>
+    <SubTexture name="arrow_down_left_completed" x="1" y="386" width="78" height="76"/>
+    <SubTexture name="arrow_up_left_completed" x="396" y="309" width="78" height="76"/>
+    <SubTexture name="arrow_up_right_completed" x="317" y="309" width="78" height="76"/>
+    <SubTexture name="elephant_toy" x="163" y="1" width="80" height="76"/>
+    <SubTexture name="eye_ball" x="238" y="309" width="78" height="76"/>
+    <SubTexture name="heart" x="159" y="309" width="78" height="76"/>
+    <SubTexture name="icon_border" x="80" y="309" width="78" height="76"/>
+    <SubTexture name="invisible" x="1" y="309" width="78" height="76"/>
+    <SubTexture name="launcher_down" x="396" y="232" width="78" height="76"/>
+    <SubTexture name="launcher_left" x="317" y="232" width="78" height="76"/>
+    <SubTexture name="launcher_right" x="238" y="232" width="78" height="76"/>
+    <SubTexture name="launcher_up" x="159" y="232" width="78" height="76"/>
+    <SubTexture name="hat" x="80" y="232" width="78" height="76"/>
+    <SubTexture name="muffy" x="1" y="232" width="78" height="76"/>
+    <SubTexture name="pause_button" x="82" y="1" width="80" height="76"/>
+    <SubTexture name="start_button" x="1" y="1" width="80" height="76"/>
+    <SubTexture name="pocket" x="396" y="155" width="78" height="76"/>
+    <SubTexture name="portal" x="317" y="155" width="78" height="76"/>
+    <SubTexture name="portal_down" x="317" y="155" width="78" height="76"/>
+    <SubTexture name="portal_left" x="317" y="155" width="78" height="76"/>
+    <SubTexture name="portal_right" x="317" y="155" width="78" height="76"/>
+    <SubTexture name="portal_up" x="317" y="155" width="78" height="76"/>
+    <SubTexture name="shrink" x="396" y="78" width="78" height="76"/>
+    <SubTexture name="arrow_down_left" x="317" y="78" width="78" height="76"/>
+    <SubTexture name="arrow_down_right" x="238" y="78" width="78" height="76"/>
+    <SubTexture name="arrow_up_left" x="159" y="78" width="78" height="76"/>
+    <SubTexture name="arrow_up_right" x="80" y="78" width="78" height="76"/>
+    <SubTexture name="waldo_muffy_heart" x="1" y="78" width="78" height="76"/>
+    <SubTexture name="wall_hortiz_narrow" x="402" y="1" width="78" height="76"/>
+    <SubTexture name="wall" x="323" y="1" width="78" height="76"/>
+    <SubTexture name="wall_vert_narrow" x="244" y="1" width="78" height="76"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+{
+    "fps": 16,
+
+    "labels": {
+		"close": 0,
+		"close_loop": 2,
+
+		"open": 2,
+		"open_loop": 4
+    },
+
+    "frames": [
+        {
+            "name": "Drone#",
+            "min": 1,
+            "max": 4,
+            "digits": 2
+        }
+    ],
+
+    "origin": {
+        "x": 0,
+        "y": 0
+    },
+    "scale": 1
+}

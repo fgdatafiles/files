@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "assets/images/title/sprites.png"
+],
+
+"frames": [
+    [2, 2, 387, 385, 0, 0, 0],
+    [2, 389, 223, 273, 0, 0, 0],
+    [227, 389, 214, 237, 0, 0, 0]
+],
+
+"animations": {
+    "btn-play": [0],
+    "splash": [1],
+    "bubbles": [2]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:b289c19f24ba1cabff6fb8b29017cf6c:e8eaaca81b8a46930aea067bf9daf7a8:1eabdf11f75e3a4fe3147baf7b5be24b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

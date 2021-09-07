@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "./assets/sheets/themes/Ballet.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 904, 219, 0, 0, 0],
+    [1, 222, 279, 716, 0, 0, 0],
+    [282, 222, 478, 185, 0, -3, 0],
+    [282, 409, 312, 316, 0, 0, 0]
+],
+
+"animations": {
+    "Ballet_FlowerStreamer_01": { "frames": [0] },
+    "Ballet_Butterfly_01": { "frames": [1] },
+    "Ballet_FlowerBed_01": { "frames": [2] },
+    "Ballet_Flower_01": { "frames": [3] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:6101f80854e8d2e40908a1e754a28529:d9e2ac6b974ae4e7a4d8bf426249cbf7:87ce6fd50aa3527f8f561930999e8f59$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

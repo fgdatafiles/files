@@ -1,0 +1,57 @@
+{
+	"obstacleTimer" : 
+	{
+		"start" : 18,
+		"min" : 12,
+		"decrement" : 0.5
+	},
+
+	"coinTimer" :
+	{
+		"start" : 8,
+		"afterFirstSpawn" : 24
+	},
+
+	"voTimer" :
+	{
+		"start" : 6
+	},
+
+	"difficulty" :
+	{
+		"start" : 15,
+
+		"ballMinVelX" : 2,
+
+		"fishHitForce" : 
+		{
+			"start" : 14,
+			"max" : 24,
+			"increment" : 0.04
+		},
+		"ballVelocityLimit" :
+		{
+			"start" : 16,
+			"max" : 32,
+			"increment" : 0.4
+		},
+		"gravity" : 
+		{
+			"start" : 2.45,
+			"max" : 9.8,
+			"increment" : 0.04
+		},
+		"ballRestitution" :
+		{
+			"start" : 0.98,
+			"max" : 3,
+			"increment" : 0.02
+		}
+	},
+
+	"power" :
+	{
+		"start" : 0,
+		"increment" : 0.2
+	}
+}

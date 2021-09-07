@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "SpinnerGameMenuSprites.png"
+],
+
+"frames": [
+    [1, 1, 960, 500, 0, 0, 0],
+    [963, 1, 298, 235, 0, 0, 0],
+    [963, 238, 133, 217, 0, 0, 0]
+],
+
+"animations": {
+    "spinner_bg00": [0],
+    "Spinner_SongGlow": [1],
+    "spinner_arrow2": [2]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:95c1a36ad3c2eeef2854a88a400bb222:43003a4d8a81642ae88fbe9e016898c3:ec836f35e25c5f4b15bc4891d4d3d657$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

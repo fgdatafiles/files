@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ff12bfa16e0b87bc13bf231bad182155:4e963a1186659e6fa925e1daa68f2117:2caf3afed0997709798d1babbfdb33ed$ -->
+<TextureAtlas imagePath="button_spritesheet.png">
+    <SubTexture name="blue_arrow_down" x="357" y="456" width="94" height="100"/>
+    <SubTexture name="blue_arrow_up" x="386" y="356" width="94" height="100"/>
+    <SubTexture name="go_btn_down" x="115" y="352" width="78" height="82"/>
+    <SubTexture name="go_btn_up" x="115" y="270" width="78" height="82"/>
+    <SubTexture name="help_btn" x="308" y="424" width="49" height="74"/>
+    <SubTexture name="lrg_menu_btn_down" x="0" y="431" width="115" height="161"/>
+    <SubTexture name="lrg_menu_btn_up" x="193" y="343" width="115" height="161"/>
+    <SubTexture name="menu_btn_down" x="451" y="456" width="49" height="68"/>
+    <SubTexture name="menu_btn_up" x="308" y="498" width="49" height="68"/>
+    <SubTexture name="next_btn_down" x="246" y="0" width="246" height="95"/>
+    <SubTexture name="next_btn_up" x="0" y="0" width="246" height="95"/>
+    <SubTexture name="play_button_down" x="240" y="95" width="240" height="100"/>
+    <SubTexture name="play_button_up" x="0" y="95" width="240" height="100"/>
+    <SubTexture name="replay-button_up" x="0" y="270" width="115" height="161"/>
+    <SubTexture name="replay_btn_down" x="386" y="195" width="115" height="161"/>
+    <SubTexture name="skip_btn_down" x="194" y="269" width="192" height="74"/>
+    <SubTexture name="skip_btn_up" x="194" y="195" width="192" height="74"/>
+    <SubTexture name="stop_btn_dwn" x="308" y="343" width="78" height="81"/>
+    <SubTexture name="stop_btn_up" x="115" y="434" width="78" height="81"/>
+    <SubTexture name="to_game_btn_up" x="0" y="195" width="194" height="75"/>
+</TextureAtlas>

@@ -1,0 +1,102 @@
+{"frames": {
+
+"spider01.png":
+{
+	"frame": {"x":0,"y":0,"w":129,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":21,"w":129,"h":81},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider02.png":
+{
+	"frame": {"x":129,"y":0,"w":129,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":11,"w":129,"h":81},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider03.png":
+{
+	"frame": {"x":387,"y":0,"w":129,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":12,"w":129,"h":80},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider04.png":
+{
+	"frame": {"x":516,"y":0,"w":129,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":13,"w":129,"h":80},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider05.png":
+{
+	"frame": {"x":516,"y":0,"w":129,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":14,"w":129,"h":80},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider06.png":
+{
+	"frame": {"x":258,"y":0,"w":129,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":15,"w":129,"h":81},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider07.png":
+{
+	"frame": {"x":516,"y":0,"w":129,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":17,"w":129,"h":80},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider08.png":
+{
+	"frame": {"x":516,"y":0,"w":129,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":19,"w":129,"h":80},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider09.png":
+{
+	"frame": {"x":0,"y":0,"w":129,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":21,"w":129,"h":81},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spider10.png":
+{
+	"frame": {"x":0,"y":0,"w":129,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":21,"w":129,"h":81},
+	"sourceSize": {"w":150,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spider.png",
+	"format": "RGBA8888",
+	"size": {"w":645,"h":81},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cfa4a611cc54d606f77386604b6f041d:2e456c1c7d4ab2e4e2a4440eda7b2e10:1061686de59298529f6a4fc7550209ec$"
+}
+}

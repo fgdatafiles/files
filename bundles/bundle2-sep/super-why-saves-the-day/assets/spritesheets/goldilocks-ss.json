@@ -1,0 +1,56 @@
+{
+
+"images": [
+    "assets/spritesheets/goldilocks-ss.png"
+],
+
+"frames": [
+    [1, 1, 1428, 269, 0, 0, 0],
+    [1, 272, 1428, 265, 0, 0, 0],
+    [1431, 1, 555, 330, 0, 0, 0],
+    [1, 539, 482, 400, 0, 0, 0],
+    [485, 539, 640, 123, 0, 0, 0],
+    [485, 664, 597, 112, 0, 0, 0],
+    [1431, 333, 484, 183, 0, 0, 0],
+    [485, 778, 506, 72, 0, 0, 0],
+    [485, 852, 445, 83, 0, 0, 0],
+    [1127, 539, 332, 127, 0, 0, 0],
+    [1461, 518, 324, 225, 0, 0, 0],
+    [1084, 668, 333, 120, 0, 0, 0],
+    [1787, 518, 150, 232, 0, 0, 0],
+    [1419, 745, 307, 50, 0, 0, 0],
+    [993, 790, 294, 123, 0, 0, 0],
+    [1289, 790, 127, 71, 0, 0, 0],
+    [1418, 797, 155, 76, 0, 0, 0],
+    [1575, 797, 132, 112, 0, 0, 0],
+    [1728, 752, 154, 161, 0, -4, -90]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_ground": [1],
+    "bg_househill": [2],
+    "mg_tree1": [3],
+    "mg_hill2": [4],
+    "mg_hill4": [5],
+    "bg_hill1": [6],
+    "bg_hill2": [7],
+    "mg_hill1": [8],
+    "bg_cloud1": [9],
+    "mg_tree2": [10],
+    "bg_cloud3": [11],
+    "characterEnd": [12],
+    "mg_hill3": [13],
+    "bg_cloud2": [14],
+    "fg_mushrooms": [15],
+    "fg_bush": [16],
+    "bg_sun": [17],
+    "characterStart": [18]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:98fa05d9167e854ae67653eb06e3a90d:d0b969aa1e8a9fddd5a4cfc2e7d7238a:0faabe7252594acd82b6b29fb46b202b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

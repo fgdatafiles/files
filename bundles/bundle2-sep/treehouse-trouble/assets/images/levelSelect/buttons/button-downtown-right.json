@@ -1,0 +1,44 @@
+{"frames": {
+
+"button-downtown-right-default.png":
+{
+	"frame": {"x":2,"y":2,"w":198,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":128},
+	"sourceSize": {"w":198,"h":128}
+},
+"button-downtown-right-disabled.png":
+{
+	"frame": {"x":204,"y":2,"w":198,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":128},
+	"sourceSize": {"w":198,"h":128}
+},
+"button-downtown-right-hover.png":
+{
+	"frame": {"x":406,"y":2,"w":198,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":128},
+	"sourceSize": {"w":198,"h":128}
+},
+"button-downtown-right-pressed.png":
+{
+	"frame": {"x":608,"y":2,"w":198,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":128},
+	"sourceSize": {"w":198,"h":128}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "button-downtown-right.png",
+	"format": "RGBA8888",
+	"size": {"w":808,"h":132},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7a59390c26ada20d83f18689c126a3e:c6a1cd7f472751005a4c3b53fad7755d:f002063900dfc5995d1a1612b5350310$"
+}
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fcc048530d59adbe292af8d94363b388:807d149670187ca226711266ae101d7d:e770d7463d5d231865597d9b8f38c11c$ -->
+<TextureAtlas imagePath="loader.png">
+    <SubTexture name="loader_00" x="501" y="1" width="99" height="90" frameX="-2" frameY="-4" frameWidth="103" frameHeight="98"/>
+    <SubTexture name="loader_01" x="401" y="1" width="99" height="90" frameX="-2" frameY="-4" frameWidth="103" frameHeight="98"/>
+    <SubTexture name="loader_02" x="301" y="1" width="99" height="90" frameX="-2" frameY="-4" frameWidth="103" frameHeight="98"/>
+    <SubTexture name="loader_03" x="201" y="1" width="99" height="90" frameX="-2" frameY="-4" frameWidth="103" frameHeight="98"/>
+    <SubTexture name="loader_04" x="101" y="1" width="99" height="90" frameX="-2" frameY="-4" frameWidth="103" frameHeight="98"/>
+    <SubTexture name="loader_05" x="1" y="1" width="99" height="90" frameX="-2" frameY="-4" frameWidth="103" frameHeight="98"/>
+</TextureAtlas>

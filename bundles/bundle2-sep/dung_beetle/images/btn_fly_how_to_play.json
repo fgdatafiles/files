@@ -1,0 +1,30 @@
+{"frames": {
+
+"fly02_anim0001.png":
+{
+	"frame": {"x":154,"y":0,"w":154,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":9,"w":154,"h":94},
+	"sourceSize": {"w":165,"h":108},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fly02_anim0002.png":
+{
+	"frame": {"x":0,"y":0,"w":154,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":154,"h":101},
+	"sourceSize": {"w":165,"h":108},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_fly_how_to_play.png",
+	"format": "RGBA8888",
+	"size": {"w":308,"h":101},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2309c2e429028f81f670da9b2754c608:64c24b9d55f98da0a47c3c51f8a62e63:7af476997294c14f4614beca78e73cca$"
+}
+}

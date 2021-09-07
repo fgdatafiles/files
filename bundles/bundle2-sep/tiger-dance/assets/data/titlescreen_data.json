@@ -1,0 +1,34 @@
+{
+  "manifest": [
+    {
+      "id": "titleBG",
+      "src": "assets/images/titlecard.jpg",
+      "type": "image"
+    },
+    {
+      "id": "titleSheet",
+      "src": "assets/sheets/titlescreen.json",
+      "type": "spritesheet"
+    },
+    {
+      "id": "titleclick",
+      "src": "assets/audio/toggle.mp3",
+      "type": "audio"
+    }
+  ],
+  "image": "titleBG",
+  "playButton": {
+    "art": {
+      "sheet": "titleSheet",
+      "up": "playBtn",
+      "down": "playBtnDown",
+      "over": "playBtnDown"
+    },
+    "position": {
+      "x": 0.5,
+      "y": 0.85
+    },
+    "align": "center"
+  },
+  "audio": ""
+}

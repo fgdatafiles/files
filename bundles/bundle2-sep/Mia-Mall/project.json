@@ -1,0 +1,1 @@
+{"languageJson": false, "gameId": "RunGame", "version": 1.0, "language": "zh", "domainAllowed": [], "preloader": "flax.Preloader", "frameRate": 60, "height": 640, "width": 360, "rotateImg": "", "loading": "res/logo.png", "project_type": "javascript", "id": "gameCanvas", "debugMode": 1, "renderMode": 1, "showFPS": false, "landscape": false}

@@ -1,0 +1,52 @@
+{
+
+"images": [
+    "assets/spritesheets/duckling-ss.png"
+],
+
+"frames": [
+    [1, 1, 1429, 269, 0, 0, 0],
+    [1432, 1, 554, 196, 0, 0, 0],
+    [1432, 199, 554, 63, 0, 0, 0],
+    [1, 272, 1427, 265, 0, 0, 0],
+    [1, 539, 659, 227, 0, 0, 0],
+    [662, 539, 200, 217, 0, 0, 0],
+    [864, 539, 715, 213, 0, 0, 0],
+    [1430, 272, 327, 191, 0, 0, 0],
+    [1430, 465, 214, 64, 0, 0, 0],
+    [1759, 264, 243, 82, 0, 0, 0],
+    [1759, 348, 226, 60, 0, 0, 0],
+    [1759, 410, 224, 86, 0, 0, 0],
+    [1646, 465, 76, 101, 0, 0, -12],
+    [1724, 498, 284, 84, 0, 0, 0],
+    [1581, 584, 152, 123, 0, 0, 0],
+    [1735, 584, 224, 85, 0, 0, 0],
+    [1961, 584, 73, 100, 0, -274, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_hills2": [1],
+    "bg_hills3": [2],
+    "bg_ground": [3],
+    "mg_cattails1": [4],
+    "mg_cattails2": [5],
+    "bg_hills1": [6],
+    "mg_cattails3": [7],
+    "bg_cloud2": [8],
+    "fg_grass2": [9],
+    "fg_grass3": [10],
+    "bg_cloud3": [11],
+    "characterEnd": [12],
+    "fg_grass1": [13],
+    "bg_sun": [14],
+    "bg_cloud1": [15],
+    "characterStart": [16]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:baa5cb68d02d524d742ac97d1b4e6bab:c136aba3eeeebb480f203725327d1195:3091adef21b4d63fc79c79b0add82993$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

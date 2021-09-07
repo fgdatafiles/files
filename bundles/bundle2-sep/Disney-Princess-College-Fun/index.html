@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Disney Princess College Fun </title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no,target-densitydpi=device-dpi"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="true"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <script src="jquery-1.7.2.min.js"></script>
+ 
+</head>
+<body>
+<link rel="stylesheet" href="game.css" />
+<script src="MGFramework-2.0.0.js?v=15915"></script>
+<canvas id="gameCanvas" width="640" height="480"></canvas>
+<script src="game.min.js"></script>
+<script>
+    MGF.gamename = "Disney Princess College Fun";
+    MGF.nameid = "Disney-Princess-College-Fun";
+    MGF.gameWidth = 640;
+    MGF.gameHeight = 480;
+	MGF.language = "zh-CN";
+	MGF.showmsgs["zh-CN"] = " ";
+    MGF.instance.startup(MGF.gamename, MGF.nameid, false);
+</script>
+</body>
+</html>

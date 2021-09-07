@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "./assets/sheets/themes/Robot.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 654, 693, 0, -1, 0],
+    [657, 1, 553, 443, 0, 0, 0],
+    [1212, 1, 495, 551, 0, 0, 0],
+    [657, 446, 539, 444, 0, 0, 0],
+    [1198, 554, 336, 382, 0, -12, 0]
+],
+
+"animations": {
+    "Robot_Spaceship_01": { "frames": [0] },
+    "Robot_Planet_01": { "frames": [1] },
+    "Robot_Robot_01": { "frames": [2] },
+    "Robot_SSystem_01": { "frames": [3] },
+    "Robot_Rocket_01": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:6a29840c075a74e4301de72002c46309:7ea3d5a9804263a685be40d16fb6f751:a5a487e6b2c06ec9abb9f82e0b3f7d93$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,48 @@
+{
+
+"images": [
+    "assets/spritesheets/pea-ss.png"
+],
+
+"frames": [
+    [1, 1, 1427, 269, 0, 0, 0],
+    [1430, 1, 286, 263, 0, 0, 0],
+    [1718, 1, 217, 300, 0, 0, 0],
+    [1430, 266, 202, 321, 0, 0, -113],
+    [1634, 303, 193, 269, 0, 0, 0],
+    [1829, 303, 179, 265, 0, 0, 0],
+    [1829, 570, 179, 95, 0, 0, 0],
+    [1634, 574, 186, 88, 0, 0, 0],
+    [1, 589, 172, 92, 0, 0, 0],
+    [1, 272, 1427, 267, 0, 0, 0],
+    [175, 541, 640, 160, 0, 0, 0],
+    [817, 541, 182, 175, 0, 0, 0],
+    [1001, 541, 170, 92, 0, 0, 0],
+    [1173, 541, 146, 100, 0, -210, -22],
+    [1001, 635, 109, 60, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "mg_castle": [1],
+    "fg_tree": [2],
+    "characterEnd": [3],
+    "mg_tree": [4],
+    "mg_foliage": [5],
+    "bg_cloud2": [6],
+    "mg_vine": [7],
+    "bg_cloud3": [8],
+    "bg_ground": [9],
+    "bg_hills": [10],
+    "bg_sun": [11],
+    "bg_cloud1": [12],
+    "characterStart": [13],
+    "mg_bush": [14]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:5c7b89b432537541231c5a17310b1913:a79c79db1eec01b2cec6c4dc606bf3d1:eb700d30b259dd35fad5a97cf248c782$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,1 @@
+{"languageJson": false, "gameId": "Ginger-Car-Cleaning", "version": 1.0, "language": "en", "domainAllowed": [], "preloader": "flax.Preloader", "frameRate": 60, "height": 600, "width": 800, "rotateImg": "", "loading": "res/logo.png", "project_type": "javascript", "id": "gameCanvas", "debugMode": 1, "renderMode": 1, "showFPS": false, "landscape": false}

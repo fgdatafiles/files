@@ -1,0 +1,977 @@
+{
+	"chrissie_wiggle_01": [
+		{
+			"content": "Giddyup! It's time to dance like we're in the wild west!",
+			"start": 0,
+			"end": 4140
+		},
+		{
+			"content": "Will you be my dance partner?",
+			"start": 4467,
+			"end": 6177
+		}
+	],
+	"chrissie_wiggle_02": [
+		{
+			"content": "(Chrissie) Clap your hands!",
+			"start": 0,
+			"end": 1610
+		}
+	],
+	"chrissie_wiggle_03": [
+		{
+			"content": "(Chrissie) Let's sha-a-a-ke!",
+			"start": 0,
+			"end": 2450
+		}
+	],
+	"chrissie_wiggle_04": [
+		{
+			"content": "(Chrissie) Now, wave!",
+			"start": 0,
+			"end": 1360
+		}
+	],
+	"chrissie_wiggle_05": [
+		{
+			"content": "(Chrissie) Altogether now...",
+			"start": 16,
+			"end": 1306
+		}
+	],
+	"chrissie_wiggle_06": [
+		{
+			"content": "Yeehaw! That was so fun!",
+			"start": 0,
+			"end": 3000
+		},
+		{
+			"content": "Dancing can be done in all sorts of ways... ",
+			"start": 3177,
+			"end": 5937
+		},
+		{
+			"content": "how do you like to dance?",
+			"start": 6127,
+			"end": 8057
+		}
+	],
+	"chrissie_wiggle_07": [
+		{
+			"content": "(Chrissie) I shake like this!",
+			"start": 0,
+			"end": 3160
+		}
+	],
+	"chrissie_wiggle_08": [
+		{
+			"content": "(Chrissie) This is how I clap!",
+			"start": 0,
+			"end": 1630
+		}
+	],
+	"DTN_ClosingTheme_Instrumental": [
+		{
+			"content": "[♪ Daniel Tiger Closing Theme Instrumental]",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"DanielTigerMusic_O_the_Owl": [
+		{
+			"content": "♪",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"WiggleWhatever_Chrissie_Music": [
+		{
+			"content": "♪",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"WiggleWhatever_Daniel_Music": [
+		{
+			"content": "♪",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"WiggleWhatever_Jodi_Music": [
+		{
+			"content": "♪",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"WiggleWhatever_Katerina_Music": [
+		{
+			"content": "♪",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"WiggleWhatever_Miss_Elaina_Music": [
+		{
+			"content": "♪",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"WiggleWhatever_Wednesday_Music": [
+		{
+			"content": "♪",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"chrissie_wiggle_09": [
+		{
+			"content": "(Chrissie) This is how I twist!",
+			"start": 0,
+			"end": 2300
+		}
+	],
+	"chrissie_wiggle_13": [
+		{
+			"content": "(Chrissie) Clap!",
+			"start": 0,
+			"end": 710
+		}
+	],
+	"chrissie_wiggle_14": [
+		{
+			"content": "(Chrissie) Shaaake!",
+			"start": 0,
+			"end": 1450
+		}
+	],
+	"chrissie_wiggle_15": [
+		{
+			"content": "(Chrissie) Wave",
+			"start": 0,
+			"end": 970
+		}
+	],
+	"chrissie_wiggle_16": [
+		{
+			"content": "(Chrissie) You clap too!",
+			"start": 0,
+			"end": 1470
+		}
+	],
+	"chrissie_wiggle_17": [
+		{
+			"content": "(Chrissie) Let's shake!",
+			"start": 0,
+			"end": 1410
+		}
+	],
+	"chrissie_wiggle_18": [
+		{
+			"content": "(Chrissie) Wave with me!",
+			"start": 0,
+			"end": 1420
+		}
+	],
+	"daniel_wiggle_01": [
+		{
+			"content": "Hi Neighbor!",
+			"start": 0,
+			"end": 1210
+		},
+		{
+			"content": "We're having a dance party.",
+			"start": 1338,
+			"end": 3278
+		},
+		{
+			"content": "We all dance in our own way, you can dance with us.",
+			"start": 3357,
+			"end": 7957
+		}
+	],
+	"daniel_wiggle_02": [
+		{
+			"content": "Pick one of us to lead a dance.",
+			"start": 0,
+			"end": 2440
+		},
+		{
+			"content": "You can dance with your legs... or your arms... or your eyebrows.",
+			"start": 2620,
+			"end": 8340
+		},
+		{
+			"content": "(Giggles)",
+			"start": 9160,
+			"end": 10090
+		}
+	],
+	"daniel_wiggle_03": [
+		{
+			"content": "Let's do my... Tigertastic Jungle Dance!",
+			"start": 0,
+			"end": 4160
+		},
+		{
+			"content": "Roar!",
+			"start": 4230,
+			"end": 6250
+		},
+		{
+			"content": "I'll show you how... you do it with me!",
+			"start": 6720,
+			"end": 10850
+		}
+	],
+	"daniel_wiggle_04": [
+		{
+			"content": "That was grr-ific!",
+			"start": 0,
+			"end": 1920
+		},
+		{
+			"content": "Do you want to dance some more?",
+			"start": 2150,
+			"end": 4030
+		}
+	],
+	"daniel_wiggle_05": [
+		{
+			"content": "Phew! That was fun.",
+			"start": 0,
+			"end": 1980
+		},
+		{
+			"content": "There are so many ways to dance.",
+			"start": 2160,
+			"end": 4970
+		}
+	],
+	"daniel_wiggle_06": [
+		{
+			"content": "(Daniel) First, we jump!",
+			"start": 0,
+			"end": 1480
+		}
+	],
+	"daniel_wiggle_07": [
+		{
+			"content": "(Daniel) Then we wiggle!",
+			"start": 0,
+			"end": 2600
+		},
+		{
+			"content": "I wiggle my tail!",
+			"start": 2835,
+			"end": 4475
+		}
+	],
+	"daniel_wiggle_08": [
+		{
+			"content": "(Daniel) Then we roar!",
+			"start": 0,
+			"end": 1620
+		},
+		{
+			"content": "Roar!",
+			"start": 1780,
+			"end": 3880
+		}
+	],
+	"daniel_wiggle_09": [
+		{
+			"content": "Roar!",
+			"start": 0,
+			"end": 1090
+		}
+	],
+	"daniel_wiggle_10": [
+		{
+			"content": "(Daniel) Altogether now!",
+			"start": 0,
+			"end": 1250
+		}
+	],
+	"daniel_wiggle_14": [
+		{
+			"content": "(Daniel Robot Voice) I move like a bouncy robot.",
+			"start": 0,
+			"end": 2190
+		}
+	],
+	"daniel_wiggle_15": [
+		{
+			"content": "(Daniel) I wiggle my ♪ tail!",
+			"start": 0,
+			"end": 1450
+		}
+	],
+	"daniel_wiggle_16": [
+		{
+			"content": "(Daniel) I do a star jump!",
+			"start": 0,
+			"end": 1660
+		}
+	],
+	"daniel_wiggle_17": [
+		{
+			"content": "(Daniel) Jump!",
+			"start": 0,
+			"end": 1130
+		}
+	],
+	"daniel_wiggle_18": [
+		{
+			"content": "(Daniel) Wiggle!",
+			"start": 0,
+			"end": 1760
+		}
+	],
+	"daniel_wiggle_19": [
+		{
+			"content": "Roar!",
+			"start": 0,
+			"end": 1550
+		}
+	],
+	"daniel_wiggle_20": [
+		{
+			"content": "(Daniel) Let's jump!",
+			"start": 0,
+			"end": 1090
+		}
+	],
+	"daniel_wiggle_21": [
+		{
+			"content": "(Daniel) You can wiggle too!",
+			"start": 0,
+			"end": 1500
+		}
+	],
+	"daniel_wiggle_22": [
+		{
+			"content": "(Daniel) Roar with me!",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"daniel_wiggle_23": [
+		{
+			"content": "Pick a friend to see how they dance",
+			"start": 0,
+			"end": 2340
+		},
+		{
+			"content": "You can follow along...or dance in your own way!",
+			"start": 2528,
+			"end": 5828
+		}
+	],
+	"daniel_wiggle_24": [
+		{
+			"content": "Pick a friend to try their dance.",
+			"start": 0,
+			"end": 2220
+		}
+	],
+	"daniel_wiggle_25": [
+		{
+			"content": "Dance Party!",
+			"start": 0,
+			"end": 1300
+		}
+	],
+	"elaina_wiggle_01": [
+		{
+			"content": "Al-right!",
+			"start": 0,
+			"end": 1500
+		},
+		{
+			"content": "[Robot Voice] Let's do the robot dance, beep boop.",
+			"start": 1678,
+			"end": 5218
+		},
+		{
+			"content": "[giggling]",
+			"start": 5696,
+			"end": 7986
+		}
+	],
+	"elaina_wiggle_02": [
+		{
+			"content": "(Miss Elaina) Okay! First we beh-eh-end (bend)!",
+			"start": 0,
+			"end": 3390
+		}
+	],
+	"elaina_wiggle_03": [
+		{
+			"content": "(Miss Elaina) Then we sh-a-a-ake",
+			"start": 0,
+			"end": 2720
+		},
+		{
+			"content": "[Miss Elaina Robot Voice] Ha. Ha. Ha.",
+			"start": 2980,
+			"end": 4330
+		}
+	],
+	"elaina_wiggle_04": [
+		{
+			"content": "(Miss Elaina) Then we move... [robot voice] like a robot",
+			"start": 60,
+			"end": 3850
+		}
+	],
+	"elaina_wiggle_05": [
+		{
+			"content": "(Miss Elaina) Altogther now!",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"elaina_wiggle_06": [
+		{
+			"content": "That was boomerific!",
+			"start": 0,
+			"end": 2190
+		},
+		{
+			"content": "It's fun to dance with friends.",
+			"start": 2271,
+			"end": 4261
+		}
+	],
+	"elaina_wiggle_10": [
+		{
+			"content": "(Miss Elaina) This is how I march!",
+			"start": 0,
+			"end": 1720
+		}
+	],
+	"elaina_wiggle_11": [
+		{
+			"content": "(Miss Elaina) I shake my arms!",
+			"start": 0,
+			"end": 2440
+		}
+	],
+	"elaina_wiggle_12": [
+		{
+			"content": "(Miss Elaina) I bend up [pop] and down",
+			"start": 0,
+			"end": 2720
+		}
+	],
+	"elaina_wiggle_13": [
+		{
+			"content": "(Miss Elaina) Bend",
+			"start": 0,
+			"end": 720
+		}
+	],
+	"elaina_wiggle_14": [
+		{
+			"content": "(Miss Elaina, shaking) Sha-a-ake!",
+			"start": 0,
+			"end": 1270
+		}
+	],
+	"elaina_wiggle_15": [
+		{
+			"content": "(Miss Elaina) [Robot Voice] Do the robot",
+			"start": 0,
+			"end": 1390
+		}
+	],
+	"elaina_wiggle_16": [
+		{
+			"content": "(Miss Elaina) Bend with us",
+			"start": 0,
+			"end": 1320
+		}
+	],
+	"elaina_wiggle_17": [
+		{
+			"content": "(Miss Elaina) Shake your body",
+			"start": 0,
+			"end": 1390
+		}
+	],
+	"elaina_wiggle_18": [
+		{
+			"content": "(Miss Elaina) Show us your robot moves",
+			"start": 0,
+			"end": 2780
+		}
+	],
+	"jodi_wiggle_01": [
+		{
+			"content": "My turn!",
+			"start": 0,
+			"end": 1340
+		},
+		{
+			"content": "Will you try the Underwater Wiggle with me?",
+			"start": 1520,
+			"end": 5180
+		}
+	],
+	"jodi_wiggle_02": [
+		{
+			"content": "(Jodi) Ok...first...we wiggle!",
+			"start": 0,
+			"end": 2670
+		}
+	],
+	"jodi_wiggle_03": [
+		{
+			"content": "(Jodi) Then, we jump!",
+			"start": 75,
+			"end": 2075
+		}
+	],
+	"jodi_wiggle_04": [
+		{
+			"content": "(Jodi) Last, you twist! Like a fish!",
+			"start": 0,
+			"end": 2900
+		}
+	],
+	"jodi_wiggle_05": [
+		{
+			"content": "(Jodi) Altogether now!",
+			"start": 0,
+			"end": 1210
+		}
+	],
+	"jodi_wiggle_06": [
+		{
+			"content": "[giggling] That was fun neighbor!",
+			"start": 0,
+			"end": 2330
+		},
+		{
+			"content": "Would you like to do another dance?",
+			"start": 2550,
+			"end": 4810
+		}
+	],
+	"jodi_wiggle_07": [
+		{
+			"content": "(Jodi) [Silly wiggle voice] I wiggle my whole body.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"jodi_wiggle_11": [
+		{
+			"content": "(Jodi) I twirl in a circle",
+			"start": 0,
+			"end": 2160
+		}
+	],
+	"jodi_wiggle_12": [
+		{
+			"content": "(Jodi) I waaaave my arms",
+			"start": 0,
+			"end": 2510
+		}
+	],
+	"jodi_wiggle_13": [
+		{
+			"content": "(Jodi) Wiggle!",
+			"start": 0,
+			"end": 960
+		}
+	],
+	"jodi_wiggle_14": [
+		{
+			"content": "(Jodi) Jump!",
+			"start": 0,
+			"end": 730
+		}
+	],
+	"jodi_wiggle_15": [
+		{
+			"content": "(Jodi) Twist!",
+			"start": 0,
+			"end": 670
+		}
+	],
+	"jodi_wiggle_16": [
+		{
+			"content": "(Jodi) [giggles] Now you wiggle!",
+			"start": 0,
+			"end": 1670
+		}
+	],
+	"jodi_wiggle_17": [
+		{
+			"content": "(Jodi) Jump with me!",
+			"start": 0,
+			"end": 1010
+		}
+	],
+	"jodi_wiggle_18": [
+		{
+			"content": "(Jodi) Let's see you twist!",
+			"start": 0,
+			"end": 1300
+		}
+	],
+	"kat_wiggle_01": [
+		{
+			"content": "Purr-fect!",
+			"start": 0,
+			"end": 1230
+		},
+		{
+			"content": "Let's try the Butterfly Ballet",
+			"start": 1400,
+			"end": 4730
+		},
+		{
+			"content": "I'll show you how, meow meow",
+			"start": 5140,
+			"end": 6940
+		}
+	],
+	"kat_wiggle_02": [
+		{
+			"content": "(Katerina) First we [long] stretch!",
+			"start": 0,
+			"end": 2560
+		}
+	],
+	"kat_wiggle_03": [
+		{
+			"content": "(Katerina) Then, we bend down",
+			"start": 0,
+			"end": 2160
+		}
+	],
+	"kat_wiggle_04": [
+		{
+			"content": "(Katerina) And last... we twirl! meow meow!",
+			"start": 0,
+			"end": 3940
+		}
+	],
+	"kat_wiggle_05": [
+		{
+			"content": "(Katerina) Altogether now!",
+			"start": 0,
+			"end": 1140
+		}
+	],
+	"kat_wiggle_06": [
+		{
+			"content": "That was so so fun!",
+			"start": 0,
+			"end": 2210
+		},
+		{
+			"content": "Would you like to keep dancing?",
+			"start": 2300,
+			"end": 4460
+		}
+	],
+	"kat_wiggle_07": [
+		{
+			"content": "(Katerina) This is how I roar",
+			"start": 0,
+			"end": 1940
+		}
+	],
+	"kat_wiggle_08": [
+		{
+			"content": "(Katerina) I bend down to my toes!",
+			"start": 0,
+			"end": 2110
+		}
+	],
+	"kat_wiggle_09": [
+		{
+			"content": "(Katerina) I stretch side to side",
+			"start": 0,
+			"end": 2580
+		}
+	],
+	"kat_wiggle_13": [
+		{
+			"content": "(Katerina) Stretch!",
+			"start": 0,
+			"end": 1410
+		}
+	],
+	"kat_wiggle_14": [
+		{
+			"content": "(Katerina) Bend!",
+			"start": 0,
+			"end": 600
+		}
+	],
+	"kat_wiggle_15": [
+		{
+			"content": "(Katerina) [Giggling] Twirl!",
+			"start": 0,
+			"end": 1780
+		}
+	],
+	"kat_wiggle_16": [
+		{
+			"content": "(Katerina) Let's stretch",
+			"start": 0,
+			"end": 1140
+		}
+	],
+	"kat_wiggle_17": [
+		{
+			"content": "(Katerina) Now you bend",
+			"start": 0,
+			"end": 1490
+		}
+	],
+	"kat_wiggle_18": [
+		{
+			"content": "(Katerina) Twirl with me!",
+			"start": 0,
+			"end": 1190
+		}
+	],
+	"kat_wiggle_19": [
+		{
+			"content": "Roar, roar!",
+			"start": 0,
+			"end": 1480
+		}
+	],
+	"o_wiggle_01": [
+		{
+			"content": "This is my Starry Swing dance",
+			"start": 0,
+			"end": 2800
+		},
+		{
+			"content": "Will you dance with me, hoo hoo?",
+			"start": 2930,
+			"end": 4850
+		}
+	],
+	"o_wiggle_02": [
+		{
+			"content": "(O) First we stretch up to the sky",
+			"start": 0,
+			"end": 3270
+		}
+	],
+	"o_wiggle_03": [
+		{
+			"content": "(O) Then we Jump Up real high",
+			"start": 0,
+			"end": 2740
+		}
+	],
+	"o_wiggle_04": [
+		{
+			"content": "(O) Last, you flap your... well... I flap my wings.",
+			"start": 0,
+			"end": 4650
+		}
+	],
+	"o_wiggle_05": [
+		{
+			"content": "(O) Altogether now!",
+			"start": 0,
+			"end": 1260
+		}
+	],
+	"o_wiggle_06": [
+		{
+			"content": "Thanks for dancing with me, hoo hoo!",
+			"start": 0,
+			"end": 2300
+		},
+		{
+			"content": "Do you want to try another dance?",
+			"start": 2660,
+			"end": 5120
+		}
+	],
+	"o_wiggle_07": [
+		{
+			"content": "(O) This is how I jump",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"o_wiggle_11": [
+		{
+			"content": "(O) I jump up into the air... hoo hoo!",
+			"start": 0,
+			"end": 3370
+		}
+	],
+	"o_wiggle_12": [
+		{
+			"content": "(O) I stretch one wing at a time",
+			"start": 0,
+			"end": 2300
+		}
+	],
+	"o_wiggle_13": [
+		{
+			"content": "(O) Stretch!",
+			"start": 0,
+			"end": 1410
+		}
+	],
+	"o_wiggle_14": [
+		{
+			"content": "(O) Jump!",
+			"start": 0,
+			"end": 1130
+		}
+	],
+	"o_wiggle_15": [
+		{
+			"content": "(O) Flap, hoo hoo!",
+			"start": 0,
+			"end": 1550
+		}
+	],
+	"o_wiggle_16": [
+		{
+			"content": "(O) Let's stretch!",
+			"start": 0,
+			"end": 1700
+		}
+	],
+	"o_wiggle_17": [
+		{
+			"content": "(O) [Giggling] Jump with me!",
+			"start": 0,
+			"end": 1650
+		}
+	],
+	"o_wiggle_18": [
+		{
+			"content": "(O) You can flap your arms",
+			"start": 0,
+			"end": 1620
+		}
+	],
+	"wednesday_wiggle_01": [
+		{
+			"content": "Boop-she Boop-she Boo!",
+			"start": 0,
+			"end": 1610
+		},
+		{
+			"content": "I'll show you the Royal Dragon March!",
+			"start": 1690,
+			"end": 5760
+		}
+	],
+	"wednesday_wiggle_02": [
+		{
+			"content": "(Prince Wednesday) First we do... a silly wiggle!",
+			"start": 0,
+			"end": 3820
+		}
+	],
+	"wednesday_wiggle_03": [
+		{
+			"content": "(Prince Wednesday) Then, we clap!",
+			"start": 0,
+			"end": 1510
+		}
+	],
+	"wednesday_wiggle_04": [
+		{
+			"content": "(Prince Wednesday) Now we march!",
+			"start": 0,
+			"end": 1830
+		}
+	],
+	"wednesday_wiggle_05": [
+		{
+			"content": "(Prince Wednesday) Altogether now!",
+			"start": 0,
+			"end": 1450
+		}
+	],
+	"wednesday_wiggle_06": [
+		{
+			"content": "That was royally fun!",
+			"start": 0,
+			"end": 2160
+		},
+		{
+			"content": "I like trying new dances, which dance do you wanna try next?",
+			"start": 2440,
+			"end": 6450
+		}
+	],
+	"wednesday_wiggle_10": [
+		{
+			"content": "(Prince Wednesday) I flap my arms up and down",
+			"start": 0,
+			"end": 2970
+		}
+	],
+	"wednesday_wiggle_11": [
+		{
+			"content": "(Prince Wednesday) I do a BIG clap",
+			"start": 0,
+			"end": 2110
+		}
+	],
+	"wednesday_wiggle_12": [
+		{
+			"content": "(Prince Wednesday) [Giggling] Wiggle!",
+			"start": 0,
+			"end": 1270
+		}
+	],
+	"wednesday_wiggle_13": [
+		{
+			"content": "(Prince Wednesday) Clap",
+			"start": 0,
+			"end": 1130
+		}
+	],
+	"wednesday_wiggle_14": [
+		{
+			"content": "(Prince Wednesday) [long] March",
+			"start": 0,
+			"end": 2550
+		}
+	],
+	"wednesday_wiggle_15": [
+		{
+			"content": "(Prince Wednesday) Let's Wiggle!",
+			"start": 0,
+			"end": 1940
+		}
+	],
+	"wednesday_wiggle_16": [
+		{
+			"content": "(Prince Wednesday) Clap with me!",
+			"start": 0,
+			"end": 900
+		}
+	],
+	"wednesday_wiggle_17": [
+		{
+			"content": "(Prince Wednesday) You can march too!",
+			"start": 0,
+			"end": 1180
+		}
+	]
+}

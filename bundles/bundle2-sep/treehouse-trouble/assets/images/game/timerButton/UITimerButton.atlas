@@ -1,0 +1,55 @@
+
+UITimerButton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackgroundAtt
+  rotate: false
+  xy: 144, 165
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+DripAtt
+  rotate: false
+  xy: 144, 155
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+FailAtt
+  rotate: false
+  xy: 2, 54
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+HourGlassBackAtt
+  rotate: false
+  xy: 78, 148
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+NotifyAtt
+  rotate: false
+  xy: 2, 145
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+SandBottomAtt
+  rotate: false
+  xy: 2, 2
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+SandTopAtt
+  rotate: false
+  xy: 78, 96
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1

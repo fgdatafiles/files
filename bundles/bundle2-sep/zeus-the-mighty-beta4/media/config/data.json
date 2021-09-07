@@ -1,0 +1,493 @@
+{
+  "settings":{
+    "musicVolume": 0.5,
+    "totalLives": 3,
+    "questionCoinReward": 5,
+    "coinAmountForExtraLife": 20,
+    "coinAmountForObstacleHit": 3,
+    "coinAmountLostForFalling": 5,
+    "gravity": 2000,
+    "athenaScale": 1.0,
+    "playerScale": 1.0,
+    "playerSpeed": 300,
+    "playerJumpVelocity": 870,
+    "playerHurtVelocityX": 100,
+    "playerHurtVelocityY": -500,
+    "playerRunningJumpVelocityMultiplier": 0.18,
+    "doubleJumpAmount": 1,
+    "doubleJumpHeightMultiplier": 0.9,
+    "platformSingleJumpDistance" : 130,
+    "platformRunningJumpDistance" : 150,
+    "platformDoubleJumpDistance" : 210,
+    "travelSpeedIncreaseRate" : 0.02,
+    "travelSpeedIncreaseLevelMultipler" : 0.25,
+    "travelSpeedMax" : 200,
+    "platformsPerLevel": 15,
+    "showSinglePlatformStartingAtLevel": 5,
+    "levelLandedDropSpeed" : 350,
+    "allowMovingPlatforms": "true",
+    "movingPlatformLastLevelToIncreaseProbability": 15,
+    "shuffleQuestions" : "true",
+    "allowClouds": "false",
+    "levelMaxForLowResultsFeedback": 1,
+    "levelMaxForMediumResultsFeedback": 5,
+    "allowMobileScroll": "false"
+  },
+  "copy":{
+    "LANDING_COPY": "Help Zeus climb Mount Olympus by scaling obstacles and answering questions about ancient Greece.",
+    "TUTORIAL_BEGIN": "Jump to begin!",
+    "TUTORIAL_FIRST_QUESTION": "Answer questions to continue your journey!",
+    "SPACE_BAR": "SPACE BAR",
+    "LEVEL": "LEVEL",
+    "YOU_LOST_A_LIFE": "You lost a life.",
+    "DOUBLE_TAP_TO_JUMP": "DOUBLE TAP\nTO JUMP HIGHER!",
+    "HELP_BULLET_1_MOBILE": "Use the arrow \nbuttons to climb.",
+    "HELP_BULLET_1_DESKTOP": "Use the space bar or the up arrow to jump and the left and right arrow keys to move.",
+    "HELP_BULLET_2": "Help Zeus climb the levels, but watch out for gray obstacles!",
+    "HELP_BULLET_3": "Answer questions about ancient Greece.",
+    "HELP_BULLET_4": "Collect ##COIN_AMOUNT## coins to earn an extra life.",
+    "NEGATIVE_FEEDBACK_OPTIONS": [
+      "Nice try.",
+      "So close!",
+      "Try again.",
+      "Uh-oh!",
+      "Oops."
+    ],
+    "POSITIVE_FEEDBACK_OPTIONS": [
+      "Great job!",
+      "Impressive!",
+      "Wow!",
+      "Fantastic!",
+      "You got it!",
+      "Amazing!",
+      "So smart!",
+      "Awesome!"
+    ],
+    "RESULTS_TITLE_OPTIONS_LOW": [
+      "Nice try.",
+      "So close!"
+    ],
+    "RESULTS_OPTIONS_LOW": [
+      "Try again.",
+      "You can do it."
+    ],
+    "RESULTS_TITLE_OPTIONS_MEDIUM": [
+      "Good!",
+      "Good job!"
+    ],
+    "RESULTS_OPTIONS_MEDIUM": [
+      "Nicely done.",
+      "Well done."
+    ],
+    "RESULTS_TITLE_OPTIONS_HIGH": [
+      "Wow!",
+      "Amazing!",
+      "So smart!",
+      "Awesome!"
+    ],
+    "RESULTS_OPTIONS_HIGH": [
+      "Fantastic!",
+      "Impressive!",
+      "You're crushing it.",
+      "Great job!",
+      "You got it!"
+    ]
+  },
+  "questions":[
+    {
+      "question": "Who was Zeus?",
+      "correct": "King of the Greek gods",
+      "incorrect": "God of light and music"
+    },
+    {
+      "question": "How many Greek gods and goddesses lived on Mount Olympus?",
+      "correct": "12 gods and goddesses",
+      "incorrect": "22 gods and goddesses"
+    },
+	  {
+      "question": "What international sporting event was inspired by the Greek gods?",
+      "correct": "The Olympics",
+      "incorrect": "The World Cup"
+    },
+	  {
+      "question": "Zeus, king of the gods, is often shown with what weapon?",
+      "correct": "A thunderbolt",
+      "incorrect": "A fireball"
+    },
+	  {
+      "question": "What did the gods eat?",
+      "correct": "Nectar and ambrosia",
+      "incorrect": "Hot dogs and cheeseburgers"
+    },
+	  {
+      "question": "Which group of gods ruled ancient Greece before Zeus?",
+      "correct": "Titans",
+      "incorrect": "Vikings"
+    },
+	  {
+      "question": "What caused earthquakes, according to ancient Greeks?",
+      "correct": "Poseidon, god of the seas, crashing his trident into the ground",
+      "incorrect": "Hades, god \nof the Underworld, getting really angry"
+    },
+	  {
+      "question": "How many heads does Cerberus, the Underworld's watchdog, have?",
+      "correct": "3 heads",
+      "incorrect": "5 heads"
+    },
+	  {
+      "question": "Which planet is named after a Greek mythological figure?",
+      "correct": "Uranus",
+      "incorrect": "Jupiter"
+    },
+	  {
+      "question": "What is the name of the pit where Uranus threw his children?",
+      "correct": "The Pit of Tartarus",
+      "incorrect": "The Pit of Despair"
+    },
+	  {
+      "question": "Which Greek god fashioned humans out of clay?",
+      "correct": "Helios, the sun god",
+      "incorrect": "Zeus, king of the gods"
+    },
+	 {
+      "question": "Who was Athena?",
+      "correct": "Goddess of wisdom and Zeus' daughter",
+      "incorrect": "Goddess of the harvest and Zeus' sister"
+   },
+	 {
+      "question": "Poseidon's trident resembles:",
+      "correct": "A giant fork",
+      "incorrect": "A giant sun"
+    },
+	 {
+      "question": "Hades, god of the Underworld, had a magical helmet that made him:",
+      "correct": "Invisible",
+      "incorrect": "Invincible"
+    },
+  	{
+      "question": "What are the spirits who guard nature called?",
+      "correct": "Nymphs",
+      "incorrect": "Satyrs"
+    },
+  	{
+      "question": "Who were the Olympians?",
+      "correct": "The group of gods and goddesses who came after the Titans",
+      "incorrect": "The best athletes in Greek mythology"
+    },
+  	{
+      "question": "Hera, goddess of women and marriage, was often shown with:",
+      "correct": "A peacock",
+      "incorrect": "A butterfly"
+    },
+  	{
+      "question": "Which city was named after Athena, goddess of wisdom?",
+      "correct": "Athens",
+      "incorrect": "Olympia"
+    },
+  	{
+      "question": "People would ask Hades, god of the Underworld, to curse their enemies by:",
+      "correct": "Writing a curse on a lead tablet and burying it",
+      "incorrect": "Shouting a curse at the sky and shaking a fist"
+    },
+  	{
+      "question": "Who is the god of war?",
+      "correct": "Ares",
+      "incorrect": "Hades"
+    },
+  	{
+      "question": "Which of the following was the legendary river to the Underworld?",
+      "correct": "The River Styx",
+      "incorrect": "The Amazon River"
+    },
+  	{
+      "question": "Who was Demeter?",
+      "correct": "Goddess of the harvest and Zeus' sister",
+      "incorrect": "Goddess of wisdom and Zeus' daughter"
+    },
+  	{
+      "question": "Why did ancient Greeks place coins in the mouths of the dead?",
+      "correct": "To pay for the ferry across the River Styx",
+      "incorrect": "To buy a chew toy for the three-headed dog, Cerberus"
+    },
+  	{
+      "question": "Who was Artemis?",
+      "correct": "Goddess of the hunt and Zeus' daughter",
+      "incorrect": "God of merrymaking and Zeus' son"
+    },
+  	{
+      "question": "Where did people who had lived a good life go after their death?",
+      "correct": "Elysium Fields",
+      "incorrect": "Tartarus"
+    },
+  	{
+      "question": "How many times can a very good person be reborn?",
+      "correct": "3 times",
+      "incorrect": "5 times"
+    },
+  	{
+      "question": "Which god invented fire?",
+      "correct": "Hermes, god of trade",
+      "incorrect": "Hephaestus, god of fire"
+    },
+  	{
+      "question": "Which item helped Hermes, god of trade, fly?",
+      "correct": "A winged helmet",
+      "incorrect": "A winged harp"
+    },
+  	{
+      "question": "Hestia is the goddess of:",
+      "correct": "Hearth and home",
+      "incorrect": "Ice and snow"
+    },
+  	{
+      "question": "Hermes, god of trade, carried a stick with snakes wrapped around it called:",
+      "correct": "A caduceus, which helped him heal mortals",
+      "incorrect": "A staff, which helped him control snakes"
+    },
+  	{
+      "question": "How was Athena, goddess of wisdom, born?",
+      "correct": "She leapt out of Zeus' head when he had a headache.",
+      "incorrect": "She popped out of a pie Zeus was about to eat."
+    },
+  	{
+      "question": "Persephone, goddess of the Underworld, is the daughter of:",
+      "correct": "Demeter",
+      "incorrect": "Hestia"
+    },
+  	{
+      "question": "Athena, goddess of war, turned Arachne, a weaver, into which animal?",
+      "correct": "A spider",
+      "incorrect": "A mouse"
+    },
+  	{
+      "question": "Which of these pairs of gods are twins?",
+      "correct": "Artemis and Apollo",
+      "incorrect": "Zeus and Poseidon"
+    },
+  	{
+      "question": "Echo the nymph can only speak:",
+      "correct": "The last few words spoken to her",
+      "incorrect": "In rhymes"
+    },
+  	{
+      "question": "Which constellation is named for Artemis' hunting partner?",
+      "correct": "Orion",
+      "incorrect": "Scorpio"
+    },
+  	{
+      "question": "Hestia, the goddess of hearth and home, is unique among the Greek gods because:",
+      "correct": "She never left Mount Olympus.",
+      "incorrect": "She lived on the mountain next to Olympus."
+    },
+  	{
+      "question": "Who gave Apollo, god of music, his lyre (a kind of harp)?",
+      "correct": "Hermes",
+      "incorrect": "Artemis"
+    },
+  	{
+      "question": "What kind of crown did Apollo, god of music and a great athlete, wear?",
+      "correct": "A laurel leaf crown",
+      "incorrect": "A golden crown"
+    },
+  	{
+      "question": "How many eyes does a cyclops have?",
+      "correct": "1 eye",
+      "incorrect": "3 eyes"
+    },
+  	{
+      "question": "Which goddess turned Medusa's golden hair into snakes?",
+      "correct": "Athena",
+      "incorrect": "Artemis"
+    },
+  	{
+      "question": "Born from sea foam, how did Aphrodite, goddess of love, first come to shore?",
+      "correct": "In a giant clam shell",
+      "incorrect": "In a chariot pulled by dolphins"
+    },
+  	{
+      "question": "Which god helped Aphrodite, goddess of love, make people fall in love?",
+      "correct": "Eros",
+      "incorrect": "Apollo"
+    },
+  	{
+      "question": "Which god is the youngest of the Olympians?",
+      "correct": "Dionysus,\ngod of merrymaking",
+      "incorrect": "Artemis, goddess of the hunt"
+    },
+  	{
+      "question": "A satyr is a creature that is half man and ... ?",
+      "correct": "Half goat",
+      "incorrect": "Half horse"
+    },
+  	{
+      "question": "Which modern event was inspired by Prometheus and his flame?",
+      "correct": "The Olympic torch relay",
+      "incorrect": "Setting off fireworks on New Year's Eve"
+    },
+  	{
+      "question": "Where did all the bad things in the world supposedly come from?",
+      "correct": "Pandora's box",
+      "incorrect": "Ares' jar"
+    },
+  	{
+      "question": "What was the job of the Fates, a group of goddesses more powerful than Zeus?",
+      "correct": "To determine how long your life was",
+      "incorrect": "To decide what job you would have"
+    },
+  	{
+      "question": "How many sisters make up the Fates, a group of goddesses more powerful than Zeus?",
+      "correct": "3 sisters",
+      "incorrect": "4 sisters"
+    },
+  	{
+      "question": "The Furies, goddesses of revenge, had what for hair?",
+      "correct": "Snakes",
+      "incorrect": "Spaghetti noodles"
+    },
+  	{
+      "question": "Who did the Greek man Narcissus fall in love with?",
+      "correct": "Himself",
+      "incorrect": "A nymph"
+    },
+  	{
+      "question": "Dike, goddess of justice, is often shown holding what?",
+      "correct": "Balance scales",
+      "incorrect": "A book"
+    },
+  	{
+      "question": "Eirene, goddess of peace, is often shown holding which object?",
+      "correct": "An olive branch",
+      "incorrect": "A torch"
+    },
+  	{
+      "question": "When Zeus, king of the gods, was a baby, his nanny was a:",
+      "correct": "Goat",
+      "incorrect": "Horse"
+    },
+  	{
+      "question": "How did ancient Greeks record their myths?",
+      "correct": "In epic poems and plays",
+      "incorrect": "In magazines and history books"
+    },
+  	{
+      "question": "Who was the only Greek human to become immortal, or capable of living forever?",
+      "correct": "Heracles",
+      "incorrect": "Achilles"
+    },
+  	{
+      "question": "Which monster grew two new heads each time one was cut off?",
+      "correct": "The Hydra",
+      "incorrect": "The Minotaur"
+    },
+  	{
+      "question": "What would happen if you locked eyes with Medusa the monster?",
+      "correct": "You would turn to stone.",
+      "incorrect": "Your hair would turn to snakes, just like hers."
+    },
+  	{
+      "question": "What was the name of Greek hero Jason's ship?",
+      "correct": "The \"Argo\", crewed by heroes",
+      "incorrect": "The \"Yarr-go\", crewed by pirates"
+    },
+  	{
+      "question": "What is the name of the winged horse that Perseus rode?",
+      "correct": "Pegasus",
+      "incorrect": "Shadowfax"
+    },
+  	{
+      "question": "Which half man, half bull monster lived in the Labyrinth?",
+      "correct": "The Minotaur",
+      "incorrect": "A centaur"
+    },
+  	{
+      "question": "Which hero defeated the Minotaur of Crete?",
+      "correct": "Theseus",
+      "incorrect": "Heracles"
+    },
+  	{
+      "question": "Which item was Greek hero Jason in search of?",
+      "correct": "The Golden Fleece",
+      "incorrect": "Poseidon's trident"
+    },
+  	{
+      "question": "What is the Golden Fleece?",
+      "correct": "A golden lamb guarded by a dragon",
+      "incorrect": "A golden blanket found on the bed of a giant cyclops"
+    },
+  	{
+      "question": "What did Odysseus, a Greek king, invent to win the mythical Trojan War?",
+      "correct": "A giant hollow horse for soldiers to hide in",
+      "incorrect": "The catapult"
+    },
+  	{
+      "question": "Sisyphus, a bad king, was sent to the Underworld and forced to:",
+      "correct": "Push an enormous boulder up a hill every day",
+      "incorrect": "Eat a moldy dinner every night"
+    },
+  	{
+      "question": "Who wrote \"The Odyssey\", an epic poem of Odysseus' journey?",
+      "correct": "Homer, a blind poet",
+      "incorrect": "JK Rowling"
+    },
+  	{
+      "question": "What is the name of the sea monster that creates whirlpools?",
+      "correct": "Charybdis",
+      "incorrect": "The Kraken"
+    },
+  	{
+      "question": "Which mythical creature guarded the city of Thebes?",
+      "correct": "A winged sphinx that asked riddles",
+      "incorrect": "A golden chimera that told jokes"
+    },
+  	{
+      "question": "What was the Acropolis originally built as?",
+      "correct": "Temples for the gods",
+      "incorrect": "A capitol for the first democracy"
+    },
+  	{
+      "question": "What is the name of Athena, goddess of war's, temple at the Acropolis?",
+      "correct": "The Parthenon",
+      "incorrect": "The Colosseum"
+    },
+  	{
+      "question": "What was the city of Delphi famous for?",
+      "correct": "An oracle who could predict the future",
+      "incorrect": "A three-headed monster that lived there"
+    },
+  	{
+      "question": "Which famous twins are in the Gemini constellation?",
+      "correct": "The heroes Castor and Polydeuces",
+      "incorrect": "The gods Apollo and Artemis"
+    },
+  	{
+      "question": "How many stars make up the belt of Orion's constellation?",
+      "correct": "3 stars",
+      "incorrect": "5 stars"
+    },
+  	{
+      "question": "What animal did Apollo, god of music, turn into to swim to Delphi?",
+      "correct": "A dolphin",
+      "incorrect": "A whale"
+    },
+  	{
+      "question": "Who inspired artists, musicians, historians, and scientists?",
+      "correct": "9 sisters called the Muses",
+      "incorrect": "5 cousins called the Sirens"
+    },
+  	{
+      "question": "Which comic book heroine is inspired by Greek Amazon warriors?",
+      "correct": "Wonder Woman",
+      "incorrect": "Supergirl"
+    },
+  	{
+      "question": "Which sorceress helped Greek hero Jason capture the Golden Fleece?",
+      "correct": "Medea",
+      "incorrect": "Circe"
+    },
+  	{
+      "question": "Which Greek hero cut off the snake-haired head of Medusa?",
+      "correct": "Perseus",
+      "incorrect": "Achilles"
+    }
+  ]
+}

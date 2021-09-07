@@ -1,0 +1,1 @@
+{"languageJson": false, "gameId": "Ex-girlfriend-Party", "version": 1.0, "language": "en", "domainAllowed": [], "preloader": "Preloader", "frameRate": 60, "height": 600, "width": 800, "rotateImg": "", "loading": "res/logo.png", "project_type": "javascript", "id": "gameCanvas", "debugMode": 1, "renderMode": 0, "showFPS": false, "landscape": false}

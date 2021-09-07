@@ -1,0 +1,14 @@
+﻿{
+  "scenes": [
+    {
+      "id": "intro",
+      "config": "assets/data/scenes/intro_data.json",
+      "name": "Intro Scene"
+    },
+    {
+      "id": "dance",
+      "config": "assets/data/scenes/dance_data.json",
+      "name": "Dance Scene"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{"frames": {
+
+"btn_close0001.png":
+{
+	"frame": {"x":0,"y":0,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btn_close0002.png":
+{
+	"frame": {"x":0,"y":38,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"btn_close0003.png":
+{
+	"frame": {"x":0,"y":76,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_close.png",
+	"format": "RGBA8888",
+	"size": {"w":178,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fd24bd84710584f87755aaf419a41713:b612925ec44073da2801f80f217ff03b:e35cf40172118dc96cf8d707b279e04c$"
+}
+}

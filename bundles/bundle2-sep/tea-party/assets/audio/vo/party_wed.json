@@ -1,0 +1,141 @@
+{
+  "manifest": [
+    {
+      "src": "assets/audio/vo/party_wed.mp3",
+      "data": {
+        "audioSprite": [
+          {
+            "id": "Wednesday_apple",
+            "startTime": 0,
+            "duration": 446.281179138322
+          },
+          {
+            "id": "Wednesday_berry",
+            "startTime": 2000,
+            "duration": 157.80045351473905
+          },
+          {
+            "id": "Wednesday_cookie",
+            "startTime": 4000,
+            "duration": 340.6575963718819
+          },
+          {
+            "id": "Wednesday_crunch",
+            "startTime": 6000,
+            "duration": 575.7596371882086
+          },
+          {
+            "id": "Wednesday_favorite",
+            "startTime": 8000,
+            "duration": 3527.5963718820867
+          },
+          {
+            "id": "Wednesday_Greeting_v01",
+            "startTime": 13000,
+            "duration": 1646.7800453514733
+          },
+          {
+            "id": "Wednesday_moresnacks_v01",
+            "startTime": 16000,
+            "duration": 3475.3514739229026
+          },
+          {
+            "id": "Wednesday_moresnacks_v02",
+            "startTime": 21000,
+            "duration": 2247.596371882086
+          },
+          {
+            "id": "Wednesday_moresnacks_v03",
+            "startTime": 25000,
+            "duration": 2482.6984126984116
+          },
+          {
+            "id": "Wednesday_moretea_v01",
+            "startTime": 29000,
+            "duration": 2665.5555555555566
+          },
+          {
+            "id": "Wednesday_moretea_v02",
+            "startTime": 33000,
+            "duration": 2665.5555555555566
+          },
+          {
+            "id": "Wednesday_moretea_v03",
+            "startTime": 37000,
+            "duration": 2587.1882086167802
+          },
+          {
+            "id": "Wednesday_notdoneyet_v01",
+            "startTime": 41000,
+            "duration": 3135.759637188208
+          },
+          {
+            "id": "Wednesday_notdoneyet_v02",
+            "startTime": 46000,
+            "duration": 3370.8616780045377
+          },
+          {
+            "id": "Wednesday_notdoneyet_v03",
+            "startTime": 51000,
+            "duration": 2717.800453514741
+          },
+          {
+            "id": "Wednesday_sip",
+            "startTime": 55000,
+            "duration": 706.3718820861666
+          },
+          {
+            "id": "Wednesday_talk_v01",
+            "startTime": 57000,
+            "duration": 2534.9433106575957
+          },
+          {
+            "id": "Wednesday_talk_v02",
+            "startTime": 61000,
+            "duration": 2770.045351473925
+          },
+          {
+            "id": "Wednesday_talk_v03",
+            "startTime": 65000,
+            "duration": 1986.3718820861607
+          },
+          {
+            "id": "Wednesday_talk_v04",
+            "startTime": 68000,
+            "duration": 1881.8820861678064
+          },
+          {
+            "id": "Wednesday_thankyou_v01",
+            "startTime": 71000,
+            "duration": 1881.8820861678064
+          },
+          {
+            "id": "Wednesday_thankyou_v02",
+            "startTime": 74000,
+            "duration": 2273.7188208616744
+          },
+          {
+            "id": "Wednesday_thankyou_v03",
+            "startTime": 78000,
+            "duration": 1908.0045351473984
+          },
+          {
+            "id": "Wednesday_thankyou_v04",
+            "startTime": 81000,
+            "duration": 2012.4943310657527
+          },
+          {
+            "id": "Wednesday_thankyou_v05",
+            "startTime": 85000,
+            "duration": 941.4739229024889
+          },
+          {
+            "id": "Wednesday_youareout_v01",
+            "startTime": 87000,
+            "duration": 3318.616780045346
+          }
+        ]
+      }
+    }
+  ]
+}

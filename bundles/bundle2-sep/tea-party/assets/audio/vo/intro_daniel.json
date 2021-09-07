@@ -1,0 +1,116 @@
+{
+  "manifest": [
+    {
+      "src": "assets/audio/vo/intro_daniel.mp3",
+      "data": {
+        "audioSprite": [
+          {
+            "id": "Daniel_AppleSlices",
+            "startTime": 0,
+            "duration": 4844.988662131519
+          },
+          {
+            "id": "Daniel_castleTeaPot",
+            "startTime": 6000,
+            "duration": 4180.6575963718815
+          },
+          {
+            "id": "Daniel_cookies",
+            "startTime": 12000,
+            "duration": 3214.1269841269846
+          },
+          {
+            "id": "Daniel_elainaTeaPot",
+            "startTime": 17000,
+            "duration": 5277.800453514739
+          },
+          {
+            "id": "Daniel_katerinaTeaPot",
+            "startTime": 24000,
+            "duration": 5930.861678004536
+          },
+          {
+            "id": "Daniel_owlTeaPot",
+            "startTime": 31000,
+            "duration": 5721.882086167802
+          },
+          {
+            "id": "Daniel_pretzels",
+            "startTime": 38000,
+            "duration": 3632.086167800452
+          },
+          {
+            "id": "Daniel_setup_chooseSnack",
+            "startTime": 43000,
+            "duration": 2456.5759637188194
+          },
+          {
+            "id": "Daniel_setup_chooseTeaSet",
+            "startTime": 47000,
+            "duration": 1803.5147392290228
+          },
+          {
+            "id": "Daniel_setup_inviteFriends",
+            "startTime": 50000,
+            "duration": 5721.882086167802
+          },
+          {
+            "id": "Daniel_setup_othersOnShelf",
+            "startTime": 57000,
+            "duration": 3579.8412698412676
+          },
+          {
+            "id": "Daniel_setup_step1",
+            "startTime": 62000,
+            "duration": 10972.49433106576
+          },
+          {
+            "id": "Daniel_setup_step2",
+            "startTime": 74000,
+            "duration": 9300.657596371877
+          },
+          {
+            "id": "Daniel_setup_tablecloth",
+            "startTime": 85000,
+            "duration": 2822.2902494331092
+          },
+          {
+            "id": "Daniel_setup_welcome",
+            "startTime": 89000,
+            "duration": 5878.616780045349
+          },
+          {
+            "id": "Daniel_setup_whichOne",
+            "startTime": 96000,
+            "duration": 2221.47392290249
+          },
+          {
+            "id": "Daniel_setup_whichOneDoYouWant",
+            "startTime": 100000,
+            "duration": 1411.6780045351475
+          },
+          {
+            "id": "Daniel_strawberries",
+            "startTime": 103000,
+            "duration": 2639.4331065759643
+          },
+          {
+            "id": "Daniel_tableclothResponse_v1",
+            "startTime": 107000,
+            "duration": 1490.045351473924
+          },
+          {
+            "id": "Daniel_tigerTeaPot",
+            "startTime": 110000,
+            "duration": 2195.3514739228976
+          },
+          {
+            "id": "Daniel_trolleyTeaPot",
+            "startTime": 114000,
+            "duration": 3501.4739229024913
+          }
+        ]
+      }
+    }
+  ]
+}

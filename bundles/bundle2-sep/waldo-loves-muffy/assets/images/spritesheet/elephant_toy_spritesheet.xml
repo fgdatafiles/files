@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ce9f7b98b4eba7dca6ba02d9901c3df5:984e2db901c625040ad6b0fb8478a9ed:bf322433639cbc5f315d74a44ebbbfbf$ -->
+<TextureAtlas imagePath="elephant_toy_spritesheet.png">
+    <SubTexture name="waldo_default_0" x="321" y="157" width="78" height="76"/>
+    <SubTexture name="waldo_default_1" x="321" y="79" width="78" height="76"/>
+    <SubTexture name="waldo_cave_0" x="401" y="1" width="78" height="76"/>
+    <SubTexture name="waldo_cave_1" x="321" y="1" width="78" height="76"/>
+    <SubTexture name="waldo_cow_0" x="241" y="157" width="78" height="76"/>
+    <SubTexture name="waldo_cow_1" x="241" y="79" width="78" height="76"/>
+    <SubTexture name="waldo_elv_0" x="241" y="1" width="78" height="76"/>
+    <SubTexture name="waldo_elv_1" x="161" y="157" width="78" height="76"/>
+    <SubTexture name="waldo_kar_0" x="161" y="79" width="78" height="76"/>
+    <SubTexture name="waldo_kar_1" x="161" y="1" width="78" height="76"/>
+    <SubTexture name="waldo_sher_0" x="81" y="157" width="78" height="76"/>
+    <SubTexture name="waldo_sher_1" x="81" y="79" width="78" height="76"/>
+    <SubTexture name="waldo_sup_0" x="81" y="1" width="78" height="76"/>
+    <SubTexture name="waldo_sup_1" x="1" y="157" width="78" height="76"/>
+    <SubTexture name="waldo_vac_0" x="1" y="79" width="78" height="76"/>
+    <SubTexture name="waldo_vac_1" x="1" y="1" width="78" height="76"/>
+</TextureAtlas>

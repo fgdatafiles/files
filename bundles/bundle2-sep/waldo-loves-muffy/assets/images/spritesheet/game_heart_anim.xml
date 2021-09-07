@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e5309db6783c7ee19577e9cac78ec779:9522e9417f8d3013093200b904213b94:c9b7cbfd6b86caf06b98bb6cc72ce218$ -->
+<TextureAtlas imagePath="game_heart_anim.png">
+    <SubTexture name="heart_splash_00" x="80" y="78" width="78" height="76"/>
+    <SubTexture name="heart_splash_01" x="1" y="155" width="78" height="76"/>
+    <SubTexture name="heart_splash_02" x="1" y="155" width="78" height="76"/>
+    <SubTexture name="heart_splash_03" x="1" y="155" width="78" height="76"/>
+    <SubTexture name="heart_splash_04" x="1" y="155" width="78" height="76"/>
+    <SubTexture name="heart_splash_05" x="1" y="155" width="78" height="76"/>
+    <SubTexture name="heart_splash_06" x="1" y="155" width="78" height="76"/>
+    <SubTexture name="heart_splash_07" x="1" y="155" width="78" height="76"/>
+    <SubTexture name="heart_splash_08" x="1" y="78" width="78" height="76"/>
+    <SubTexture name="heart_splash_09" x="1" y="78" width="78" height="76"/>
+    <SubTexture name="heart_splash_10" x="159" y="1" width="78" height="76"/>
+    <SubTexture name="heart_splash_11" x="80" y="1" width="78" height="76"/>
+    <SubTexture name="heart_splash_12" x="1" y="1" width="78" height="76"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="round_complete_hearts.png">
+	<!-- Created with Adobe Flash Professional version 14.0.0.110 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="round_complete_heart_00" x="0" y="0" width="187" height="168" pivotX="16.65" pivotY="15.5"/>
+	<SubTexture name="round_complete_heart_01" x="187" y="0" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_02" x="0" y="168" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_03" x="187" y="168" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_04" x="187" y="168" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_05" x="0" y="336" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_06" x="0" y="336" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_07" x="0" y="336" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_08" x="0" y="336" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_09" x="0" y="336" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_10" x="0" y="336" width="187" height="168"/>
+	<SubTexture name="round_complete_heart_11" x="0" y="336" width="187" height="168"/>
+</TextureAtlas>

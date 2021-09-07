@@ -1,0 +1,141 @@
+{
+  "manifest": [
+    {
+      "src": "assets/audio/vo/party_o.mp3",
+      "data": {
+        "audioSprite": [
+          {
+            "id": "O_apple",
+            "startTime": 0,
+            "duration": 311.2018140589569
+          },
+          {
+            "id": "O_Berry",
+            "startTime": 2000,
+            "duration": 288.41269841269843
+          },
+          {
+            "id": "O_cookie",
+            "startTime": 4000,
+            "duration": 236.16780045351504
+          },
+          {
+            "id": "O_crunch",
+            "startTime": 6000,
+            "duration": 1072.0861678004533
+          },
+          {
+            "id": "O_Favorite",
+            "startTime": 9000,
+            "duration": 3449.2290249433104
+          },
+          {
+            "id": "O_Greeting_v01",
+            "startTime": 14000,
+            "duration": 1072.0861678004533
+          },
+          {
+            "id": "O_moresnacks_v01",
+            "startTime": 17000,
+            "duration": 2508.820861678004
+          },
+          {
+            "id": "O_moresnacks_v02",
+            "startTime": 21000,
+            "duration": 5173.310657596371
+          },
+          {
+            "id": "O_moresnacks_v03",
+            "startTime": 28000,
+            "duration": 3057.392290249432
+          },
+          {
+            "id": "O_moretea_v01",
+            "startTime": 33000,
+            "duration": 3475.351473922899
+          },
+          {
+            "id": "O_moretea_v02",
+            "startTime": 38000,
+            "duration": 3736.5759637188203
+          },
+          {
+            "id": "O_moretea_v03",
+            "startTime": 43000,
+            "duration": 4807.596371882084
+          },
+          {
+            "id": "O_notdoneyet_v01",
+            "startTime": 49000,
+            "duration": 2874.5351473922938
+          },
+          {
+            "id": "O_notdoneyet_v02",
+            "startTime": 53000,
+            "duration": 2273.7188208616744
+          },
+          {
+            "id": "O_sip",
+            "startTime": 57000,
+            "duration": 784.7392290249431
+          },
+          {
+            "id": "O_talk_v01",
+            "startTime": 59000,
+            "duration": 2482.6984126984116
+          },
+          {
+            "id": "O_talk_v02",
+            "startTime": 63000,
+            "duration": 3292.494331065754
+          },
+          {
+            "id": "O_talk_v03",
+            "startTime": 68000,
+            "duration": 3109.6371882086232
+          },
+          {
+            "id": "O_talk_v04",
+            "startTime": 73000,
+            "duration": 3449.2290249433067
+          },
+          {
+            "id": "O_thankyou_v01",
+            "startTime": 78000,
+            "duration": 1516.167800453516
+          },
+          {
+            "id": "O_thankyou_v02",
+            "startTime": 81000,
+            "duration": 1646.780045351477
+          },
+          {
+            "id": "O_thankyou_v03",
+            "startTime": 84000,
+            "duration": 784.7392290249502
+          },
+          {
+            "id": "O_thankyou_v04",
+            "startTime": 86000,
+            "duration": 1411.6780045351475
+          },
+          {
+            "id": "O_thankyou_v05",
+            "startTime": 89000,
+            "duration": 863.1065759637124
+          },
+          {
+            "id": "O_youareout_v01",
+            "startTime": 91000,
+            "duration": 2508.820861678004
+          },
+          {
+            "id": "O_youareout_v02",
+            "startTime": 95000,
+            "duration": 1986.3718820861607
+          }
+        ]
+      }
+    }
+  ]
+}

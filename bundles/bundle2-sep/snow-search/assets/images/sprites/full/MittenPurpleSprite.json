@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn30000":
+{
+	"frame": {"x":0,"y":0,"w":142,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":80},
+	"sourceSize": {"w":142,"h":80}
+},
+"sn30001":
+{
+	"frame": {"x":0,"y":81,"w":142,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":25,"w":142,"h":80},
+	"sourceSize": {"w":142,"h":80}
+},
+"sn30002":
+{
+	"frame": {"x":0,"y":137,"w":120,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":28,"w":142,"h":80},
+	"sourceSize": {"w":142,"h":80}
+},
+"sn30003":
+{
+	"frame": {"x":0,"y":190,"w":65,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":28,"w":142,"h":80},
+	"sourceSize": {"w":142,"h":80}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "MittenPurpleSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

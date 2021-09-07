@@ -1,0 +1,642 @@
+{
+	"002_MotherBoard_CYB-WOT_03_SELECT": [
+		{
+			"content": "Hacker alert! Chaos in R-Fair City! Power drained from all rides. Must use renewable sources to power up rides and keep R-Fair City running!",
+			"start": 0,
+			"end": 13300
+		}
+	],
+	"014_MotherBoard_CYB-WOT_03_SELECT": [
+		{
+			"content": "This is a wind turbine, wind turns the blades, which creates power.",
+			"start": 0,
+			"end": 5310
+		}
+	],
+	"015_MotherBoard_CYB-WOT_02_SELECT": [
+		{
+			"content": "Hydro power is created when rushing water from rivers and streams spins a turbine. Hydro can create a lot of power.",
+			"start": 0,
+			"end": 8120
+		}
+	],
+	"016_MotherBoard_CYB-WOT_03_SELECT": [
+		{
+			"content": "Solar panels use the energy from the sun to create power.",
+			"start": 0,
+			"end": 4940
+		}
+	],
+	"017_MotherBoard_CYB-WOT_01a_SELECT": [
+		{
+			"content": "Hurry! You're almost out of stars.",
+			"start": 0,
+			"end": 3000
+		}
+	],
+	"018_MotherBoard_CYB-WOT_01b_SELECT": [
+		{
+			"content": "This ride needs more power.",
+			"start": 0,
+			"end": 1830
+		}
+	],
+	"019_MotherBoard_CYB-WOT_01a_SELECT": [
+		{
+			"content": "You need more power to start this ride.",
+			"start": 0,
+			"end": 2730
+		}
+	],
+	"020_MotherBoard_CYB-WOT_02_SELECT": [
+		{
+			"content": "Still not enough power. Try a different combination of power sources.",
+			"start": 0,
+			"end": 5060
+		}
+	],
+	"021_MotherBoard_CYB-WOT_01b_SELECT": [
+		{
+			"content": "Too much power is going to this ride. Try a different combination of power sources.",
+			"start": 0,
+			"end": 6030
+		}
+	],
+	"022_MotherBoard_CYB-WOT_01_SELECT": [
+		{
+			"content": "These power sources give more power than you need. Try a different combination or you won't have enough power for the other rides.",
+			"start": 0,
+			"end": 8790
+		}
+	],
+	"023_MotherBoard_CYB-WOT_01c_SELECT": [
+		{
+			"content": "Too much is power connected to this ride.",
+			"start": 0,
+			"end": 2970
+		}
+	],
+	"024_MotherBoard_CYB-WOT_02_SELECT": [
+		{
+			"content": "Game booths are in the way. Find a different path for the power line.",
+			"start": 0,
+			"end": 3920
+		}
+	],
+	"025_MotherBoard_CYB-WOT_01b_SELECT": [
+		{
+			"content": "Good job! This ride is powered up!",
+			"start": 0,
+			"end": 2740
+		}
+	],
+	"026_MotherBoard_CYB-WOT_02a_SELECT": [
+		{
+			"content": "You did it. Look how happy the riders are!",
+			"start": 0,
+			"end": 3530
+		}
+	],
+	"027_MotherBoard_CYB-WOT_01d_SELECT": [
+		{
+			"content": "Ride fixed!",
+			"start": 0,
+			"end": 1440
+		}
+	],
+	"029_MotherBoard_CYB-WOT_03_SELECT": [
+		{
+			"content": "The total power of the sources must equal the power the ride needs.",
+			"start": 0,
+			"end": 4980
+		}
+	],
+	"030_MotherBoard_CYB-WOT_01b_SELECT": [
+		{
+			"content": "Power up the rides to keep R-Fair City running!",
+			"start": 0,
+			"end": 3290
+		}
+	],
+	"031_MotherBoard_CYB-WOT_01_SELECT": [
+		{
+			"content": "Hacker alert! Hacker alert! Hacker alert! Hacker alert!",
+			"start": 0,
+			"end": 5920
+		}
+	],
+	"031_MotherBoard_CYB-WOT_02_SELECT": [
+		{
+			"content": "Hacker alert! Hacker alert! Hacker alert!",
+			"start": 0,
+			"end": 3560
+		}
+	],
+	"032_MotherBoard_CYB-WOT_02d_SELECT": [
+		{
+			"content": "Oh no, Hacker drained more power!",
+			"start": 0,
+			"end": 2570
+		}
+	],
+	"033_MotherBoard_CYB-WOT_03b_SELECT": [
+		{
+			"content": "Hacker disrupted all the power. Everything needs a different number of cyber-watts.",
+			"start": 0,
+			"end": 5410
+		}
+	],
+	"034_MotherBoard_CYB-WOT_02a_SELECT": [
+		{
+			"content": "Time ran out to power the rides. R-Fair City is counting on you. Try again Cyber-Mate!",
+			"start": 0,
+			"end": 6780
+		}
+	],
+	"035_MotherBoard_CYB-WOT_02b_SELECT": [
+		{
+			"content": "You earned one star! Play again and power the rides faster to earn more stars.",
+			"start": 0,
+			"end": 6700
+		}
+	],
+	"038_MotherBoard_CYB-WOT_02a_SELECT": [
+		{
+			"content": "Two stars. Good Job. You powered those rides quickly!",
+			"start": 0,
+			"end": 4230
+		}
+	],
+	"039_MotherBoard_CYB-WOT_04a_SELECT": [
+		{
+			"content": "Three stars! Powerful work! ",
+			"start": 0,
+			"end": 3240
+		}
+	],
+	"040_MotherBoard_CYB-WOT_02a_SELECT": [
+		{
+			"content": "You did it! You powered up all the rides. R-Fair City is back in business!",
+			"start": 0,
+			"end": 9950
+		}
+	],
+	"040_MotherBoard_CYB-WOT_03a_SELECT": [
+		{
+			"content": "R-Fair City is back in business!",
+			"start": 0,
+			"end": 2710
+		}
+	],
+	"040_MotherBoard_CYB-WOT_03b_SELECT": [
+		{
+			"content": "R-Fair City is back in business!",
+			"start": 0,
+			"end": 2830
+		}
+	],
+	"040_MotherBoard_CYB-WOT_03h_SELECT": [
+		{
+			"content": "Cyberspace thanks you!",
+			"start": 0,
+			"end": 2890
+		}
+	],
+	"041_MotherBoard_CYB-WOT_02b_SELECT": [
+		{
+			"content": "You unlocked a bonus game!",
+			"start": 0,
+			"end": 2410
+		}
+	],
+	"041_MotherBoard_CYB-WOT_04b_SELECT": [
+		{
+			"content": "Squirt as many objects with water as you can before time runs out.",
+			"start": 0,
+			"end": 4670
+		}
+	],
+	"042_MotherBoard_CYB-WOT_01b_SELECT": [
+		{
+			"content": "Time's up! Let's see how you did.",
+			"start": 0,
+			"end": 2730
+		}
+	],
+	"043_MotherBoard_CYB-WOT_03_SELECT": [
+		{
+			"content": "Excellent!",
+			"start": 0,
+			"end": 1450
+		},
+		{
+			"content": "God work Cyber-Mate!",
+			"start": 1618,
+			"end": 3648
+		},
+		{
+			"content": "Nice job Cyber-Mate!",
+			"start": 4257,
+			"end": 6617
+		},
+		{
+			"content": "You did it!",
+			"start": 7236,
+			"end": 8796
+		},
+		{
+			"content": "Powerful work Cyber-Mate!",
+			"start": 9595,
+			"end": 11865
+		},
+		{
+			"content": "Powered up!",
+			"start": 12535,
+			"end": 14035
+		}
+	],
+	"044_MotherBoard_CYB-WOT_01a_SELECT": [
+		{
+			"content": "Almost.",
+			"start": 0,
+			"end": 1280
+		},
+		{
+			"content": "Try again.",
+			"start": 1660,
+			"end": 3180
+		},
+		{
+			"content": "Try another combination.",
+			"start": 4000,
+			"end": 6120
+		},
+		{
+			"content": "Try another power source.",
+			"start": 6740,
+			"end": 8980
+		}
+	],
+	"045_MotherBoard_CYB-WOT_01b_SELECT": [
+		{
+			"content": "How to Play",
+			"start": 0,
+			"end": 1200
+		}
+	],
+	"046-061_MotherBoard_CYB-WOT_03_SELECT": [
+		{
+			"content": "Level 1",
+			"start": 378,
+			"end": 1828
+		},
+		{
+			"content": "Level 2",
+			"start": 2648,
+			"end": 4088
+		},
+		{
+			"content": "Level 3",
+			"start": 5088,
+			"end": 6458
+		},
+		{
+			"content": "Level 4",
+			"start": 7687,
+			"end": 9157
+		},
+		{
+			"content": "Level 5",
+			"start": 10107,
+			"end": 11517
+		},
+		{
+			"content": "Level 6",
+			"start": 12797,
+			"end": 14357
+		},
+		{
+			"content": "Level 7",
+			"start": 15256,
+			"end": 16826
+		},
+		{
+			"content": "Level 8",
+			"start": 17486,
+			"end": 19116
+		},
+		{
+			"content": "Level 9",
+			"start": 19706,
+			"end": 21166
+		},
+		{
+			"content": "Level 10",
+			"start": 21546,
+			"end": 22916
+		},
+		{
+			"content": "Level 11",
+			"start": 23205,
+			"end": 24865
+		},
+		{
+			"content": "Level 12",
+			"start": 25105,
+			"end": 26845
+		},
+		{
+			"content": "Level 13",
+			"start": 27425,
+			"end": 29245
+		},
+		{
+			"content": "Level 14",
+			"start": 29645,
+			"end": 31485
+		},
+		{
+			"content": "Level 15",
+			"start": 31925,
+			"end": 33595
+		},
+		{
+			"content": "Bonus Game",
+			"start": 36385,
+			"end": 37855
+		}
+	],
+	"001_MotherBoard_CYB-WOT_03dSELECT": [
+		{
+			"content": "Watts of Trouble",
+			"start": 0,
+			"end": 1630
+		}
+	],
+	"Level-1": [
+		{
+			"content": "Level 1",
+			"start": 0,
+			"end": 2010
+		}
+	],
+	"Level-2": [
+		{
+			"content": "Level 2",
+			"start": 0,
+			"end": 2230
+		}
+	],
+	"Level-3": [
+		{
+			"content": "Level 3",
+			"start": 0,
+			"end": 2230
+		}
+	],
+	"Level-4": [
+		{
+			"content": "Level 4",
+			"start": 0,
+			"end": 2060
+		}
+	],
+	"Level-5": [
+		{
+			"content": "Level 5",
+			"start": 0,
+			"end": 2140
+		}
+	],
+	"Level-6": [
+		{
+			"content": "Level 6",
+			"start": 0,
+			"end": 2280
+		}
+	],
+	"Level-7": [
+		{
+			"content": "Level 7",
+			"start": 0,
+			"end": 1930
+		}
+	],
+	"Level-8": [
+		{
+			"content": "Level 8",
+			"start": 0,
+			"end": 1950
+		}
+	],
+	"Level-9": [
+		{
+			"content": "Level 9",
+			"start": 0,
+			"end": 1740
+		}
+	],
+	"Level-10": [
+		{
+			"content": "Level 10",
+			"start": 0,
+			"end": 1710
+		}
+	],
+	"Level-11": [
+		{
+			"content": "Level 11",
+			"start": 0,
+			"end": 1790
+		}
+	],
+	"Level-12": [
+		{
+			"content": "Level 12",
+			"start": 0,
+			"end": 1680
+		}
+	],
+	"Level-13": [
+		{
+			"content": "Level 13",
+			"start": 0,
+			"end": 2060
+		}
+	],
+	"Level-14": [
+		{
+			"content": "Level 14",
+			"start": 0,
+			"end": 1900
+		}
+	],
+	"Level-15": [
+		{
+			"content": "Level 15",
+			"start": 0,
+			"end": 2120
+		}
+	],
+	"Bonus-Game": [
+		{
+			"content": "Bonus Game",
+			"start": 0,
+			"end": 1680
+		}
+	],
+	"Hacker-Alert": [
+		{
+			"content": "Hacker alert!",
+			"start": 0,
+			"end": 1310
+		}
+	],
+	"Good-Excellent": [
+		{
+			"content": "Excellent!",
+			"start": 0,
+			"end": 1520
+		}
+	],
+	"Good-Good-Work": [
+		{
+			"content": "Good work Cyber-Mate!",
+			"start": 0,
+			"end": 2150
+		}
+	],
+	"Good-Nice-Job": [
+		{
+			"content": "Nice job Cyber-Mate!",
+			"start": 0,
+			"end": 2230
+		}
+	],
+	"Good-Powered-Up": [
+		{
+			"content": "Powered up!",
+			"start": 0,
+			"end": 1520
+		}
+	],
+	"Good-Powerful-Work": [
+		{
+			"content": "Powerful work Cyber-Mate!",
+			"start": 0,
+			"end": 2340
+		}
+	],
+	"Good-You-Did-It": [
+		{
+			"content": "You did it!",
+			"start": 0,
+			"end": 1750
+		}
+	],
+	"tutorial/step-1": [
+		{
+			"content": "Hacker drained the power from all the rides!",
+			"start": 0,
+			"end": 3360
+		}
+	],
+	"tutorial/step-2": [
+		{
+			"content": "Use power from renewable sources -- sun, wind and water -- to power the rides back up.",
+			"start": 0,
+			"end": 7550
+		}
+	],
+	"tutorial/step-3": [
+		{
+			"content": "The number next to the ride shows how much power it needs. This ride needs 5 cyber-watts!",
+			"start": 0,
+			"end": 7080
+		}
+	],
+	"tutorial/step-4": [
+		{
+			"content": "To power the ride, drag from the ride to the power source to connect them. Drag from the ride first.",
+			"start": 0,
+			"end": 8040
+		}
+	],
+	"tutorial/step-5": [
+		{
+			"content": "Drag from the ride first.",
+			"start": 0,
+			"end": 2220
+		}
+	],
+	"tutorial/step-6": [
+		{
+			"content": "Good job! The ride has power.",
+			"start": 0,
+			"end": 3610
+		}
+	],
+	"tutorial/step-7": [
+		{
+			"content": "Some rides will need more than one power source. Drag two power sources next to each other to combine them. But pay attention -- the total power of the sources must equal the power the ride needs.",
+			"start": 0,
+			"end": 15030
+		}
+	],
+	"tutorial/step-8": [
+		{
+			"content": "When you see the plus sign, drop the power source to connect it.",
+			"start": 0,
+			"end": 3980
+		}
+	],
+	"tutorial/step-9": [
+		{
+			"content": "The power sources are connected! Now drag from the ride to a power source to power up!",
+			"start": 0,
+			"end": 6260
+		}
+	],
+	"tutorial/step-10": [
+		{
+			"content": "Excellent!",
+			"start": 0,
+			"end": 1880
+		}
+	],
+	"tutorial/step-11": [
+		{
+			"content": "You can't place power sources on the paths, or run power lines along the paths and rivers. And be careful -- power lines can't go over game booths.",
+			"start": 20,
+			"end": 12120
+		}
+	],
+	"tutorial/step-12": [
+		{
+			"content": "Watch out for Hacker! He's still on R-Fair City and can cause more chaos. Good luck Cyber-Mates!",
+			"start": 0,
+			"end": 8960
+		}
+	],
+	"tutorial/step-starbar": [
+		{
+			"content": "Power the rides quickly. The star bar will go down over time. The fuller the bar is, the more stars you earn.",
+			"start": 0,
+			"end": 8430
+		}
+	],
+	"tutorial/step-7-1": [
+		{
+			"content": " Drag two power sources next to each other to combine them.",
+			"start": 0,
+			"end": 3830
+		}
+	],
+	"Lets-Power-Up": [
+		{
+			"content": "Lets power up more rides!",
+			"start": 0,
+			"end": 1800
+		}
+	]
+}

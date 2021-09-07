@@ -1,0 +1,36 @@
+{
+
+"images": [
+    "assets/spritesheets/shoemaker-ss.png"
+],
+
+"frames": [
+    [1, 1, 1428, 270, 0, 0, 0],
+    [1431, 1, 266, 211, 0, 0, 0],
+    [1699, 1, 249, 200, 0, 0, 0],
+    [1699, 203, 221, 171, 0, 0, 0],
+    [1431, 214, 161, 344, 0, -3, 0],
+    [1, 273, 1427, 265, 0, 0, 0],
+    [1594, 376, 141, 173, 0, 0, 0],
+    [1, 540, 1007, 508, 0, 0, 0],
+    [1010, 560, 979, 449, 0, -21, -52]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "mg_bldg4": [1],
+    "mg_bldg1": [2],
+    "mg_bldg3": [3],
+    "fg_lamp": [4],
+    "bg_ground": [5],
+    "mg_bldg2": [6],
+    "characterEnd": [7],
+    "characterStart": [8]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:3a44c611747a947ee0afae91d7948ddc:22006a70eafa8b1d40963b12f0cf6425:03c434aaf333c9c465ea705ff616cbb7$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

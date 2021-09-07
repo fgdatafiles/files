@@ -1,0 +1,44 @@
+{"frames": {
+
+"button-reset-default.png":
+{
+	"frame": {"x":2,"y":2,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+"button-reset-disabled.png":
+{
+	"frame": {"x":108,"y":2,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+"button-reset-hover.png":
+{
+	"frame": {"x":214,"y":2,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+},
+"button-reset-pressed.png":
+{
+	"frame": {"x":320,"y":2,"w":102,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":102},
+	"sourceSize": {"w":102,"h":102}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "restart-button.png",
+	"format": "RGBA8888",
+	"size": {"w":424,"h":106},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:38cb9eab479a81176b8a865384497c80:47a5ffef63a9b329220515bba4d9516f:9dab875b266eab1cb2bfb77bfa6bbd03$"
+}
+}

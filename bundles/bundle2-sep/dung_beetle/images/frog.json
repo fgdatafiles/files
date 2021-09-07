@@ -1,0 +1,57 @@
+{"frames": {
+
+"frog1.png":
+{
+	"frame": {"x":321,"y":0,"w":107,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":107,"h":92},
+	"sourceSize": {"w":107,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frog2.png":
+{
+	"frame": {"x":0,"y":0,"w":107,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":93},
+	"sourceSize": {"w":107,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frog3.png":
+{
+	"frame": {"x":107,"y":0,"w":107,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":93},
+	"sourceSize": {"w":107,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frog4.png":
+{
+	"frame": {"x":214,"y":0,"w":107,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":93},
+	"sourceSize": {"w":107,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"frog5.png":
+{
+	"frame": {"x":321,"y":0,"w":107,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":107,"h":92},
+	"sourceSize": {"w":107,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "frog.png",
+	"format": "RGBA8888",
+	"size": {"w":428,"h":93},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8538cf926d0e92393e776ce18ed658aa:f1b47de89efc4a5e7d2559da009766fe:8dde0dd0197344c2f9f9f01d8d204375$"
+}
+}

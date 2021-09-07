@@ -1,0 +1,94 @@
+{
+"skeleton": { "hash": "7h2sjl8pvOIDpQlV3GVh2KR2+QA", "spine": "3.8.11-beta", "x": -156, "y": -155.38, "width": 312, "height": 310.75 },
+"bones": [
+	{ "name": "GlowBone", "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "ComicGlowBone", "parent": "GlowBone", "scaleX": 1.56, "scaleY": 1.56 },
+	{ "name": "MapGlowBone", "parent": "GlowBone", "scaleX": 1.56, "scaleY": 1.56 }
+],
+"slots": [
+	{ "name": "MapButtonGlowComic", "bone": "ComicGlowBone", "color": "ffffff88", "attachment": "MapButtonGlowComic" },
+	{ "name": "MapButtonGlow", "bone": "MapGlowBone", "attachment": "MapButtonGlow", "blend": "additive" },
+	{ "name": "MapButtonGlow2", "bone": "MapGlowBone", "color": "ffffff65", "attachment": "MapButtonGlow", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"MapButtonGlow": {
+			"MapButtonGlow": { "width": 250, "height": 249 }
+		},
+		"MapButtonGlow2": {
+			"MapButtonGlow": { "scaleX": 0.7, "scaleY": 0.7, "width": 250, "height": 249 }
+		},
+		"MapButtonGlowComic": {
+			"MapButtonGlowComic": { "width": 250, "height": 249 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"MapButtonGlow": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffcf",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffffff" }
+				]
+			},
+			"MapButtonGlow2": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffffa7",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"color": "ffffffcf",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffffa7" }
+				]
+			},
+			"MapButtonGlowComic": {
+				"color": [
+					{ "time": 0, "color": "ffffff2b" },
+					{ "time": 0.5, "color": "ffffff88" },
+					{ "time": 1, "color": "ffffff2b" }
+				]
+			}
+		},
+		"bones": {
+			"MapGlowBone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": -30 }
+				]
+			},
+			"ComicGlowBone": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.8,
+						"y": 0.8,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0.8, "y": 0.8 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,54 @@
+{
+"skeleton": { "hash": "g6pIayMEUemSYPuYTIgIaHO8PIA", "spine": "3.8.11-beta", "x": -224.5, "y": -236.5, "width": 449, "height": 460 },
+"bones": [
+	{ "name": "RootBone" }
+],
+"slots": [
+	{ "name": "TransitionSlot", "bone": "RootBone", "attachment": "Transition" }
+],
+"skins": {
+	"default": {
+		"TransitionSlot": {
+			"Transition": { "y": -6.5, "width": 449, "height": 460 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"TransitionSlot": {
+				"color": [
+					{ "time": 1.1333, "color": "ffffffff" },
+					{ "time": 1.5, "color": "000000ff" }
+				]
+			}
+		},
+		"bones": {
+			"RootBone": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.4333, "x": 0.94, "y": 0.94 },
+					{ "time": 0.5, "x": 1.05, "y": 1.05 },
+					{ "time": 0.6, "x": 1.02, "y": 1.02 },
+					{ "time": 0.7333, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 0.9333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.2667, "x": 0.7, "y": 0.7 },
+					{ "time": 1.3333, "x": 4, "y": 4 },
+					{ "time": 1.5, "x": 6, "y": 6 }
+				]
+			}
+		}
+	}
+}
+}

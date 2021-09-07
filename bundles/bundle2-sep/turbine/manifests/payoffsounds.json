@@ -1,0 +1,35 @@
+[
+      {"type": "sound", "id": "sfx_click", "path": "./audio/sfx/sfx_click.{ogg,mp3}", "context":"sfx", "singleInstance": true},
+      {"type": "sound", "id": "sfx_bubble_pop", "path": "./audio/sfx/sfx_bubble_pop.{ogg,mp3}", "context":"sfx"},
+      {"type": "sound", "id": "sfx_fidgit_chew", "path": "./audio/sfx/sfx_fidgit_chew.{ogg,mp3}", "context":"sfx"},
+      {"type": "sound", "id": "sfx_growing_plant", "path": "./audio/sfx/sfx_growing_plant.{ogg,mp3}", "context":"sfx", "volume":0.5},
+      {"type": "sound", "id": "sfx_popcorn", "path": "./audio/sfx/sfx_popcorn.{ogg,mp3}", "context":"sfx"},
+      {"type": "sound", "id": "sfx_watering_can", "path": "./audio/sfx/sfx_watering_can_faded.{ogg,mp3}", "context":"vo", "volume":0.3},
+
+      {"type": "sound", "id": "wg_test_items", "path": "./audio/vo/wg_test_items.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_lights", "path": "./audio/vo/wg_test_lights.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_mixer", "path": "./audio/vo/wg_test_mixer.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_oven", "path": "./audio/vo/wg_test_oven.{ogg,mp3}", "context":"vo"},
+      
+      {"type": "sound", "id": "wg_test_aquarium", "path": "./audio/vo/wg_test_aquarium.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_computer", "path": "./audio/vo/wg_test_computer.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_partylights", "path": "./audio/vo/wg_test_partylights.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_radio", "path": "./audio/vo/wg_test_radio.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_popcornmachine", "path": "./audio/vo/wg_test_popcornmachine.{ogg,mp3}", "context":"vo"},
+
+      {"type": "sound", "id": "wg_test_machine1", "path": "./audio/vo/wg_test_machine1.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_test_machine2", "path": "./audio/vo/wg_test_machine2.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_bakery", "path": "./audio/vo/wg_items_bakery.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_factory", "path": "./audio/vo/wg_items_factory.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_school", "path": "./audio/vo/wg_items_school.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_party", "path": "./audio/vo/wg_items_party.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_bakery_donuts", "path": "./audio/vo/wg_items_bakery_donuts.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_bakery_muffins", "path": "./audio/vo/wg_items_bakery_muffins.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_party_bag", "path": "./audio/vo/wg_items_party_bag.{ogg,mp3}", "context":"vo"},
+      {"type": "sound", "id": "wg_items_party_bucket", "path": "./audio/vo/wg_items_party_bucket.{ogg,mp3}", "context":"vo"},
+
+      {"type": "sound", "id": "music_bakery", "path": "./audio/music/music_bakery.{ogg,mp3}", "context":"music", "volume":0.2 },
+      {"type": "sound", "id": "music_school", "path": "./audio/music/music_school.{ogg,mp3}", "context":"music", "volume":0.2 },
+      {"type": "sound", "id": "music_factory", "path": "./audio/music/music_factory.{ogg,mp3}", "context":"music", "volume":0.2 },
+      {"type": "sound", "id": "music_home", "path": "./audio/music/music_fidgitlevel.{ogg,mp3}", "context":"music", "volume":0.2 }
+]

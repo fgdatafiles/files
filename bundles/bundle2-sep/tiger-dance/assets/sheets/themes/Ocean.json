@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "./assets/sheets/themes/Ocean.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 374, 765, 0, 0, 0],
+    [377, 1, 249, 765, 0, 0, 0],
+    [628, 1, 377, 758, 0, 0, 0],
+    [1007, 1, 616, 327, 0, 0, 0],
+    [1007, 330, 473, 422, 0, 0, 0]
+],
+
+"animations": {
+    "Ocean_Seaweed_01": { "frames": [0] },
+    "Ocean_fish_01": { "frames": [1] },
+    "Ocean_Fish_02": { "frames": [2] },
+    "Ocean_Coral_02": { "frames": [3] },
+    "Ocean_Coral_01": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ece3241fd06ac0e35403c35cb923b316:3cf81f7c63f4f9afe3b44a579bba3998:55e08b2f6ba05c903524bc03af7b5ebf$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

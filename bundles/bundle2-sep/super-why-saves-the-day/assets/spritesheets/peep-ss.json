@@ -1,0 +1,46 @@
+{
+
+"images": [
+    "assets/spritesheets/peep-ss.png"
+],
+
+"frames": [
+    [1, 1, 1427, 269, 0, 0, 0],
+    [1, 272, 1427, 265, 0, 0, 0],
+    [1430, 1, 467, 277, 0, 0, 0],
+    [1, 539, 510, 357, 0, 0, 0],
+    [513, 539, 720, 104, 0, 0, 0],
+    [513, 645, 468, 277, 0, 0, 0],
+    [1430, 280, 359, 171, 0, 0, 0],
+    [983, 645, 231, 186, 0, 0, 0],
+    [983, 833, 330, 98, 0, 0, 0],
+    [1430, 453, 333, 112, 0, 0, 0],
+    [1315, 567, 363, 50, 0, 0, 0],
+    [1315, 619, 270, 300, 0, -157, -57],
+    [1587, 619, 245, 144, 0, 0, 0],
+    [1587, 765, 237, 123, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_ground": [1],
+    "fg_foliage1": [2],
+    "characterEnd": [3],
+    "bg_hill2": [4],
+    "fg_foliage3": [5],
+    "bg_sun": [6],
+    "mg_hill1": [7],
+    "bg_hill1": [8],
+    "mg_hill4": [9],
+    "fg_foliage2": [10],
+    "characterStart": [11],
+    "mg_hill2": [12],
+    "mg_hill3": [13]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:0c292449a169cf4954df84c9e415e112:5183a37003389c489ac778c1b2e568bf:0219ecb9265f0f65d678a6bb4c890004$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

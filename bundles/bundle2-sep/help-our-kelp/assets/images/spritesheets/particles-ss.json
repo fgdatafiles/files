@@ -1,0 +1,32 @@
+{
+
+"images": [
+    "assets/images/spritesheets/particles-ss.png"
+],
+
+"frames": [
+    [2, 2, 43, 76, 0, 0, 0],
+    [2, 81, 78, 41, 0, 0, 0],
+    [48, 2, 49, 75, 0, 0, 0],
+    [83, 80, 64, 37, 0, 0, 0],
+    [100, 2, 70, 70, 0, 0, 0],
+    [173, 2, 78, 47, 0, 0, 0],
+    [150, 75, 74, 47, 0, 0, 0]
+],
+
+"animations": {
+    "leaf1": { "frames": [0] },
+    "leaf6": { "frames": [1] },
+    "leaf5": { "frames": [2] },
+    "leaf3": { "frames": [3] },
+    "bubble": { "frames": [4] },
+    "leaf4": { "frames": [5] },
+    "leaf2": { "frames": [6] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:473cf8fef689e0290644de401369e812:4a2b7a2d9dce762c7e2d7053f58145eb:3fbad6dea10773c4dec973d8424ce380$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

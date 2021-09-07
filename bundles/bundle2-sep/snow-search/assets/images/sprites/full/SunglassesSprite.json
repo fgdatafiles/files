@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn270000":
+{
+	"frame": {"x":0,"y":0,"w":71,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":33},
+	"sourceSize": {"w":71,"h":33}
+},
+"sn270001":
+{
+	"frame": {"x":0,"y":29,"w":71,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":71,"h":33},
+	"sourceSize": {"w":71,"h":33}
+},
+"sn270002":
+{
+	"frame": {"x":0,"y":53,"w":71,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":71,"h":33},
+	"sourceSize": {"w":71,"h":33}
+},
+"sn270003":
+{
+	"frame": {"x":0,"y":72,"w":28,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":10,"w":71,"h":33},
+	"sourceSize": {"w":71,"h":33}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "SunglassesSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

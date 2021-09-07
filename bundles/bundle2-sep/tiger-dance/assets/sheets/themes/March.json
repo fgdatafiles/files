@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "./assets/sheets/themes/March.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 918, 711, 0, -7, -7],
+    [921, 1, 570, 767, 0, 0, 0],
+    [1, 714, 582, 601, 0, 0, 0],
+    [585, 714, 260, 543, 0, 0, 0]
+],
+
+"animations": {
+    "March_Castle_01": { "frames": [0] },
+    "March_Dragon_01": { "frames": [1] },
+    "March_Castle_02": { "frames": [2] },
+    "March_Banner_01": { "frames": [3] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:b89aada0cc161fc418f15d2336cea42f:c192d542837a50af35d8c4229d3c8fbd:fe4c53e4169b588b647f29be5ed9d093$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

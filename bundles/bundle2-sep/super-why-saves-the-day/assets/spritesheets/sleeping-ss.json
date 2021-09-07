@@ -1,0 +1,44 @@
+{
+
+"images": [
+    "assets/spritesheets/sleeping-ss.png"
+],
+
+"frames": [
+    [1, 1, 1427, 269, 0, 0, 0],
+    [1, 272, 1428, 265, 0, 0, 0],
+    [1, 539, 425, 452, 0, 0, 0],
+    [428, 539, 573, 277, 0, 0, 0],
+    [1430, 1, 318, 249, 0, 0, 0],
+    [428, 818, 459, 174, 0, 0, 0],
+    [1003, 539, 278, 277, 0, 0, 0],
+    [1431, 252, 221, 286, 0, -16, 0],
+    [889, 818, 295, 132, 0, 0, 0],
+    [1283, 540, 302, 188, 0, 0, 0],
+    [1283, 730, 251, 57, 0, 0, 0],
+    [1283, 789, 217, 197, 0, 0, 0],
+    [1502, 789, 192, 165, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_ground": [1],
+    "fg_trees1": [2],
+    "mg_hill": [3],
+    "bg_cloud2": [4],
+    "bg_hill": [5],
+    "fg_trees2": [6],
+    "characterEnd": [7],
+    "characterStart": [8],
+    "mg_castle": [9],
+    "fg_garden": [10],
+    "bg_sun": [11],
+    "bg_cloud1": [12]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:f65832683131651a547570e2fe6e53c8:149d4fa01d4b722c1ee6a8392792eaaf:963181d02f756a9c46cd27d29f8601d2$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

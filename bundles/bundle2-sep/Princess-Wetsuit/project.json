@@ -1,0 +1,1 @@
+{"languageJson": false, "gameId": "Princess-Wetsuit", "version": 1.0, "language": "zh", "domainAllowed": [], "id": "gameCanvas", "preloader": "flax.Preloader", "frameRate": 60, "height": 600, "width": 800, "rotateImg": "", "loading": "", "project_type": "javascript", "frameWork": "cocos", "debugMode": 1, "renderMode": 0, "showFPS": false, "landscape": false}

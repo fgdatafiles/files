@@ -1,0 +1,42 @@
+﻿{"frames": {
+"obj_book_green0000":
+{
+	"frame": {"x":0,"y":0,"w":117,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":66},
+	"sourceSize": {"w":117,"h":66}
+},
+"obj_book_green0001":
+{
+	"frame": {"x":0,"y":67,"w":117,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":117,"h":66},
+	"sourceSize": {"w":117,"h":66}
+},
+"obj_book_green0002":
+{
+	"frame": {"x":0,"y":125,"w":106,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":117,"h":66},
+	"sourceSize": {"w":117,"h":66}
+},
+"obj_book_green0003":
+{
+	"frame": {"x":0,"y":173,"w":71,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":19,"w":117,"h":66},
+	"sourceSize": {"w":117,"h":66}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "BookGreenSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1"
+}
+}

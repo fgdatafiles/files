@@ -1,0 +1,26 @@
+{
+	"help": {
+		"ants": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] or more pupas in a row to create a queen ant.\nSwap a queen ant with a bug to clear all of its kind."],
+		"butterflies": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] chrysalises in a row to create a special butterfly.\nSwap a special butterfly with a bug to clear all of its kind."],
+		"spiderweb": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] or more spiders in a row to create a hungry spider.\nSwap a hungry spider with a bug to clear all of its kind."],
+		"night": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] or more fireflies in a row to create a\nglow burst, which will remove all bugs around it."],
+		"wood": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] worker termites in a row to create a soldier termite.\nSwap a soldier termite with a bug to clear all of its kind."],
+		"garden": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] ladybugs in a row to create a\nhungry ladybug, which will eat all the aphids."],
+		"swamp": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] or more dragonflies in a row\nto clear all mosquitoes in its path."],
+		"desert": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] scorpions in a row to create an angry scorpion\nwhich will spin and sting, clearing all bugs in its path."],
+		"prairie": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] grasshoppers in a row to create a jumping\ngrasshopper, which remove all bugs around it when it lands."],
+		"bees": ["Select 2 bugs beside each other to swap them.\nMatch 3 or more bugs in a row to clear them.", "Match [#] or more pupas in a row to create a queen bee.\nSwap a queen bee with a bug to clear all of its kind."]
+	},
+	"facts": {
+		"ants": ["An ant can carry 50 times its body weight. (That's like a kid carrying a car!)", "Ants have two stomachs.", "Some ants lick each other to protect against diseases."],
+		"butterflies": ["Butterflies taste food with their feet.", "The world's tiniest butterfly has a wingspan smaller than a dime.", "Caterpillars have mouths, but butterflies don't."],
+		"spiderweb": ["Outside, you are rarely more than six feet away from a spider.", "Many ancient physicians used spiderwebs as bandages.", "Some spiders' brains extend into their legs."],
+		"night": ["Fireflies can glow yellow, green, or orange.", "In late spring, thousands of fireflies flash in unison each night for two weeks in Tennessee's Great Smoky Mountains National Park.", "Some frogs glow when they eat fireflies."],
+		"wood": ["Old termites will explode to protect their nests.", "The world's termites outweigh the world's people.", "Raw termites taste like pineapple."],
+		"garden": ["Ladybugs squirt smelly liquid from their knees when they get scared.", "In Colorado, wet, warm weather brings ladybugs by the millions. Where they gather, they turn trees, plants, and even houses bright red.", "Ladybugs might play dead when threatened."],
+		"swamp": ["300 million years ago, dragonflies had wingspans as wide as three frisbees.", "Dragonflies can see in all directions at once.", "African lions catch about 25 percent of the prey they chase. Dragonflies catch 95 percent."],
+		"desert": ["Scorpions glow under black light.", "Some ancient Greeks and Romans believed that smelling basil would cause scorpions to grow in their brains.", "Skewered scorpions—deep-fried and sprinkled with spices—are considered a delicacy in China."],
+		"prairie": ["Some grasshoppers are pink.", "If grasshoppers were the size of people, they could leap the length of a basketball court.", "Rainbow-colored grasshoppers live in the rain forests of Peru."],
+		"bees": ["A queen bee can lay 2,000 eggs a day in the spring.", "Bees visit about five million flowers to make one average-size jar of honey.", "Honeybees can be trained to detect explosives."]
+	}
+}

@@ -1,0 +1,39 @@
+{"frames": {
+
+"try again button0001.png":
+{
+	"frame": {"x":0,"y":0,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"try again button0002.png":
+{
+	"frame": {"x":0,"y":38,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"try again button0003.png":
+{
+	"frame": {"x":0,"y":76,"w":178,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":38},
+	"sourceSize": {"w":178,"h":38},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btn_try_again.png",
+	"format": "RGBA8888",
+	"size": {"w":178,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ce74eda81a46ed2332a053333a560bac:eca6f9950dffa6e7aec79e5b2b23b6c9:f419504a53e245bb8d78e2d5b6ec2754$"
+}
+}

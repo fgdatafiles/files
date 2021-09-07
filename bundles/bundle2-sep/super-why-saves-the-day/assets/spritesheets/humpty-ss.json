@@ -1,0 +1,50 @@
+{
+
+"images": [
+    "assets/spritesheets/humpty-ss.png"
+],
+
+"frames": [
+    [1, 1, 1428, 267, 0, 0, 0],
+    [1, 270, 1427, 267, 0, 0, 0],
+    [1431, 1, 445, 360, 0, 0, -109],
+    [1, 539, 714, 221, 0, 0, 0],
+    [1, 762, 689, 186, 0, 0, 0],
+    [717, 539, 781, 132, 0, 0, 0],
+    [717, 673, 561, 102, 0, 0, 0],
+    [1430, 363, 295, 154, 0, 0, 0],
+    [692, 777, 281, 159, 0, 0, 0],
+    [975, 777, 267, 160, 0, 0, 0],
+    [1500, 519, 281, 179, 0, 0, 0],
+    [1280, 673, 214, 76, 0, 0, 0],
+    [1496, 700, 190, 68, 0, 0, 0],
+    [1280, 751, 179, 181, 0, 0, 0],
+    [1461, 770, 151, 164, 0, -250, 0],
+    [1688, 700, 177, 216, 0, 0, 0]
+],
+
+"animations": {
+    "bg_ground": [0],
+    "bg_sky": [1],
+    "characterEnd": [2],
+    "mg_castle": [3],
+    "bg_hill1": [4],
+    "bg_hill2": [5],
+    "bg_hill3": [6],
+    "bg_cloud1": [7],
+    "bg_cloud2": [8],
+    "bg_cloud3": [9],
+    "mg_keep": [10],
+    "mg_humptywall": [11],
+    "mg_cart": [12],
+    "bg_sun": [13],
+    "characterStart": [14],
+    "bg_castle": [15]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:a50de7fde1767835e314b1160db8ea8c:65a291c040bbf138abb5dd8de421b872:4fd4aaddda09de91fc9ca788581071d5$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

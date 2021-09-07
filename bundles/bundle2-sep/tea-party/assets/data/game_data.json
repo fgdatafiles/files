@@ -1,0 +1,24 @@
+{
+  "debug": {
+    "on": false,
+    "startScene": "intro"
+  },
+  "startScene": "test_scene",
+  "scenes": [
+    {
+      "id": "test_scene",
+      "config": "assets/data/scenes/test_scene.json",
+      "name": "Test Scene"
+    },
+    {
+      "id": "setup_scene",
+      "config": "assets/data/scenes/setup_scene.json",
+      "name": "Setup Scene"
+    },
+    {
+      "id": "party_scene",
+      "config": "assets/data/scenes/party_scene.json",
+      "name": "Party Scene"
+    }
+  ]
+}

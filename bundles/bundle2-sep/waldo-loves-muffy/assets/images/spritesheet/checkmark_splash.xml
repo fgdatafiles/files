@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:40b0a162e734f24be0354a931bfb471a:9a33bf96bd78c34675a066f6f2fb8025:3f17574d08c4a39b65bce125c729a9c3$ -->
+<TextureAtlas imagePath="checkmark_splash.png">
+    <SubTexture name="checkmark_splash_01" x="713" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_02" x="535" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_03" x="357" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_04" x="179" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_05" x="179" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_06" x="1" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_07" x="1" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_08" x="1" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_09" x="1" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_10" x="1" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_11" x="1" y="1" width="177" height="114"/>
+    <SubTexture name="checkmark_splash_12" x="1" y="1" width="177" height="114"/>
+</TextureAtlas>

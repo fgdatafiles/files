@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "SpinnerTryNewFoods.png"
+],
+
+"frames": [
+    [2, 2, 166, 212, 0, -4, -2],
+    [170, 2, 164, 145, 0, -7, -2],
+    [170, 149, 152, 97, 0, -1, 0]
+],
+
+"animations": {
+    "pepper": [0],
+    "broccoli": [1],
+    "tomato": [2]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:a0972b20f4d22b0f2effe3f8a83b50f9:8f52b200f3e501d6f59fc5e85c2d8ac8:9e0bc2f2673aa60a0785f3ca7e8aa676$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

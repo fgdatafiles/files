@@ -1,0 +1,56 @@
+{
+
+"images": [
+    "assets/spritesheets/frog-ss.png"
+],
+
+"frames": [
+    [1, 1, 1427, 269, 0, 0, 0],
+    [1, 272, 1427, 265, 0, 0, 0],
+    [1, 539, 707, 249, 0, 0, 0],
+    [1430, 1, 390, 236, 0, 0, 0],
+    [1430, 239, 313, 286, 0, 0, 0],
+    [1745, 239, 214, 321, 0, -1, 0],
+    [1, 790, 466, 97, 0, 0, 0],
+    [710, 539, 458, 54, 0, 0, 0],
+    [710, 595, 297, 177, 0, 0, 0],
+    [1, 889, 368, 91, 0, 0, 0],
+    [1009, 595, 215, 321, 0, 0, 0],
+    [1226, 539, 249, 287, 0, 0, 0],
+    [1477, 527, 255, 266, 0, 0, 0],
+    [1734, 562, 158, 280, 0, 0, 0],
+    [1226, 828, 315, 132, 0, 0, 0],
+    [1543, 795, 189, 168, 0, 0, 0],
+    [469, 790, 197, 151, 0, 0, 0],
+    [1734, 844, 181, 99, 0, 0, 0],
+    [710, 774, 192, 171, 0, 0, 0]
+],
+
+"animations": {
+    "bg_sky": [0],
+    "bg_ground": [1],
+    "bg_mountains": [2],
+    "mg_castle": [3],
+    "fg_hill": [4],
+    "characterStart": [5],
+    "mg_shrubbery": [6],
+    "mg_hill1": [7],
+    "bg_cloud2": [8],
+    "mg_hill2": [9],
+    "characterEnd": [10],
+    "mg_trees1": [11],
+    "mg_trees3": [12],
+    "fg_tree": [13],
+    "fg_gate": [14],
+    "mg_trees2": [15],
+    "mg_frog": [16],
+    "bg_cloud1": [17],
+    "bg_sun": [18]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:e3cc800ca4653f57c6b9551af2c640c4:946d2f716b86318cdd5ca8302e049bb4:48b1da93272394507c3ec36d9422ddc1$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

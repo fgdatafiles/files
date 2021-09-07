@@ -1,0 +1,36 @@
+{"frames": {
+
+"rotate-arrow-default.png":
+{
+	"frame": {"x":3,"y":3,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+},
+"rotate-arrow-hover.png":
+{
+	"frame": {"x":99,"y":3,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+},
+"rotate-arrow-pressed.png":
+{
+	"frame": {"x":195,"y":3,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "RotateButton.png",
+	"format": "RGBA8888",
+	"size": {"w":291,"h":99},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b2cf76ddb19c838dae2a227bc44c0e42:1f4dd7014b8d82f492f3d8ac7ec9cf44:1815af0f1b4845e777dc546554a1be16$"
+}
+}

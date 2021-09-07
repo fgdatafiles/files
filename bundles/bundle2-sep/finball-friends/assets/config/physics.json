@@ -1,0 +1,372 @@
+{
+	"clam": {
+		"spriteRegX": 275.947,
+		"spriteRegY": 201,
+		"fixtures": [
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "POLYGON",
+				"polygons": [
+					[ [0.052999999999997272, 39], [-60.947000000000003, 17], [-44.947000000000003, -16], [-0.94700000000000273, -40], [42.052999999999997, -18], [59.052999999999997, 20] ]
+				]
+			}
+		]
+	},
+	"toob": {
+		"spriteRegX": 276.05099999999999,
+		"spriteRegY": 200.09899999999999,
+		"fixtures": [
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "POLYGON",
+				"polygons": [
+					[ [42.949000000000012, -19.09899999999999], [59.949000000000012, 26.90100000000001], [-56.050999999999988, 18.90100000000001], [-33.050999999999988, -29.09899999999999] ]
+				]
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "toob-hitArea",
+				"fixtureType": "CIRCLE",
+				"center": [4.949 ,-36.099],
+				"radius": 34.000
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-1",
+				"fixtureType": "CIRCLE",
+				"center": [45.694 ,-80.248],
+				"radius": 34.000
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-2",
+				"fixtureType": "CIRCLE",
+				"center": [74.460 ,-127.865],
+				"radius": 40.012
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-3",
+				"fixtureType": "CIRCLE",
+				"center": [46.885 ,-161.950],
+				"radius": 32.000
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-4",
+				"fixtureType": "CIRCLE",
+				"center": [11.885 ,-147.950],
+				"radius": 29.017
+			}
+		]
+	},
+	"fish": {
+		"spriteRegX": 275,
+		"spriteRegY": 200.09899999999999,
+		"fixtures": [
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [-164.000 ,1.901],
+				"radius": 14.000
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [-88.000 ,-22.099],
+				"radius": 14.036
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [-48.000 ,-50.099],
+				"radius": 21.024
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [-80.000 ,55.901],
+				"radius": 19.105
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [25.000 ,-43.099],
+				"radius": 15.000
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [55.000 ,-26.099],
+				"radius": 14.000
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [18.000 ,10.901],
+				"radius": 12.000
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [45.000 ,59.901],
+				"radius": 15.000
+			} ,
+			{
+				"density": 1,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [161.000 ,1.901],
+				"radius": 10.000
+			}
+		]
+	},
+	"coin": {
+		"spriteRegX": 97,
+		"spriteRegY": 96.073000000000008,
+		"fixtures": [
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 4,
+				"maskBits": 65534,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [1.000 ,-1.073],
+				"radius": 71.113
+			}
+		]
+	},
+	"pebble": {
+		"spriteRegX": 28,
+		"spriteRegY": 27.986999999999998,
+		"fixtures": [
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65531,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [0.000 ,1.013],
+				"radius": 19.000
+			}
+		]
+	},
+	"bubbles": {
+		"spriteRegX": 55,
+		"spriteRegY": 32.003999999999998,
+		"fixtures": [
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 2,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "CIRCLE",
+				"center": [-1.000 ,-0.004],
+				"radius": 35.128
+			}
+		]
+	},
+	"toob-top": {
+		"spriteRegX": 276,
+		"spriteRegY": 199.90299999999999,
+		"fixtures": [
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": false,
+				"userData": "",
+				"fixtureType": "POLYGON",
+				"polygons": [
+					[ [-29, 29.097000000000008], [-54, -17.902999999999992], [56, -28.902999999999992], [40, 25.097000000000008] ]
+				]
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "toob-hitArea",
+				"fixtureType": "CIRCLE",
+				"center": [6.000 ,30.097],
+				"radius": 32.000
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-1",
+				"fixtureType": "CIRCLE",
+				"center": [-32.043 ,74.227],
+				"radius": 32.000
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-2",
+				"fixtureType": "CIRCLE",
+				"center": [-77.087 ,118.575],
+				"radius": 36.000
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-3",
+				"fixtureType": "CIRCLE",
+				"center": [-55.870 ,162.532],
+				"radius": 36.000
+			} ,
+			{
+				"density": 2,
+				"friction": 0,
+				"restitution": 0,
+				"categoryBits": 1,
+				"maskBits": 65535,
+				"groupIndex": 0,
+				"isSensor": true,
+				"userData": "eel-4",
+				"fixtureType": "CIRCLE",
+				"center": [-22.870 ,185.532],
+				"radius": 30.000
+			}
+		]
+	}
+}

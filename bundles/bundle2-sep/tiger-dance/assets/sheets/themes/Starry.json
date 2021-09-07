@@ -1,0 +1,29 @@
+{
+
+"images": [
+    "./assets/sheets/themes/Starry.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 994, 690, 0, -5, 0],
+    [1, 693, 685, 324, 0, -11, 0],
+    [688, 693, 174, 719, 0, -6, 0],
+    [1, 1019, 640, 393, 0, 0, 0],
+    [1, 1414, 442, 362, 0, -56, 0]
+],
+
+"animations": {
+    "Starry_BigMoon_01": { "frames": [0] },
+    "Starry_Cloud_02": { "frames": [1] },
+    "Starry_Star_01": { "frames": [2] },
+    "Starry_Cloud_01": { "frames": [3] },
+    "Starry_Moon_01": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:f7e78a2811a5e3a74e79f8fb21997011:c3ecab3deff5fa75299b3be488545c68:ad3b10126c1e27210dbb4ea98e3779cf$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

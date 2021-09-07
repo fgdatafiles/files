@@ -1,0 +1,179 @@
+﻿{"frames": {
+
+"animScintillement0000":
+{
+	"frame": {"x":0,"y":0,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":89,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0001":
+{
+	"frame": {"x":30,"y":0,"w":41,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":80,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0002":
+{
+	"frame": {"x":71,"y":0,"w":57,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":80,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0003":
+{
+	"frame": {"x":128,"y":0,"w":77,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":71,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0004":
+{
+	"frame": {"x":205,"y":0,"w":78,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":57,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0005":
+{
+	"frame": {"x":283,"y":0,"w":79,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":57,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0006":
+{
+	"frame": {"x":362,"y":0,"w":133,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":52,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0007":
+{
+	"frame": {"x":0,"y":109,"w":100,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":50,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0008":
+{
+	"frame": {"x":100,"y":109,"w":134,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":23,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0009":
+{
+	"frame": {"x":234,"y":109,"w":160,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":35,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0010":
+{
+	"frame": {"x":0,"y":272,"w":182,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":27,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0011":
+{
+	"frame": {"x":182,"y":272,"w":172,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0012":
+{
+	"frame": {"x":354,"y":272,"w":150,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":14,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0013":
+{
+	"frame": {"x":0,"y":480,"w":248,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0014":
+{
+	"frame": {"x":248,"y":480,"w":211,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":21,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0015":
+{
+	"frame": {"x":0,"y":685,"w":171,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":37,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0016":
+{
+	"frame": {"x":171,"y":685,"w":130,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":53,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0017":
+{
+	"frame": {"x":301,"y":685,"w":91,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":68,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0018":
+{
+	"frame": {"x":392,"y":685,"w":55,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":81,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0019":
+{
+	"frame": {"x":0,"y":0,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":110,"y":89,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+},
+"animScintillement0020":
+{
+	"frame": {"x":447,"y":685,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":124,"y":104,"w":248,"h":211},
+	"sourceSize": {"w":248,"h":211}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "scint-1.png",
+	"format": "RGB8",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

@@ -1,0 +1,8 @@
+{
+	"colors":{
+		"star": ["yellow", "orange", "red"],
+		"rock": ["lightpink", "pink", "purple"],
+		"urchin": ["lightpurple", "purple", "darkpurple"],
+		"shell": ["red", "lightpink", "pink"]
+	}	
+}

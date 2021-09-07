@@ -1,0 +1,32 @@
+{
+
+"images": [
+    "assets/images/loader/sprites.png"
+],
+
+"frames": [
+    [2, 2, 1024, 490, 0, 0, -235],
+    [1028, 2, 971, 656, 0, -53, 0],
+    [2, 494, 1024, 475, 0, 0, 0],
+    [2, 971, 451, 768, 0, 0, 0],
+    [2, 1741, 63, 66, 0, 0, 0],
+    [455, 971, 1024, 425, 0, 0, 0],
+    [455, 1398, 1023, 439, 0, -1, -329]
+],
+
+"animations": {
+    "left-1": [0],
+    "right-3": [1],
+    "right-1": [2],
+    "left-2": [3],
+    "pebble": [4],
+    "left-3": [5],
+    "right-2": [6]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:a6135c576c30472527b8cb61d8a0de42:eed53d99af34dd48af212dfd5fee80cc:1eabdf11f75e3a4fe3147baf7b5be24b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

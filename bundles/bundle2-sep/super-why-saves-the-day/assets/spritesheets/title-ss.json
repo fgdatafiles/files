@@ -1,0 +1,42 @@
+{
+
+"images": [
+    "assets/spritesheets/title-ss.png"
+],
+
+"frames": [
+    [1, 1, 929, 930, 0, -177, -154],
+    [1, 933, 82, 89, 0, -3, -8],
+    [85, 933, 251, 85, 0, 0, 0],
+    [338, 933, 365, 66, 0, 0, -3],
+    [932, 1, 140, 160, 0, -17, -22],
+    [932, 163, 138, 168, 0, -17, -22],
+    [932, 333, 131, 126, 0, -10, -15],
+    [932, 461, 120, 125, 0, -9, -14],
+    [932, 588, 117, 119, 0, -8, -13],
+    [932, 709, 95, 120, 0, -7, -13],
+    [932, 831, 85, 148, 0, -15, -20],
+    [1019, 831, 74, 93, 0, -2, -8]
+],
+
+"animations": {
+    "home_burst": [0],
+    "txt_H": [1],
+    "play_button": [2],
+    "txt_superwhys": [3],
+    "txt_D": [4],
+    "txt_S": [5],
+    "txt_A": [6],
+    "txt_V": [7],
+    "txt_Y": [8],
+    "txt_E": [9],
+    "txt_exclamation": [10],
+    "txt_T": [11]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ea1fd2b9a26b4ab66cd1fb738edd615b:daba2c5537e41e282c14394a215cb473:407781ccc288222b9fbaaf86c639ca2f$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

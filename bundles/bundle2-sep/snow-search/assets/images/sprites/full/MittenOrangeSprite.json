@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn130000":
+{
+	"frame": {"x":0,"y":0,"w":92,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":46},
+	"sourceSize": {"w":92,"h":46}
+},
+"sn130001":
+{
+	"frame": {"x":0,"y":47,"w":92,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":92,"h":46},
+	"sourceSize": {"w":92,"h":46}
+},
+"sn130002":
+{
+	"frame": {"x":0,"y":78,"w":77,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":92,"h":46},
+	"sourceSize": {"w":92,"h":46}
+},
+"sn130003":
+{
+	"frame": {"x":78,"y":78,"w":38,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":16,"w":92,"h":46},
+	"sourceSize": {"w":92,"h":46}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "MittenOrangeSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

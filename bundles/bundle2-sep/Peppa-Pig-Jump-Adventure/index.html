@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Peppa Pig Jump Adventure </title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no,target-densitydpi=device-dpi"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="true"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <script src="jquery-1.7.2.min.js"></script>
+
+</head>
+<body>
+<link rel="stylesheet" href="game.css" />
+<script src="MGFramework-2.0.0.js?v=15915"></script>
+<div style="position:relative;" id="gameDiv"></div>
+<script>var document_class = "Game";</script>
+<script src="launcher/egret_require.js"></script>
+<script src="launcher/egret_loader.js"></script>
+<script src="launcher/game-min.js"></script>
+<script>
+    MGF.instance.miniLogoUrl = "";
+    MGF.gamename = "Peppa Pig Jump Adventure";
+    MGF.nameid = "Peppa-Pig-Jump-Adventure";
+    MGF.gameWidth = 480;
+    MGF.gameHeight = 800;
+    MGF.instance.startup(MGF.gamename, MGF.nameid, false);
+</script>
+</body>
+</html>

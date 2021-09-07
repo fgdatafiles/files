@@ -1,0 +1,6 @@
+[
+	{"type": "sound", "id": "sfx_click", "path": "./audio/sfx/sfx_click.{ogg,mp3}", "context":"sfx", "singleInstance": true},
+    {"type": "sound", "id": "wg_game_intro1", "path": "./audio/vo/wg_game_intro1.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_game_intro2", "path": "./audio/vo/wg_game_intro2.{ogg,mp3}", "context":"vo"},
+    {"type": "sound", "id": "wg_game_intro3", "path": "./audio/vo/wg_game_intro3.{ogg,mp3}", "context":"vo"}
+]

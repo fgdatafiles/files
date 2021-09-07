@@ -1,0 +1,125 @@
+
+Intro_MotionExport.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1City
+  rotate: false
+  xy: 2, 1504
+  size: 962, 542
+  orig: 962, 542
+  offset: 0, 0
+  index: -1
+2CircleTop
+  rotate: false
+  xy: 940, 877
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+2Column
+  rotate: false
+  xy: 476, 158
+  size: 71, 171
+  orig: 71, 171
+  offset: 0, 0
+  index: -1
+2LBlock
+  rotate: false
+  xy: 1750, 1789
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+2LTrunk
+  rotate: true
+  xy: 600, 581
+  size: 197, 157
+  orig: 197, 157
+  offset: 0, 0
+  index: -1
+2RectangleTop
+  rotate: false
+  xy: 762, 799
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+2Square
+  rotate: false
+  xy: 600, 433
+  size: 151, 146
+  orig: 151, 146
+  offset: 0, 0
+  index: -1
+2Treehouse
+  rotate: true
+  xy: 762, 977
+  size: 525, 278
+  orig: 525, 278
+  offset: 0, 0
+  index: -1
+2TreehouseTop
+  rotate: false
+  xy: 1579, 1917
+  size: 388, 129
+  orig: 388, 129
+  offset: 0, 0
+  index: -1
+2Triangle
+  rotate: false
+  xy: 1579, 1746
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+2Trunk
+  rotate: true
+  xy: 2, 2
+  size: 327, 472
+  orig: 327, 472
+  offset: 0, 0
+  index: -1
+3FrontPlank
+  rotate: false
+  xy: 1969, 1962
+  size: 25, 84
+  orig: 25, 84
+  offset: 0, 0
+  index: -1
+3Tree
+  rotate: false
+  xy: 2, 331
+  size: 596, 447
+  orig: 596, 447
+  offset: 0, 0
+  index: -1
+3Umbrella
+  rotate: false
+  xy: 1579, 1607
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+4Sara
+  rotate: true
+  xy: 966, 1603
+  size: 443, 611
+  orig: 443, 611
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 966, 1527
+  size: 130, 74
+  orig: 130, 74
+  offset: 0, 0
+  index: -1
+Polar
+  rotate: false
+  xy: 2, 780
+  size: 758, 722
+  orig: 758, 722
+  offset: 0, 0
+  index: -1

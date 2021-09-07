@@ -1,0 +1,141 @@
+{
+  "manifest": [
+    {
+      "src": "assets/audio/vo/party_elaina.mp3",
+      "data": {
+        "audioSprite": [
+          {
+            "id": "Elaina_apple",
+            "startTime": 0,
+            "duration": 322.3582766439909
+          },
+          {
+            "id": "Elaina_berry",
+            "startTime": 2000,
+            "duration": 288.41269841269843
+          },
+          {
+            "id": "Elaina_cookie",
+            "startTime": 4000,
+            "duration": 314.5351473922906
+          },
+          {
+            "id": "Elaina_crunch",
+            "startTime": 6000,
+            "duration": 1385.5555555555554
+          },
+          {
+            "id": "Elaina_favorite",
+            "startTime": 9000,
+            "duration": 3854.444444444445
+          },
+          {
+            "id": "Elaina_Greeting_v01",
+            "startTime": 14000,
+            "duration": 399.72789115646276
+          },
+          {
+            "id": "Elaina_moresnacks_v01",
+            "startTime": 16000,
+            "duration": 1446.5986394557824
+          },
+          {
+            "id": "Elaina_moresnacks_v02",
+            "startTime": 19000,
+            "duration": 1701.2018140589582
+          },
+          {
+            "id": "Elaina_moresnacks_v03",
+            "startTime": 22000,
+            "duration": 3632.086167800452
+          },
+          {
+            "id": "Elaina_moretea_v01",
+            "startTime": 27000,
+            "duration": 1655.4195011337854
+          },
+          {
+            "id": "Elaina_moretea_v02",
+            "startTime": 30000,
+            "duration": 5669.637188208619
+          },
+          {
+            "id": "Elaina_moretea_v03",
+            "startTime": 37000,
+            "duration": 1777.3922902494305
+          },
+          {
+            "id": "Elaina_notdoneyet_v01",
+            "startTime": 40000,
+            "duration": 2208.412698412701
+          },
+          {
+            "id": "Elaina_notdoneyet_v02",
+            "startTime": 44000,
+            "duration": 1959.274376417234
+          },
+          {
+            "id": "Elaina_sip",
+            "startTime": 47000,
+            "duration": 654.1269841269823
+          },
+          {
+            "id": "Elaina_talk_v01",
+            "startTime": 49000,
+            "duration": 3893.3106575963734
+          },
+          {
+            "id": "Elaina_talk_v02",
+            "startTime": 54000,
+            "duration": 1241.9954648526073
+          },
+          {
+            "id": "Elaina_talk_v03",
+            "startTime": 57000,
+            "duration": 1384.7392290249445
+          },
+          {
+            "id": "Elaina_talk_v04",
+            "startTime": 60000,
+            "duration": 2430.453514739227
+          },
+          {
+            "id": "Elaina_talk_v05",
+            "startTime": 64000,
+            "duration": 1829.6371882086219
+          },
+          {
+            "id": "Elaina_thankyou_v01",
+            "startTime": 67000,
+            "duration": 1494.1950113378653
+          },
+          {
+            "id": "Elaina_thankyou_v02",
+            "startTime": 70000,
+            "duration": 394.9659863945527
+          },
+          {
+            "id": "Elaina_thankyou_v03",
+            "startTime": 72000,
+            "duration": 863.1065759637124
+          },
+          {
+            "id": "Elaina_thankyou_v04",
+            "startTime": 74000,
+            "duration": 941.4739229024889
+          },
+          {
+            "id": "Elaina_youareout",
+            "startTime": 76000,
+            "duration": 1456.1224489795848
+          },
+          {
+            "id": "Elaina_youareout2",
+            "startTime": 79000,
+            "duration": 2300.7709750566933
+          }
+        ]
+      }
+    }
+  ]
+}

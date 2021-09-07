@@ -1,0 +1,26 @@
+{
+
+"images": [
+    "assets/images/curtain/sprites.png"
+],
+
+"frames": [
+    [2, 2, 1426, 525, 0, 0, 0],
+    [2, 529, 1426, 426, 0, 0, -342],
+    [1430, 2, 436, 134, 0, 0, 0],
+    [1430, 138, 351, 71, 0, 0, 0]
+],
+
+"animations": {
+    "top": [0],
+    "bottom": [1],
+    "cover": [2],
+    "bar": [3]
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:504eee77249172d1b47946bc2575a36a:56bdfc263e5ed66d3b2e02e73aaf155b:1eabdf11f75e3a4fe3147baf7b5be24b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

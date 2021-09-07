@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn100000":
+{
+	"frame": {"x":0,"y":0,"w":70,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":20},
+	"sourceSize": {"w":70,"h":20}
+},
+"sn100001":
+{
+	"frame": {"x":0,"y":21,"w":70,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":70,"h":20},
+	"sourceSize": {"w":70,"h":20}
+},
+"sn100002":
+{
+	"frame": {"x":0,"y":39,"w":70,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":70,"h":20},
+	"sourceSize": {"w":70,"h":20}
+},
+"sn100003":
+{
+	"frame": {"x":0,"y":54,"w":42,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":6,"w":70,"h":20},
+	"sourceSize": {"w":70,"h":20}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "StrawBlueSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1"
+}
+}

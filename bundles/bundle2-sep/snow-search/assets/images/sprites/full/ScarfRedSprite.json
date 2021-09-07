@@ -1,0 +1,42 @@
+﻿{"frames": {
+"sn10000":
+{
+	"frame": {"x":0,"y":0,"w":190,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":57},
+	"sourceSize": {"w":190,"h":57}
+},
+"sn10001":
+{
+	"frame": {"x":0,"y":58,"w":190,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":190,"h":57},
+	"sourceSize": {"w":190,"h":57}
+},
+"sn10002":
+{
+	"frame": {"x":0,"y":106,"w":186,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":190,"h":57},
+	"sourceSize": {"w":190,"h":57}
+},
+"sn10003":
+{
+	"frame": {"x":0,"y":154,"w":151,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":10,"w":190,"h":57},
+	"sourceSize": {"w":190,"h":57}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.1.0.96",
+	"image": "ScarfRedSheet.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1"
+}
+}

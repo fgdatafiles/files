@@ -1,0 +1,44 @@
+{"frames": {
+
+"bottom-gradient":
+{
+	"frame": {"x":2,"y":1705,"w":20,"h":308},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":308},
+	"sourceSize": {"w":20,"h":308}
+},
+"gameover-bg":
+{
+	"frame": {"x":2,"y":2,"w":640,"h":960},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":960},
+	"sourceSize": {"w":640,"h":960}
+},
+"question-bg":
+{
+	"frame": {"x":2,"y":964,"w":640,"h":739},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":739},
+	"sourceSize": {"w":640,"h":739}
+},
+"top-gradient":
+{
+	"frame": {"x":24,"y":1705,"w":20,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":179},
+	"sourceSize": {"w":20,"h":179}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "uncompressed-assets.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0833a1134eb2ceb096fb322f7bd4e64d:037d18f04faa9386276491db5814999c:d46e611a64f9094914a14854e39add1d$"
+}
+}
